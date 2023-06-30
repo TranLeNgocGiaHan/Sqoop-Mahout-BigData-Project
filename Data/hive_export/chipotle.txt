@@ -1,0 +1,4622 @@
+1	Chips and Fresh Tomato Salsa	1	$2.39 
+1	Izze	1	$3.39 
+1	Nantucket Nectar	1	$3.39 
+1	Chips and Tomatillo-Green Chili Salsa	1	$2.39 
+2	Chicken Bowl	2	$16.98 
+3	Chicken Bowl	1	$10.98 
+3	Side of Chips	1	$1.69 
+4	Steak Burrito	1	$11.75 
+4	Steak Soft Tacos	1	$9.25 
+5	Steak Burrito	1	$9.25 
+5	Chips and Guacamole	1	$4.45 
+6	Chicken Crispy Tacos	1	$8.75 
+6	Chicken Soft Tacos	1	$8.75 
+7	Chicken Bowl	1	$11.25 
+7	Chips and Guacamole	1	$4.45 
+8	Chips and Tomatillo-Green Chili Salsa	1	$2.39 
+8	Chicken Burrito	1	$8.49 
+9	Chicken Burrito	1	$8.49 
+9	Canned Soda	2	$2.18 
+10	Chicken Bowl	1	$8.75 
+10	Chips and Guacamole	1	$4.45 
+11	Barbacoa Burrito	1	$8.99 
+11	Nantucket Nectar	1	$3.39 
+12	Chicken Burrito	1	$10.98 
+12	Izze	1	$3.39 
+13	Chips and Fresh Tomato Salsa	1	$2.39 
+13	Chicken Bowl	1	$8.49 
+14	Carnitas Burrito	1	$8.99 
+14	Canned Soda	1	$1.09 
+15	Chicken Burrito	1	$8.49 
+15	Chips and Tomatillo-Green Chili Salsa	1	$2.39 
+16	Steak Burrito	1	$8.99 
+16	Side of Chips	1	$1.69 
+17	Carnitas Bowl	1	$8.99 
+17	Bottled Water	1	$1.09 
+18	Chicken Soft Tacos	1	$8.75 
+18	Chicken Soft Tacos	1	$8.75 
+18	Chips and Guacamole	1	$4.45 
+18	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+19	Barbacoa Bowl	1	$11.75 
+19	Chips	1	$2.15 
+20	Chips and Guacamole	1	$4.45 
+20	Chicken Bowl	1	$11.25 
+20	Steak Burrito	1	$11.75 
+20	Chicken Salad Bowl	1	$8.75 
+21	Chicken Burrito	1	$10.98 
+21	Steak Burrito	1	$8.99 
+21	Izze	1	$3.39 
+22	Steak Burrito	1	$8.99 
+22	Chips and Guacamole	1	$3.99 
+23	Steak Burrito	1	$8.99 
+23	Canned Soda	2	$2.18 
+24	Chicken Burrito	1	$10.98 
+24	Canned Soda	1	$1.09 
+25	Steak Bowl	1	$8.99 
+25	Chips and Fresh Tomato Salsa	1	$2.39 
+26	Barbacoa Soft Tacos	1	$9.25 
+26	Veggie Burrito	1	$11.25 
+27	Barbacoa Bowl	1	$11.75 
+27	Chips	1	$2.15 
+28	Chips and Guacamole	1	$4.45 
+28	Steak Soft Tacos	1	$9.25 
+28	Veggie Bowl	1	$11.25 
+28	Chicken Burrito	1	$8.75 
+29	Steak Burrito	1	$8.99 
+29	Steak Soft Tacos	1	$8.99 
+30	Izze	1	$3.39 
+30	Steak Burrito	1	$8.99 
+30	Chicken Burrito	1	$10.98 
+31	Steak Burrito	1	$8.99 
+31	Side of Chips	1	$1.69 
+32	Steak Burrito	1	$8.99 
+32	Chips and Guacamole	1	$3.99 
+33	Chicken Burrito	1	$8.75 
+33	Chips and Guacamole	1	$4.45 
+34	Chicken Soft Tacos	1	$8.75 
+34	Chicken Bowl	1	$8.75 
+34	Chips	1	$2.15 
+34	Chicken Bowl	1	$8.75 
+35	Chicken Soft Tacos	1	$11.25 
+35	Chips	1	$2.15 
+36	Barbacoa Burrito	1	$9.25 
+36	Chicken Burrito	1	$8.75 
+37	Chicken Burrito	1	$8.75 
+37	Steak Soft Tacos	1	$9.25 
+38	Veggie Bowl	1	$8.49 
+38	Steak Bowl	1	$8.99 
+38	Bottled Water	1	$1.09 
+39	Carnitas Burrito	1	$9.25 
+39	Chips and Fresh Tomato Salsa	1	$2.95 
+40	Steak Bowl	1	$11.75 
+40	Steak Bowl	1	$11.75 
+40	Steak Crispy Tacos	1	$9.25 
+41	Carnitas Burrito	1	$11.75 
+41	Chips and Guacamole	1	$4.45 
+42	Barbacoa Bowl	1	$9.25 
+42	Chips and Guacamole	1	$4.45 
+43	Carnitas Bowl	1	$11.75 
+43	Chicken Burrito	1	$8.75 
+44	Chicken Bowl	1	$8.75 
+44	Chips and Guacamole	1	$4.45 
+45	Steak Burrito	1	$8.99 
+45	Steak Bowl	1	$8.99 
+45	Chips and Guacamole	1	$3.99 
+46	Veggie Burrito	1	$8.49 
+46	Nantucket Nectar	1	$3.39 
+47	Steak Burrito	1	$8.99 
+47	Canned Soda	1	$1.09 
+48	Steak Burrito	1	$9.25 
+48	Chips and Guacamole	1	$4.45 
+49	Chicken Bowl	1	$8.75 
+49	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+49	Chips and Guacamole	1	$4.45 
+50	Chips and Tomatillo-Green Chili Salsa	1	$2.39 
+50	Chicken Burrito	1	$8.49 
+51	Barbacoa Bowl	1	$8.99 
+51	Chicken Burrito	1	$8.49 
+51	Canned Soda	1	$1.09 
+52	Steak Soft Tacos	1	$8.99 
+52	Chips and Guacamole	1	$3.99 
+53	Chicken Burrito	1	$8.75 
+53	Barbacoa Burrito	1	$9.25 
+53	Chips and Guacamole	1	$4.45 
+54	Chicken Bowl	1	$11.25 
+54	Chips and Guacamole	1	$4.45 
+55	Steak Burrito	1	$8.99 
+55	Canned Soda	1	$1.09 
+56	Barbacoa Bowl	1	$9.25 
+56	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+56	Chips and Guacamole	1	$4.45 
+57	Barbacoa Burrito	1	$11.75 
+57	Chips and Guacamole	1	$4.45 
+58	Chicken Burrito	1	$8.49 
+58	Chips and Tomatillo-Green Chili Salsa	1	$2.39 
+59	Chicken Burrito	1	$10.98 
+60	Chicken Salad Bowl	2	$22.50 
+61	Barbacoa Bowl	1	$11.75 
+61	Chips and Guacamole	1	$4.45 
+62	Chicken Bowl	1	$11.25 
+62	Chips and Guacamole	1	$4.45 
+63	Chicken Bowl	1	$11.25 
+63	Chips and Guacamole	1	$4.45 
+64	Chicken Bowl	1	$11.25 
+64	Veggie Bowl	1	$11.25 
+65	Barbacoa Burrito	1	$11.75 
+65	Carnitas Bowl	1	$9.25 
+65	Chips and Guacamole	1	$4.45 
+66	Steak Burrito	1	$11.48 
+67	Steak Burrito	2	$17.98 
+67	Side of Chips	1	$1.69 
+68	Chicken Burrito	2	$17.50 
+68	Chips and Guacamole	1	$4.45 
+69	Chicken Burrito	1	$8.49 
+69	Chips and Tomatillo-Green Chili Salsa	1	$2.39 
+70	Chicken Bowl	2	$17.50 
+70	Chips and Guacamole	1	$4.45 
+71	Chips and Guacamole	1	$4.45 
+71	Veggie Bowl	1	$11.25 
+71	Steak Burrito	1	$11.75 
+72	Chicken Burrito	1	$10.98 
+73	Chicken Bowl	1	$8.49 
+73	Chicken Burrito	1	$10.98 
+73	Canned Soda	2	$2.18 
+74	Carnitas Bowl	1	$11.48 
+74	Veggie Bowl	1	$8.49 
+74	Chips and Tomatillo-Green Chili Salsa	1	$2.39 
+75	Chips and Guacamole	1	$4.45 
+75	Chicken Burrito	1	$11.25 
+75	Barbacoa Crispy Tacos	1	$11.75 
+75	Chicken Burrito	1	$8.75 
+76	Chicken Burrito	1	$8.49 
+76	Canned Soda	2	$2.18 
+77	Chicken Burrito	1	$8.49 
+77	Nantucket Nectar	1	$3.39 
+78	Chicken Burrito	1	$8.49 
+78	Steak Soft Tacos	1	$8.99 
+79	Chicken Bowl	1	$10.98 
+80	Steak Burrito	1	$11.48 
+81	Chicken Burrito	1	$8.49 
+81	Canned Soda	1	$1.09 
+81	Canned Soda	1	$1.09 
+82	Barbacoa Soft Tacos	1	$9.25 
+82	Chicken Bowl	1	$8.75 
+82	Chips and Fresh Tomato Salsa	1	$2.95 
+83	Steak Soft Tacos	1	$9.25 
+83	Chips and Guacamole	1	$4.45 
+83	Veggie Salad Bowl	1	$11.25 
+84	Steak Bowl	1	$11.48 
+84	Chicken Burrito	1	$8.49 
+84	Chicken Burrito	1	$8.49 
+85	Steak Burrito	1	$8.99 
+85	Chips and Roasted Chili-Corn Salsa	1	$2.39 
+86	Veggie Bowl	1	$11.25 
+86	Chicken Bowl	1	$8.75 
+86	Chips and Fresh Tomato Salsa	1	$2.95 
+87	Canned Soda	1	$1.09 
+87	Steak Burrito	1	$8.99 
+88	Chicken Burrito	1	$8.49 
+88	Chips and Tomatillo-Green Chili Salsa	1	$2.39 
+89	Chicken Bowl	1	$10.98 
+89	Canned Soda	1	$1.09 
+89	Chips and Guacamole	1	$3.99 
+90	Chicken Burrito	1	$11.25 
+90	Chicken Burrito	1	$8.75 
+91	Chicken Burrito	1	$8.49 
+91	Nantucket Nectar	1	$3.39 
+92	Chicken Bowl	1	$8.75 
+92	Steak Bowl	1	$9.25 
+92	Chips	1	$2.15 
+93	Chicken Bowl	1	$11.25 
+93	Veggie Bowl	1	$11.25 
+93	Chicken Bowl	1	$11.25 
+93	Chips and Guacamole	1	$4.45 
+94	Chicken Salad Bowl	2	$22.50 
+95	Chips and Guacamole	1	$4.45 
+95	Steak Bowl	1	$11.75 
+96	Chicken Burrito	1	$8.75 
+96	Chicken Crispy Tacos	2	$17.50 
+96	Chicken Bowl	1	$8.75 
+97	Barbacoa Bowl	1	$9.25 
+97	Chicken Bowl	1	$8.75 
+97	Chips	1	$2.15 
+98	Barbacoa Burrito	1	$9.25 
+98	Chips	2	$4.30 
+98	Chicken Bowl	1	$8.75 
+99	Veggie Burrito	1	$11.25 
+99	Chips	1	$2.15 
+100	Steak Burrito	1	$8.99 
+100	Canned Soda	1	$1.09 
+101	Steak Burrito	1	$8.99 
+101	Chips and Guacamole	1	$3.99 
+102	Chicken Bowl	1	$8.75 
+102	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+102	Chips and Roasted Chili Corn Salsa	1	$2.95 
+103	Steak Burrito	1	$11.75 
+103	Chips and Tomatillo Green Chili Salsa	2	$5.90 
+103	Steak Burrito	1	$9.25 
+103	Carnitas Soft Tacos	1	$9.25 
+103	Steak Burrito	1	$11.75 
+104	Carnitas Burrito	1	$9.25 
+104	Chips and Fresh Tomato Salsa	1	$2.95 
+105	Chicken Burrito	2	$17.50 
+106	Chicken Burrito	1	$8.75 
+106	Steak Bowl	1	$9.25 
+107	Chicken Burrito	1	$10.98 
+108	Steak Burrito	1	$8.99 
+108	Canned Soda	1	$1.09 
+108	Canned Soda	1	$1.09 
+108	Canned Soda	1	$1.09 
+108	Barbacoa Burrito	1	$8.99 
+109	Chicken Salad	1	$10.98 
+109	Canned Soda	1	$1.09 
+110	Chicken Bowl	1	$8.75 
+110	Veggie Bowl	1	$8.75 
+110	Barbacoa Bowl	1	$9.25 
+110	Barbacoa Crispy Tacos	1	$9.25 
+111	Chicken Salad Bowl	1	$8.75 
+111	Chicken Bowl	1	$8.75 
+112	Steak Burrito	1	$8.99 
+112	Steak Bowl	1	$8.99 
+113	Steak Bowl	1	$8.99 
+113	Canned Soda	1	$1.09 
+114	Steak Bowl	1	$11.75 
+114	Canned Soft Drink	1	$1.25 
+115	Steak Burrito	1	$8.99 
+115	Chips and Fresh Tomato Salsa	1	$2.39 
+116	Steak Soft Tacos	1	$9.25 
+116	Chips and Fresh Tomato Salsa	1	$2.95 
+117	Barbacoa Soft Tacos	1	$8.99 
+117	Chips and Guacamole	1	$3.99 
+118	Chicken Burrito	1	$8.49 
+118	Chips and Tomatillo-Green Chili Salsa	1	$2.39 
+119	Chicken Burrito	1	$8.49 
+119	Chicken Burrito	1	$8.49 
+120	Chicken Burrito	1	$8.49 
+120	Side of Chips	1	$1.69 
+121	Chicken Burrito	1	$8.49 
+121	Chips and Guacamole	1	$3.99 
+122	Steak Soft Tacos	1	$8.99 
+122	Side of Chips	1	$1.69 
+122	Canned Soda	1	$1.09 
+123	Steak Salad Bowl	2	$23.78 
+124	Chicken Bowl	2	$17.50 
+124	Chips	1	$2.15 
+124	Chicken Bowl	1	$8.75 
+125	Steak Bowl	1	$9.25 
+125	Steak Bowl	1	$9.25 
+125	Veggie Bowl	1	$8.75 
+125	Chips and Guacamole	1	$4.45 
+126	Chicken Burrito	1	$8.75 
+126	Chicken Bowl	1	$11.25 
+127	Chicken Bowl	1	$11.25 
+127	Canned Soft Drink	1	$1.25 
+128	Steak Soft Tacos	1	$9.25 
+128	Chips and Guacamole	1	$4.45 
+128	Veggie Salad Bowl	1	$11.25 
+129	Steak Burrito	1	$11.75 
+129	Steak Burrito	1	$11.75 
+129	6 Pack Soft Drink	1	$6.49 
+130	Steak Soft Tacos	1	$8.99 
+130	Chips and Tomatillo-Red Chili Salsa	1	$2.39 
+131	Chicken Bowl	1	$8.49 
+131	Chips and Fresh Tomato Salsa	1	$2.39 
+132	Chicken Bowl	1	$11.25 
+132	Chicken Bowl	1	$8.75 
+132	Chips	1	$2.15 
+133	Steak Bowl	1	$8.99 
+133	Side of Chips	1	$1.69 
+134	Chicken Burrito	1	$8.75 
+134	Chicken Burrito	1	$11.25 
+134	Chips	1	$2.15 
+135	Chips and Guacamole	1	$4.45 
+135	Chicken Bowl	1	$8.75 
+136	Chicken Soft Tacos	1	$8.49 
+136	Steak Burrito	1	$8.99 
+137	Chicken Salad Bowl	2	$17.50 
+138	Chicken Burrito	1	$8.49 
+138	Canned Soda	1	$1.09 
+138	Bottled Water	1	$1.09 
+139	Chicken Bowl	1	$8.75 
+139	Canned Soft Drink	1	$1.25 
+139	Chips	1	$2.15 
+140	Steak Burrito	1	$11.08 
+141	Chicken Burrito	1	$8.49 
+141	Chicken Soft Tacos	1	$8.49 
+142	Steak Burrito	1	$8.99 
+142	Chips and Fresh Tomato Salsa	1	$2.39 
+143	Chicken Bowl	1	$8.75 
+143	Chips	1	$2.15 
+143	Bottled Water	1	$1.50 
+144	Chicken Burrito	1	$11.25 
+144	Chips	1	$2.15 
+145	Chicken Soft Tacos	1	$8.49 
+145	Chicken Soft Tacos	1	$8.49 
+146	Barbacoa Burrito	1	$11.75 
+146	Steak Burrito	1	$9.25 
+147	Steak Bowl	1	$11.75 
+147	Canned Soft Drink	1	$1.25 
+148	Chicken Burrito	1	$11.25 
+148	Chicken Burrito	1	$8.75 
+148	Chips and Guacamole	1	$4.45 
+148	6 Pack Soft Drink	1	$6.49 
+149	Steak Soft Tacos	1	$9.25 
+149	Chips and Fresh Tomato Salsa	1	$2.95 
+149	Chicken Soft Tacos	1	$11.25 
+149	Chips and Guacamole	1	$4.45 
+149	Canned Soft Drink	1	$1.25 
+149	Canned Soft Drink	1	$1.25 
+150	Chicken Bowl	1	$8.49 
+150	Chips and Tomatillo-Red Chili Salsa	1	$2.39 
+150	Canned Soda	2	$2.18 
+151	Chicken Burrito	1	$8.49 
+151	Canned Soda	2	$2.18 
+152	Steak Burrito	2	$22.16 
+153	Chicken Soft Tacos	2	$17.50 
+154	Chicken Burrito	1	$8.75 
+154	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+154	6 Pack Soft Drink	1	$6.49 
+155	Steak Burrito	1	$8.99 
+155	Izze	1	$3.39 
+155	Izze	1	$3.39 
+156	Steak Burrito	1	$8.99 
+156	Chicken Burrito	1	$8.49 
+157	Chicken Burrito	1	$11.25 
+157	Chips	1	$2.15 
+158	Chicken Crispy Tacos	1	$11.25 
+158	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+159	Chicken Burrito	1	$11.25 
+159	Canned Soft Drink	1	$1.25 
+160	Steak Burrito	1	$8.99 
+160	Canned Soda	1	$1.09 
+161	Chicken Bowl	1	$8.75 
+161	Chicken Burrito	1	$8.75 
+162	Carnitas Burrito	1	$9.25 
+162	Chips and Fresh Tomato Salsa	1	$2.95 
+163	Barbacoa Burrito	1	$11.75 
+163	Bottled Water	1	$1.50 
+164	Steak Burrito	1	$8.99 
+164	Canned Soda	1	$1.09 
+165	Chicken Bowl	1	$11.25 
+165	Canned Soft Drink	1	$1.25 
+165	Canned Soft Drink	1	$1.25 
+166	Chicken Burrito	1	$11.25 
+166	Steak Burrito	1	$11.75 
+166	Chips	1	$2.15 
+167	Barbacoa Burrito	1	$8.99 
+167	Side of Chips	1	$1.69 
+168	Steak Bowl	1	$11.75 
+168	6 Pack Soft Drink	1	$6.49 
+169	Chicken Burrito	1	$8.75 
+169	Steak Soft Tacos	1	$9.25 
+170	Chicken Burrito	1	$11.25 
+170	Chips and Guacamole	1	$4.45 
+170	Canned Soft Drink	1	$1.25 
+171	Veggie Burrito	1	$11.25 
+171	Chips and Guacamole	1	$4.45 
+172	Chicken Burrito	1	$8.49 
+172	Barbacoa Burrito	1	$8.99 
+173	Chicken Burrito	1	$8.49 
+173	Carnitas Bowl	1	$8.99 
+174	Chicken Burrito	1	$11.25 
+174	Canned Soft Drink	1	$1.25 
+175	Steak Burrito	1	$11.75 
+175	Canned Soft Drink	1	$1.25 
+176	Steak Burrito	1	$11.75 
+176	Carnitas Soft Tacos	1	$9.25 
+176	Chips and Guacamole	1	$4.45 
+177	Chicken Bowl	1	$11.25 
+177	Chips	1	$2.15 
+178	Chicken Bowl	3	$32.94 
+179	Canned Soft Drink	1	$1.25 
+179	Chicken Bowl	1	$11.25 
+180	Steak Bowl	1	$11.48 
+180	Side of Chips	1	$1.69 
+180	Canned Soda	1	$1.09 
+181	Chicken Bowl	2	$17.50 
+182	Chips and Guacamole	1	$4.45 
+182	6 Pack Soft Drink	1	$6.49 
+182	Barbacoa Bowl	1	$9.25 
+183	Chicken Soft Tacos	1	$8.75 
+183	Steak Burrito	1	$9.25 
+184	Carnitas Burrito	1	$9.25 
+184	Chicken Bowl	1	$8.75 
+184	Chicken Burrito	1	$8.75 
+184	Chips	1	$2.15 
+184	Chips and Fresh Tomato Salsa	1	$2.95 
+185	Chicken Soft Tacos	2	$17.50 
+186	Chicken Soft Tacos	1	$10.98 
+186	Steak Bowl	1	$11.48 
+186	Barbacoa Crispy Tacos	1	$11.48 
+186	Izze	1	$3.39 
+187	Steak Burrito	1	$8.99 
+187	Side of Chips	1	$1.69 
+188	Carnitas Bowl	1	$8.99 
+188	Canned Soda	1	$1.09 
+189	Veggie Burrito	1	$10.98 
+189	Nantucket Nectar	1	$3.39 
+190	Steak Crispy Tacos	1	$8.99 
+190	Canned Soda	1	$1.09 
+191	Steak Burrito	1	$9.25 
+191	Chicken Soft Tacos	1	$8.75 
+192	Chicken Burrito	1	$11.25 
+192	Chips and Guacamole	1	$4.45 
+192	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+192	Steak Bowl	1	$9.25 
+193	Bowl	3	$22.20 
+194	Chicken Burrito	1	$8.49 
+194	Steak Burrito	1	$8.99 
+195	Chicken Burrito	1	$8.75 
+195	Chicken Bowl	1	$8.75 
+195	Barbacoa Burrito	1	$11.75 
+195	Chicken Burrito	1	$8.75 
+195	Chicken Burrito	1	$11.25 
+195	Carnitas Soft Tacos	1	$9.25 
+195	Chicken Bowl	1	$11.25 
+195	Veggie Salad Bowl	1	$11.25 
+196	Chicken Bowl	1	$8.75 
+196	Chicken Burrito	1	$11.25 
+196	Chips and Fresh Tomato Salsa	1	$2.95 
+196	Canned Soft Drink	1	$1.25 
+197	Chicken Bowl	1	$8.49 
+197	Side of Chips	1	$1.69 
+198	Carnitas Burrito	1	$11.75 
+198	Chicken Burrito	1	$11.25 
+199	Chicken Bowl	1	$8.75 
+199	Chicken Bowl	1	$8.75 
+199	Chips and Guacamole	1	$4.45 
+200	Veggie Burrito	1	$8.49 
+200	Chips and Guacamole	1	$3.99 
+201	Veggie Burrito	1	$8.49 
+201	Chips and Guacamole	1	$3.99 
+202	Barbacoa Bowl	1	$11.48 
+202	Side of Chips	1	$1.69 
+202	Canned Soda	1	$1.09 
+203	Chicken Soft Tacos	1	$11.25 
+203	Bottled Water	1	$1.50 
+204	Chicken Burrito	1	$10.58 
+204	Side of Chips	1	$1.69 
+205	Carnitas Burrito	1	$9.25 
+205	Veggie Burrito	1	$11.25 
+205	Chicken Bowl	1	$8.75 
+205	Steak Burrito	1	$9.25 
+205	Chicken Burrito	1	$11.25 
+205	Chicken Bowl	1	$11.25 
+205	Chicken Bowl	1	$8.75 
+205	Barbacoa Crispy Tacos	1	$11.75 
+205	Chicken Burrito	1	$8.75 
+205	Chicken Burrito	1	$8.75 
+205	Chicken Bowl	1	$8.75 
+205	Chips	1	$2.15 
+206	Chicken Bowl	1	$11.25 
+206	Steak Bowl	1	$11.75 
+206	Canned Soft Drink	2	$2.50 
+206	Chips and Guacamole	1	$4.45 
+207	Steak Soft Tacos	1	$9.25 
+207	Chips and Guacamole	1	$4.45 
+207	Veggie Salad Bowl	1	$11.25 
+208	Veggie Burrito	1	$8.49 
+208	Chips and Guacamole	1	$3.99 
+209	Steak Bowl	1	$9.25 
+209	Steak Bowl	1	$9.25 
+210	Chicken Bowl	1	$11.25 
+210	Barbacoa Burrito	1	$9.25 
+211	Steak Burrito	1	$11.75 
+211	Chicken Soft Tacos	1	$11.25 
+212	Canned Soft Drink	1	$1.25 
+212	Carnitas Bowl	2	$23.50 
+212	Canned Soft Drink	1	$1.25 
+213	Steak Burrito	1	$8.99 
+213	Chicken Bowl	1	$8.49 
+214	Burrito	1	$7.40 
+214	Burrito	1	$7.40 
+215	Veggie Bowl	1	$8.75 
+215	Canned Soft Drink	1	$1.25 
+215	Chips and Guacamole	1	$4.45 
+215	Veggie Bowl	1	$8.75 
+215	Chips	1	$2.15 
+216	Chicken Burrito	1	$8.75 
+216	Chips and Guacamole	1	$4.45 
+217	Burrito	1	$7.40 
+217	Crispy Tacos	1	$7.40 
+217	Crispy Tacos	1	$7.40 
+218	Steak Burrito	1	$8.99 
+218	Chips and Guacamole	1	$3.99 
+219	Steak Bowl	1	$8.99 
+219	Side of Chips	1	$1.69 
+220	Chicken Salad Bowl	1	$8.75 
+220	Chicken Bowl	1	$8.75 
+221	Chicken Salad Bowl	1	$8.75 
+221	Chicken Salad Bowl	1	$8.75 
+222	Veggie Bowl	1	$11.25 
+222	Chicken Burrito	1	$11.25 
+222	Chips and Fresh Tomato Salsa	1	$2.95 
+223	Chicken Burrito	1	$8.75 
+223	Steak Burrito	2	$18.50 
+224	Veggie Burrito	1	$8.49 
+224	Chips and Guacamole	1	$3.99 
+225	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+225	Carnitas Bowl	1	$9.25 
+225	Steak Burrito	1	$9.25 
+225	Bottled Water	2	$3.00 
+225	Canned Soft Drink	1	$1.25 
+226	Chicken Bowl	1	$8.75 
+226	Barbacoa Burrito	1	$9.25 
+226	Chips and Guacamole	1	$4.45 
+227	Chicken Bowl	1	$8.75 
+227	Chicken Bowl	1	$11.25 
+227	Chips and Guacamole	1	$4.45 
+228	Chicken Bowl	1	$10.98 
+229	Steak Burrito	2	$22.16 
+230	Chips and Guacamole	1	$4.45 
+230	Chicken Burrito	1	$8.75 
+230	Steak Burrito	1	$9.25 
+230	6 Pack Soft Drink	1	$6.49 
+230	Carnitas Crispy Tacos	1	$9.25 
+231	Veggie Bowl	1	$11.25 
+231	Chicken Bowl	1	$8.75 
+231	Barbacoa Burrito	1	$9.25 
+231	Chips	1	$2.15 
+231	Steak Bowl	1	$9.25 
+231	Chips and Guacamole	1	$4.45 
+232	Barbacoa Burrito	1	$9.25 
+232	Chips and Roasted Chili Corn Salsa	1	$2.95 
+233	Steak Burrito	1	$9.25 
+233	Chicken Burrito	1	$8.75 
+233	Carnitas Soft Tacos	1	$9.25 
+233	Canned Soft Drink	1	$1.25 
+233	Canned Soft Drink	1	$1.25 
+234	Chicken Salad Bowl	1	$8.75 
+234	Chicken Burrito	1	$8.75 
+234	Steak Soft Tacos	1	$9.25 
+234	Chips and Guacamole	1	$4.45 
+235	Steak Burrito	1	$11.75 
+235	Steak Burrito	1	$11.75 
+235	Barbacoa Burrito	1	$11.75 
+236	Barbacoa Burrito	1	$9.25 
+236	Steak Burrito	1	$9.25 
+237	Chicken Soft Tacos	2	$16.98 
+237	Chips and Tomatillo-Green Chili Salsa	1	$2.39 
+237	Izze	1	$3.39 
+237	Izze	1	$3.39 
+238	Steak Crispy Tacos	1	$9.25 
+238	Steak Burrito	1	$11.75 
+239	Chicken Bowl	1	$11.25 
+239	Chips	1	$2.15 
+240	Chicken Salad Bowl	1	$8.75 
+240	Barbacoa Burrito	1	$9.25 
+240	Chips and Guacamole	1	$4.45 
+241	Chicken Burrito	1	$10.98 
+242	Chicken Burrito	1	$11.25 
+242	Carnitas Soft Tacos	1	$9.25 
+243	Chicken Salad Bowl	2	$22.50 
+244	Barbacoa Bowl	1	$9.25 
+244	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+244	Bottled Water	1	$1.50 
+245	Steak Bowl	1	$11.48 
+246	Chicken Bowl	1	$8.49 
+246	Side of Chips	1	$1.69 
+247	Chicken Crispy Tacos	1	$8.49 
+247	Chicken Burrito	1	$8.49 
+247	Chicken Crispy Tacos	1	$8.49 
+247	Nantucket Nectar	2	$6.78 
+248	Barbacoa Burrito	1	$11.75 
+248	Chips and Guacamole	1	$4.45 
+249	Chicken Bowl	1	$8.75 
+249	Chips and Guacamole	1	$4.45 
+250	Steak Salad Bowl	1	$11.89 
+250	Steak Salad Bowl	1	$9.39 
+251	Chicken Burrito	1	$8.75 
+251	Chips and Fresh Tomato Salsa	1	$2.95 
+251	Canned Soft Drink	1	$1.25 
+252	Barbacoa Soft Tacos	1	$9.25 
+252	Chicken Burrito	1	$8.75 
+253	Steak Salad Bowl	2	$23.78 
+254	Chicken Bowl	1	$8.75 
+254	Barbacoa Burrito	1	$9.25 
+254	Chips	1	$2.15 
+254	Chips	1	$2.15 
+254	Canned Soft Drink	1	$1.25 
+255	Veggie Bowl	1	$8.49 
+255	Chips and Guacamole	1	$3.99 
+256	Chicken Burrito	1	$10.98 
+256	Canned Soda	1	$1.09 
+257	Veggie Burrito	1	$8.75 
+257	Chips and Guacamole	1	$4.45 
+258	Chicken Bowl	1	$8.75 
+258	Carnitas Burrito	1	$11.75 
+258	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+258	Chips and Guacamole	1	$4.45 
+259	Steak Burrito	1	$9.25 
+259	Chicken Soft Tacos	1	$8.75 
+260	Veggie Burrito	1	$8.49 
+260	Chips and Guacamole	1	$3.99 
+261	Chicken Salad Bowl	2	$22.50 
+262	Chicken Burrito	1	$11.25 
+262	Canned Soft Drink	1	$1.25 
+263	Chicken Burrito	1	$8.75 
+263	Chicken Bowl	1	$8.75 
+264	Steak Burrito	2	$18.50 
+264	6 Pack Soft Drink	1	$6.49 
+265	Chicken Burrito	1	$8.75 
+265	Chicken Soft Tacos	1	$8.75 
+265	Chips and Guacamole	1	$4.45 
+266	Veggie Bowl	1	$8.49 
+266	Chips and Guacamole	1	$3.99 
+267	Steak Burrito	1	$8.99 
+267	Canned Soda	1	$1.09 
+268	Chicken Bowl	1	$8.49 
+268	Chips and Roasted Chili-Corn Salsa	1	$2.39 
+269	Steak Burrito	1	$11.48 
+269	Side of Chips	1	$1.69 
+270	Canned Soft Drink	2	$2.50 
+270	Carnitas Burrito	1	$9.25 
+270	Bottled Water	1	$1.50 
+271	Chicken Bowl	2	$17.50 
+271	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+272	Chicken Burrito	1	$8.75 
+272	Chips and Guacamole	1	$4.45 
+273	Steak Burrito	1	$11.75 
+273	Chicken Burrito	1	$8.75 
+274	Chicken Bowl	1	$8.49 
+274	Side of Chips	1	$1.69 
+275	Veggie Burrito	1	$8.49 
+275	Chips and Guacamole	1	$3.99 
+276	Steak Salad	1	$8.99 
+276	Steak Bowl	1	$8.99 
+276	Chips and Guacamole	1	$3.99 
+276	Carnitas Soft Tacos	1	$8.99 
+277	Chicken Bowl	1	$11.25 
+277	Chips and Guacamole	1	$4.45 
+277	Canned Soft Drink	1	$1.25 
+278	Chips and Guacamole	1	$3.99 
+278	Chicken Burrito	1	$10.98 
+279	Bowl	1	$7.40 
+279	Chips and Mild Fresh Tomato Salsa	1	$3.00 
+279	Burrito	1	$7.40 
+279	Chips and Guacamole	1	$4.00 
+280	Veggie Bowl	1	$8.49 
+280	Chips and Guacamole	1	$3.99 
+281	Steak Bowl	1	$9.25 
+281	Chips and Guacamole	1	$4.45 
+282	Chicken Burrito	1	$11.25 
+282	Canned Soft Drink	1	$1.25 
+282	Steak Burrito	1	$11.75 
+282	Canned Soft Drink	1	$1.25 
+283	Chicken Burrito	1	$11.25 
+283	Chips	1	$2.15 
+284	Chicken Bowl	1	$11.25 
+284	Chips and Guacamole	1	$4.45 
+284	Canned Soft Drink	3	$3.75 
+284	Steak Bowl	1	$11.75 
+285	Carnitas Burrito	1	$8.99 
+285	Chips and Tomatillo-Red Chili Salsa	1	$2.39 
+286	Chicken Salad Bowl	1	$8.75 
+286	Chips and Guacamole	1	$4.45 
+286	Canned Soft Drink	1	$1.25 
+287	Steak Burrito	1	$8.99 
+287	Chicken Soft Tacos	1	$8.49 
+287	Canned Soda	2	$2.18 
+288	Chicken Burrito	1	$8.49 
+288	Canned Soda	2	$2.18 
+288	Bottled Water	1	$1.09 
+289	Chicken Salad Bowl	1	$8.75 
+289	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+289	Canned Soft Drink	1	$1.25 
+290	Bottled Water	1	$1.50 
+290	Chicken Bowl	1	$11.25 
+291	Steak Burrito	1	$9.25 
+291	Chips and Roasted Chili Corn Salsa	1	$2.95 
+291	Canned Soft Drink	1	$1.25 
+292	Veggie Burrito	1	$8.49 
+292	Chips and Guacamole	1	$3.99 
+293	Steak Burrito	1	$11.48 
+294	Chips and Guacamole	1	$3.99 
+294	Veggie Burrito	1	$8.49 
+295	Chicken Burrito	1	$11.25 
+295	Canned Soft Drink	1	$1.25 
+296	Barbacoa Burrito	1	$8.99 
+296	Side of Chips	1	$1.69 
+297	Chicken Bowl	1	$11.25 
+297	Canned Soft Drink	1	$1.25 
+298	6 Pack Soft Drink	1	$6.49 
+298	Chicken Bowl	1	$8.75 
+299	Barbacoa Burrito	1	$9.25 
+299	Chicken Burrito	1	$8.75 
+299	Chips and Fresh Tomato Salsa	1	$2.95 
+300	Chicken Burrito	1	$8.75 
+300	Steak Burrito	1	$11.75 
+301	Steak Burrito	1	$8.69 
+301	Steak Crispy Tacos	1	$8.69 
+301	Chips and Fresh Tomato Salsa	1	$2.29 
+302	Chips and Guacamole	1	$3.99 
+302	Veggie Burrito	1	$8.49 
+303	Chicken Bowl	1	$8.75 
+303	Chicken Burrito	1	$8.75 
+304	Canned Soft Drink	1	$1.25 
+304	Steak Burrito	1	$11.75 
+304	Veggie Bowl	1	$11.25 
+304	Veggie Soft Tacos	1	$11.25 
+305	Chicken Burrito	1	$11.25 
+305	Canned Soft Drink	1	$1.25 
+305	Steak Burrito	1	$9.25 
+306	Barbacoa Burrito	1	$11.75 
+306	6 Pack Soft Drink	1	$6.49 
+307	Chips and Guacamole	1	$3.99 
+307	Veggie Burrito	1	$8.49 
+308	Chicken Burrito	1	$11.25 
+308	Chips	1	$2.15 
+309	Chicken Burrito	1	$11.25 
+309	Steak Salad Bowl	1	$11.89 
+310	Barbacoa Bowl	1	$8.99 
+310	Side of Chips	1	$1.69 
+311	Steak Salad	1	$8.99 
+311	Steak Bowl	1	$8.99 
+311	Chips and Guacamole	1	$3.99 
+311	Carnitas Soft Tacos	1	$8.99 
+312	Barbacoa Burrito	1	$9.25 
+312	Steak Bowl	1	$9.25 
+312	Chips	1	$2.15 
+313	Burrito	1	$7.40 
+313	Burrito	1	$7.40 
+314	Veggie Burrito	1	$8.75 
+314	Chicken Salad Bowl	1	$8.75 
+315	Barbacoa Crispy Tacos	1	$9.25 
+315	Chips and Guacamole	1	$4.45 
+316	Chicken Bowl	1	$11.25 
+316	Canned Soft Drink	1	$1.25 
+317	Carnitas Burrito	1	$11.75 
+317	Chicken Crispy Tacos	1	$11.25 
+317	Canned Soft Drink	1	$1.25 
+318	Chips and Guacamole	1	$3.99 
+318	Veggie Burrito	1	$8.49 
+319	Chicken Bowl	1	$8.49 
+319	Chicken Bowl	1	$8.49 
+319	Steak Crispy Tacos	1	$8.99 
+320	Chicken Bowl	1	$8.75 
+320	Chips	1	$2.15 
+320	Canned Soft Drink	1	$1.25 
+321	Chicken Burrito	1	$8.49 
+321	Canned Soda	1	$1.09 
+321	Bottled Water	1	$1.09 
+322	Veggie Soft Tacos	1	$8.75 
+322	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+322	Canned Soft Drink	1	$1.25 
+323	Steak Bowl	1	$9.25 
+323	Canned Soft Drink	1	$1.25 
+323	Chips	1	$2.15 
+324	Chicken Burrito	1	$11.25 
+324	Canned Soft Drink	1	$1.25 
+325	Chips and Guacamole	1	$4.45 
+325	Chicken Burrito	1	$8.75 
+325	Canned Soft Drink	2	$2.50 
+326	Chips and Guacamole	2	$8.90 
+326	Chicken Burrito	1	$8.75 
+326	Chicken Bowl	1	$8.75 
+326	Chicken Bowl	1	$8.75 
+327	Chicken Burrito	1	$11.25 
+327	Veggie Burrito	1	$11.25 
+328	Chicken Bowl	1	$10.98 
+328	Chips and Guacamole	1	$3.99 
+329	Chicken Burrito	1	$10.98 
+329	Chips and Guacamole	1	$3.99 
+330	Side of Chips	1	$1.69 
+330	Barbacoa Bowl	1	$8.99 
+331	Barbacoa Bowl	1	$9.25 
+331	Chicken Bowl	1	$8.75 
+332	Steak Burrito	1	$8.99 
+332	Canned Soda	1	$1.09 
+333	Steak Burrito	1	$9.25 
+333	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+334	Chicken Burrito	1	$8.75 
+334	Steak Burrito	1	$9.25 
+335	Chips and Guacamole	1	$3.99 
+335	Veggie Burrito	1	$8.49 
+336	Chicken Burrito	1	$8.75 
+336	Chicken Bowl	1	$8.75 
+337	Chicken Salad Bowl	2	$22.50 
+338	Chicken Bowl	1	$10.98 
+338	Bottled Water	3	$3.27 
+338	Chips and Guacamole	1	$3.99 
+338	Carnitas Soft Tacos	1	$8.99 
+338	Canned Soda	1	$1.09 
+339	Carnitas Bowl	1	$11.08 
+340	Chicken Burrito	1	$8.75 
+340	Chips and Guacamole	1	$4.45 
+341	Steak Bowl	1	$11.08 
+342	Chips and Guacamole	1	$3.99 
+342	Veggie Burrito	1	$8.49 
+343	Chips	2	$4.30 
+343	Barbacoa Crispy Tacos	1	$9.25 
+343	Chicken Crispy Tacos	1	$8.75 
+343	Veggie Bowl	1	$11.25 
+343	Veggie Bowl	1	$11.25 
+343	Carnitas Bowl	1	$9.25 
+344	Chicken Burrito	1	$8.49 
+344	Carnitas Burrito	1	$8.99 
+344	Chicken Burrito	1	$8.49 
+345	Chicken Bowl	1	$8.75 
+345	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+345	Chips and Guacamole	1	$4.45 
+346	Barbacoa Bowl	1	$9.25 
+346	Chips and Roasted Chili Corn Salsa	1	$2.95 
+346	Steak Bowl	1	$9.25 
+346	Veggie Bowl	1	$8.75 
+347	Chicken Bowl	1	$11.25 
+347	Chips and Guacamole	1	$4.45 
+348	Veggie Bowl	2	$16.98 
+349	Veggie Burrito	1	$8.49 
+349	Chips and Fresh Tomato Salsa	1	$2.39 
+350	Chicken Bowl	1	$11.25 
+350	Canned Soft Drink	3	$3.75 
+351	Carnitas Bowl	1	$9.25 
+351	Chips and Guacamole	1	$4.45 
+352	Barbacoa Burrito	1	$9.25 
+352	Barbacoa Burrito	1	$9.25 
+352	Chips and Guacamole	1	$4.45 
+353	Chicken Burrito	1	$8.75 
+353	Barbacoa Soft Tacos	1	$9.25 
+354	Chicken Burrito	1	$8.75 
+354	Barbacoa Burrito	1	$9.25 
+355	Steak Burrito	1	$9.25 
+355	Steak Burrito	1	$9.25 
+356	Steak Burrito	1	$11.48 
+356	Steak Burrito	1	$8.99 
+357	Chicken Salad Bowl	2	$22.50 
+358	Carnitas Burrito	1	$11.75 
+358	Chicken Crispy Tacos	1	$11.25 
+358	Canned Soft Drink	1	$1.25 
+359	Chicken Bowl	1	$8.75 
+359	Chips	1	$2.15 
+359	Canned Soft Drink	1	$1.25 
+360	Chicken Bowl	1	$11.25 
+360	Chicken Soft Tacos	1	$8.75 
+360	Canned Soft Drink	1	$1.25 
+361	Veggie Burrito	1	$11.25 
+361	Bottled Water	1	$1.50 
+362	Chicken Soft Tacos	1	$11.25 
+362	Chicken Bowl	1	$11.25 
+363	Barbacoa Burrito	1	$9.25 
+363	6 Pack Soft Drink	1	$6.49 
+363	Chips and Guacamole	2	$8.90 
+364	Chicken Bowl	1	$8.75 
+364	Chips and Guacamole	1	$4.45 
+365	Chicken Soft Tacos	1	$11.25 
+365	Canned Soft Drink	1	$1.25 
+366	Chicken Crispy Tacos	2	$17.50 
+366	Steak Burrito	1	$9.25 
+367	Veggie Bowl	1	$8.75 
+367	Barbacoa Burrito	1	$11.75 
+367	Bottled Water	2	$3.00 
+368	Chicken Bowl	1	$8.49 
+368	Veggie Burrito	1	$8.49 
+369	Chicken Bowl	1	$10.98 
+369	Steak Salad	1	$8.99 
+369	Chips and Guacamole	1	$3.99 
+370	Chicken Burrito	1	$8.75 
+370	Chips and Guacamole	1	$4.45 
+371	Steak Burrito	1	$8.99 
+371	Side of Chips	1	$1.69 
+372	Steak Bowl	1	$11.75 
+372	Chicken Bowl	1	$8.75 
+373	Veggie Bowl	1	$11.25 
+373	Chips and Guacamole	1	$4.45 
+374	Barbacoa Burrito	1	$11.75 
+374	Canned Soft Drink	1	$1.25 
+375	Steak Bowl	1	$11.75 
+375	Chips and Roasted Chili Corn Salsa	1	$2.95 
+376	Steak Burrito	1	$8.99 
+376	Steak Burrito	1	$8.99 
+376	Canned Soda	2	$2.18 
+377	Steak Bowl	2	$17.98 
+377	Steak Burrito	1	$8.99 
+378	Chicken Burrito	1	$8.49 
+378	Side of Chips	1	$1.69 
+379	Steak Burrito	1	$11.75 
+379	Chicken Bowl	1	$11.25 
+379	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+379	Canned Soft Drink	3	$3.75 
+379	Steak Crispy Tacos	1	$9.25 
+380	Barbacoa Bowl	1	$11.75 
+380	Chicken Bowl	1	$8.75 
+380	Chips	1	$2.15 
+380	Bottled Water	1	$1.50 
+381	Chicken Soft Tacos	1	$8.49 
+381	Chicken Soft Tacos	1	$8.49 
+381	Nantucket Nectar	1	$3.39 
+382	Steak Bowl	1	$8.69 
+382	Chips and Guacamole	1	$3.89 
+383	Chicken Bowl	1	$8.75 
+383	Chips and Guacamole	1	$4.45 
+384	Chicken Bowl	1	$8.75 
+384	Veggie Burrito	1	$11.25 
+384	Chips	1	$2.15 
+384	Chicken Bowl	1	$8.75 
+385	Chicken Bowl	1	$8.49 
+385	Side of Chips	1	$1.69 
+386	Veggie Bowl	1	$8.49 
+386	Chicken Bowl	1	$8.49 
+387	Canned Soft Drink	1	$1.25 
+387	Chicken Burrito	1	$8.75 
+387	Steak Burrito	1	$11.75 
+387	Steak Burrito	1	$11.75 
+388	Steak Burrito	1	$8.99 
+388	Bottled Water	1	$1.09 
+389	Chicken Bowl	1	$8.75 
+389	Chips and Guacamole	1	$4.45 
+389	Chicken Crispy Tacos	1	$8.75 
+389	Chips and Fresh Tomato Salsa	1	$2.95 
+389	Chicken Bowl	1	$8.75 
+389	Chips	1	$2.15 
+390	Chips and Guacamole	1	$3.99 
+390	Chicken Burrito	1	$8.49 
+391	Steak Bowl	1	$8.99 
+391	Chips and Guacamole	1	$3.99 
+392	Chicken Burrito	1	$8.49 
+392	Side of Chips	1	$1.69 
+392	Canned Soda	1	$1.09 
+393	Steak Burrito	1	$8.99 
+393	Canned Soda	1	$1.09 
+394	Carnitas Burrito	1	$9.25 
+394	Veggie Salad Bowl	1	$8.75 
+395	Steak Soft Tacos	1	$8.99 
+395	Chips and Fresh Tomato Salsa	1	$2.39 
+396	Canned Soft Drink	1	$1.25 
+396	Canned Soft Drink	1	$1.25 
+396	Chicken Burrito	1	$11.25 
+396	Chicken Soft Tacos	1	$11.25 
+397	Steak Burrito	1	$9.25 
+397	Steak Soft Tacos	1	$9.25 
+398	Chicken Soft Tacos	1	$11.25 
+398	Bottled Water	1	$1.50 
+399	Chips and Guacamole	1	$3.99 
+399	Veggie Burrito	1	$8.49 
+400	Veggie Burrito	1	$11.25 
+400	Carnitas Burrito	1	$9.25 
+400	Chicken Bowl	1	$11.25 
+401	Chicken Bowl	2	$17.50 
+402	Chicken Bowl	1	$8.75 
+402	Chips and Guacamole	2	$8.90 
+402	Chicken Bowl	1	$8.75 
+402	Chicken Bowl	1	$8.75 
+403	Barbacoa Burrito	1	$8.99 
+403	Chips and Tomatillo-Green Chili Salsa	1	$2.39 
+404	Chicken Burrito	1	$11.25 
+404	Carnitas Bowl	1	$9.25 
+404	Chips	1	$2.15 
+405	Chicken Burrito	1	$11.25 
+405	Canned Soft Drink	1	$1.25 
+406	Barbacoa Soft Tacos	1	$11.75 
+406	Canned Soft Drink	1	$1.25 
+407	Chicken Burrito	1	$11.25 
+407	Steak Burrito	1	$11.75 
+408	Canned Soft Drink	1	$1.25 
+408	Chicken Bowl	1	$11.25 
+408	Chicken Bowl	1	$11.25 
+409	Chicken Bowl	1	$8.49 
+409	Chicken Bowl	1	$10.98 
+410	Chicken Burrito	1	$8.75 
+410	Canned Soft Drink	1	$1.25 
+410	Chicken Soft Tacos	1	$8.75 
+411	Chicken Bowl	1	$8.49 
+411	Chicken Bowl	1	$8.49 
+412	Bottled Water	1	$1.50 
+412	Bottled Water	1	$1.50 
+412	Chicken Bowl	1	$8.75 
+412	Chips and Guacamole	1	$4.45 
+413	Chicken Crispy Tacos	1	$11.25 
+413	Canned Soft Drink	1	$1.25 
+413	Carnitas Crispy Tacos	1	$11.75 
+414	Chicken Burrito	1	$8.49 
+414	Chips and Tomatillo-Green Chili Salsa	1	$2.39 
+415	Steak Bowl	1	$9.25 
+415	Chips and Guacamole	1	$4.45 
+416	Steak Burrito	1	$9.25 
+416	Chicken Bowl	1	$8.75 
+417	Steak Burrito	1	$8.99 
+417	Side of Chips	1	$1.69 
+418	Chicken Bowl	2	$17.50 
+419	Chips and Tomatillo-Green Chili Salsa	1	$2.39 
+419	Barbacoa Crispy Tacos	1	$8.99 
+419	Steak Crispy Tacos	1	$8.99 
+420	Chicken Burrito	1	$11.25 
+420	Chips and Guacamole	1	$4.45 
+421	Chicken Bowl	1	$8.75 
+421	Chips and Guacamole	1	$4.45 
+422	Steak Burrito	1	$9.25 
+422	6 Pack Soft Drink	1	$6.49 
+423	Chicken Crispy Tacos	1	$10.98 
+423	Chicken Burrito	1	$8.49 
+424	Chicken Burrito	1	$8.49 
+424	Canned Soda	1	$1.09 
+424	Side of Chips	1	$1.69 
+425	Barbacoa Bowl	1	$9.25 
+425	Chips and Guacamole	1	$4.45 
+426	Chicken Bowl	1	$8.75 
+426	Canned Soft Drink	1	$1.25 
+426	Chips and Fresh Tomato Salsa	1	$2.95 
+427	Chips and Guacamole	1	$3.99 
+427	Veggie Burrito	1	$8.49 
+428	Steak Bowl	1	$11.75 
+428	Steak Bowl	1	$11.75 
+428	Chips	1	$2.15 
+429	Steak Bowl	1	$11.48 
+430	Chicken Bowl	1	$8.75 
+430	Chips	1	$2.15 
+430	Canned Soft Drink	1	$1.25 
+431	Chicken Burrito	1	$11.25 
+431	Chips	1	$2.15 
+431	Canned Soft Drink	1	$1.25 
+432	Chicken Burrito	1	$8.75 
+432	Chicken Burrito	1	$8.75 
+432	6 Pack Soft Drink	1	$6.49 
+433	Side of Chips	1	$1.69 
+433	Steak Bowl	1	$8.99 
+434	Chicken Burrito	1	$8.75 
+434	Barbacoa Burrito	1	$11.75 
+435	Chicken Burrito	1	$10.98 
+435	Canned Soda	1	$1.09 
+436	Chicken Bowl	1	$8.49 
+436	Izze	1	$3.39 
+437	Chicken Bowl	1	$8.75 
+437	Chips	1	$2.15 
+437	Canned Soft Drink	1	$1.25 
+438	Carnitas Burrito	1	$11.48 
+438	Chicken Burrito	1	$10.98 
+439	Chicken Salad	1	$10.98 
+439	Chicken Bowl	1	$8.49 
+440	Chips and Roasted Chili Corn Salsa	1	$2.95 
+440	Barbacoa Bowl	1	$9.25 
+440	Steak Burrito	1	$9.25 
+441	Steak Burrito	1	$11.75 
+441	Chips and Guacamole	1	$4.45 
+442	Steak Burrito	1	$11.48 
+443	Chicken Bowl	1	$11.25 
+443	Veggie Burrito	1	$8.75 
+443	Chips and Guacamole	1	$4.45 
+444	Side of Chips	1	$1.69 
+444	Steak Bowl	1	$8.99 
+445	Chicken Bowl	1	$8.75 
+445	Chips and Guacamole	1	$4.45 
+445	Bottled Water	1	$1.50 
+446	Steak Bowl	1	$11.75 
+446	Chips	1	$2.15 
+447	Steak Burrito	1	$8.99 
+447	Chips and Tomatillo-Green Chili Salsa	1	$2.39 
+448	Chicken Burrito	1	$8.75 
+448	Chips and Fresh Tomato Salsa	1	$2.95 
+448	Canned Soft Drink	1	$1.25 
+449	Chicken Bowl	1	$8.75 
+449	Chips	1	$2.15 
+449	Canned Soft Drink	1	$1.25 
+450	Canned Soda	2	$2.18 
+450	Canned Soda	2	$2.18 
+450	Steak Burrito	1	$11.48 
+451	Chicken Soft Tacos	1	$8.75 
+451	Chips and Fresh Tomato Salsa	1	$2.95 
+451	Steak Bowl	1	$11.75 
+452	Carnitas Burrito	1	$11.75 
+452	Canned Soft Drink	1	$1.25 
+453	Chicken Burrito	1	$10.58 
+454	Barbacoa Burrito	1	$8.99 
+454	Chips and Tomatillo-Red Chili Salsa	1	$2.39 
+455	Steak Burrito	1	$11.75 
+455	Chips and Guacamole	1	$4.45 
+456	Chicken Bowl	1	$11.25 
+456	Veggie Burrito	1	$11.25 
+457	Chicken Bowl	2	$17.50 
+457	Chicken Burrito	1	$8.75 
+458	Chicken Bowl	1	$8.75 
+458	Chicken Salad Bowl	1	$8.75 
+459	Chicken Salad Bowl	2	$22.50 
+460	Steak Bowl	1	$9.25 
+460	Chicken Bowl	1	$8.75 
+460	Chips and Guacamole	1	$4.45 
+461	Steak Burrito	1	$11.75 
+461	Canned Soft Drink	1	$1.25 
+462	Chicken Burrito	1	$11.25 
+462	Chicken Burrito	1	$11.25 
+462	Chips and Fresh Tomato Salsa	1	$2.95 
+463	Barbacoa Burrito	1	$8.99 
+463	Side of Chips	1	$1.69 
+464	Chicken Burrito	1	$11.25 
+464	Chips and Guacamole	1	$4.45 
+465	Chicken Bowl	1	$8.75 
+465	6 Pack Soft Drink	1	$6.49 
+466	Chicken Burrito	1	$8.75 
+466	Chips and Guacamole	1	$4.45 
+466	Carnitas Burrito	1	$9.25 
+467	Chips and Guacamole	1	$4.45 
+467	Barbacoa Soft Tacos	1	$11.75 
+467	Steak Burrito	1	$11.75 
+468	Chips and Guacamole	1	$4.45 
+468	Carnitas Salad Bowl	1	$11.89 
+468	Steak Bowl	1	$11.75 
+469	Chicken Bowl	1	$11.25 
+469	Chips and Fresh Tomato Salsa	1	$2.95 
+469	Bottled Water	1	$1.50 
+470	Chips and Guacamole	1	$4.45 
+470	Chicken Burrito	1	$8.75 
+471	Steak Burrito	1	$8.99 
+471	Bottled Water	1	$1.09 
+471	Steak Burrito	1	$8.99 
+471	Canned Soda	1	$1.09 
+471	Chips and Guacamole	1	$3.99 
+472	Steak Burrito	1	$11.48 
+472	Veggie Burrito	1	$8.49 
+473	Steak Burrito	1	$9.25 
+473	Chips and Guacamole	1	$4.45 
+474	Steak Bowl	1	$11.48 
+475	Barbacoa Soft Tacos	1	$9.25 
+475	Chips and Roasted Chili Corn Salsa	1	$2.95 
+475	Barbacoa Burrito	1	$9.25 
+476	Chicken Burrito	1	$8.49 
+476	Steak Burrito	1	$8.99 
+477	Steak Burrito	1	$8.99 
+477	Chicken Burrito	1	$8.49 
+478	Chicken Bowl	1	$8.75 
+478	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+478	Chips and Guacamole	1	$4.45 
+478	Steak Salad Bowl	1	$11.89 
+479	Chicken Burrito	1	$10.58 
+479	Chicken Burrito	1	$8.19 
+479	Side of Chips	1	$1.69 
+480	Chicken Bowl	1	$8.75 
+480	Chips	1	$2.15 
+480	Canned Soft Drink	1	$1.25 
+481	Chicken Burrito	2	$17.50 
+481	6 Pack Soft Drink	1	$6.49 
+481	Steak Crispy Tacos	1	$9.25 
+481	Chips	1	$2.15 
+482	Chicken Burrito	1	$8.75 
+482	Chips and Guacamole	1	$4.45 
+482	Chicken Bowl	1	$8.75 
+482	Canned Soft Drink	1	$1.25 
+483	Barbacoa Bowl	1	$11.48 
+483	Barbacoa Bowl	1	$11.48 
+484	Steak Bowl	1	$8.99 
+484	Bottled Water	2	$2.18 
+485	Chicken Bowl	1	$8.49 
+485	Barbacoa Bowl	1	$8.99 
+485	Chips and Roasted Chili-Corn Salsa	1	$2.39 
+485	Chips and Tomatillo-Red Chili Salsa	1	$2.39 
+485	Bottled Water	2	$2.18 
+486	Chicken Bowl	1	$8.75 
+486	Chips and Guacamole	1	$4.45 
+487	Chicken Burrito	1	$11.25 
+487	Carnitas Soft Tacos	1	$9.25 
+488	Barbacoa Burrito	1	$9.25 
+488	Chicken Bowl	1	$11.25 
+488	Chicken Salad Bowl	1	$11.25 
+488	Chips and Guacamole	1	$4.45 
+488	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+488	Steak Bowl	1	$11.75 
+489	Veggie Burrito	1	$8.49 
+489	Chicken Soft Tacos	1	$8.49 
+490	Carnitas Crispy Tacos	1	$8.99 
+490	Side of Chips	1	$1.69 
+491	Carnitas Burrito	1	$9.25 
+491	Chicken Bowl	1	$11.25 
+491	Steak Burrito	1	$11.75 
+491	Carnitas Bowl	1	$9.25 
+491	Chicken Burrito	1	$8.75 
+491	Barbacoa Burrito	1	$11.75 
+491	Chicken Burrito	1	$8.75 
+491	Chicken Bowl	1	$8.75 
+491	Chicken Bowl	1	$11.25 
+491	Chicken Bowl	1	$11.25 
+492	Chicken Bowl	1	$10.98 
+493	Chicken Burrito	1	$11.25 
+493	Chips and Guacamole	1	$4.45 
+494	Chicken Bowl	1	$10.98 
+494	Chicken Burrito	1	$8.49 
+495	Carnitas Bowl	1	$8.99 
+495	Izze	1	$3.39 
+496	Chips and Guacamole	1	$3.99 
+496	Steak Burrito	1	$8.99 
+496	Canned Soda	1	$1.09 
+496	Canned Soda	1	$1.09 
+496	Chips and Tomatillo-Green Chili Salsa	1	$2.39 
+497	Chicken Burrito	2	$17.50 
+497	Chips and Guacamole	1	$4.45 
+498	Chicken Bowl	1	$11.25 
+498	Chicken Bowl	1	$11.25 
+498	Chips and Guacamole	1	$4.45 
+499	Steak Bowl	1	$9.25 
+499	Chips and Guacamole	1	$4.45 
+500	Chicken Bowl	1	$8.75 
+500	Chips	1	$2.15 
+500	Canned Soft Drink	1	$1.25 
+501	Barbacoa Salad Bowl	1	$11.89 
+501	Chips and Fresh Tomato Salsa	1	$2.95 
+502	Steak Burrito	1	$11.75 
+502	Canned Soft Drink	1	$1.25 
+503	Chicken Burrito	1	$11.25 
+503	Chips and Guacamole	1	$4.45 
+504	Barbacoa Bowl	1	$11.48 
+504	Barbacoa Bowl	1	$11.48 
+505	Chips and Fresh Tomato Salsa	1	$2.95 
+505	Carnitas Burrito	1	$9.25 
+506	Chicken Burrito	1	$8.75 
+506	Barbacoa Soft Tacos	1	$9.25 
+506	Chips and Fresh Tomato Salsa	1	$2.95 
+507	Veggie Bowl	1	$11.25 
+507	Canned Soft Drink	1	$1.25 
+507	Carnitas Bowl	1	$11.75 
+507	Canned Soft Drink	1	$1.25 
+508	Steak Bowl	1	$8.99 
+508	Chips and Fresh Tomato Salsa	1	$2.39 
+509	Canned Soft Drink	1	$1.25 
+509	Chicken Soft Tacos	1	$11.25 
+509	Canned Soft Drink	1	$1.25 
+509	Chicken Burrito	1	$11.25 
+510	Veggie Burrito	1	$8.49 
+510	Chips and Guacamole	1	$3.99 
+511	Chicken Burrito	4	$35.00 
+511	Steak Burrito	3	$27.75 
+511	Veggie Burrito	1	$8.75 
+511	Chips and Fresh Tomato Salsa	4	$11.80 
+511	Chips and Guacamole	2	$8.90 
+511	Chips and Tomatillo Green Chili Salsa	2	$5.90 
+511	6 Pack Soft Drink	1	$6.49 
+512	Veggie Burrito	1	$10.98 
+513	Steak Burrito	2	$17.98 
+513	Chips and Tomatillo-Green Chili Salsa	1	$2.39 
+514	Barbacoa Bowl	1	$9.25 
+514	Chicken Bowl	1	$8.75 
+514	Chips	1	$2.15 
+515	Chicken Soft Tacos	1	$8.75 
+515	Chips and Guacamole	1	$4.45 
+516	Chicken Burrito	1	$8.49 
+516	Side of Chips	1	$1.69 
+517	Chicken Burrito	1	$8.19 
+517	Steak Burrito	1	$8.69 
+518	Chicken Burrito	1	$10.98 
+519	Chips and Guacamole	1	$3.99 
+519	Steak Burrito	1	$11.48 
+519	Steak Burrito	1	$11.48 
+520	Chips and Guacamole	1	$4.45 
+520	Chicken Soft Tacos	1	$8.75 
+520	6 Pack Soft Drink	1	$6.49 
+521	Chicken Burrito	1	$8.75 
+521	Chicken Bowl	1	$8.75 
+522	Steak Burrito	1	$9.25 
+522	Canned Soft Drink	1	$1.25 
+522	Chips and Guacamole	1	$4.45 
+523	Chicken Burrito	1	$8.49 
+523	Side of Chips	1	$1.69 
+524	Carnitas Burrito	1	$9.25 
+524	Chips and Guacamole	1	$4.45 
+525	Steak Burrito	1	$8.99 
+525	Canned Soda	1	$1.09 
+526	Chicken Bowl	1	$11.25 
+526	Chips and Roasted Chili Corn Salsa	1	$2.95 
+527	Steak Bowl	1	$11.08 
+527	Carnitas Bowl	1	$11.08 
+527	Chips and Guacamole	1	$3.89 
+528	Chicken Bowl	1	$10.98 
+529	Veggie Bowl	1	$11.25 
+529	Chicken Bowl	1	$8.75 
+529	Chicken Bowl	1	$11.25 
+530	Barbacoa Burrito	1	$9.25 
+530	Chips	2	$4.30 
+530	Chicken Bowl	1	$8.75 
+531	Chicken Bowl	1	$8.49 
+531	Chips and Guacamole	1	$3.99 
+532	Side of Chips	1	$1.69 
+532	Steak Bowl	1	$8.99 
+533	Chicken Bowl	1	$8.49 
+533	Side of Chips	1	$1.69 
+534	Steak Burrito	1	$11.75 
+534	Chicken Burrito	1	$11.25 
+534	Steak Salad Bowl	1	$11.89 
+535	Steak Bowl	1	$9.25 
+535	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+535	Steak Bowl	1	$9.25 
+535	Chips and Fresh Tomato Salsa	1	$2.95 
+536	Veggie Salad Bowl	1	$8.75 
+536	Chips and Guacamole	1	$4.45 
+537	Chips and Guacamole	1	$4.45 
+537	Veggie Bowl	1	$8.75 
+538	Chicken Burrito	1	$10.98 
+539	Steak Burrito	1	$11.48 
+539	Chicken Burrito	1	$8.49 
+540	Steak Burrito	1	$9.25 
+540	Chips and Guacamole	1	$4.45 
+541	Steak Burrito	1	$11.75 
+541	Barbacoa Salad Bowl	1	$11.89 
+542	Steak Crispy Tacos	1	$8.99 
+542	Chicken Burrito	1	$8.49 
+543	Chicken Bowl	1	$8.75 
+543	Steak Bowl	1	$9.25 
+544	Chicken Burrito	1	$8.75 
+544	Chicken Bowl	1	$8.75 
+545	Steak Burrito	1	$11.75 
+545	Barbacoa Soft Tacos	1	$11.75 
+545	Chips and Guacamole	1	$4.45 
+546	Chicken Burrito	1	$11.25 
+546	Carnitas Burrito	1	$11.75 
+546	Canned Soft Drink	2	$2.50 
+547	Steak Burrito	1	$8.99 
+547	Side of Chips	1	$1.69 
+548	Carnitas Bowl	1	$11.75 
+548	Chips	1	$2.15 
+549	Canned Soft Drink	1	$1.25 
+549	Carnitas Bowl	1	$9.25 
+549	Chicken Crispy Tacos	1	$8.75 
+549	Chips and Guacamole	2	$8.90 
+550	Barbacoa Bowl	1	$9.25 
+550	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+551	Veggie Burrito	1	$8.75 
+551	Chicken Burrito	1	$11.25 
+552	Chips and Guacamole	2	$8.90 
+552	Chicken Salad Bowl	1	$11.25 
+552	Steak Soft Tacos	1	$11.75 
+553	Steak Bowl	1	$11.48 
+553	Side of Chips	1	$1.69 
+553	Nantucket Nectar	1	$3.39 
+554	Barbacoa Bowl	1	$9.25 
+554	Chips and Roasted Chili Corn Salsa	1	$2.95 
+555	Carnitas Bowl	1	$8.99 
+555	Side of Chips	1	$1.69 
+555	Chicken Soft Tacos	1	$8.49 
+556	Chicken Burrito	1	$10.98 
+557	Veggie Bowl	1	$11.25 
+557	Chips and Fresh Tomato Salsa	1	$2.95 
+558	Steak Soft Tacos	1	$8.99 
+558	Side of Chips	1	$1.69 
+559	Chicken Bowl	1	$8.75 
+559	Chips	1	$2.15 
+559	Canned Soft Drink	1	$1.25 
+560	Chicken Bowl	1	$8.75 
+560	Chips and Roasted Chili Corn Salsa	1	$2.95 
+560	Steak Burrito	1	$9.25 
+560	Canned Soft Drink	2	$2.50 
+561	Veggie Bowl	1	$11.25 
+561	Canned Soft Drink	1	$1.25 
+561	Carnitas Bowl	1	$11.75 
+561	Canned Soft Drink	2	$2.50 
+561	Chicken Bowl	1	$11.25 
+561	Bottled Water	1	$1.50 
+561	Chicken Soft Tacos	1	$8.75 
+561	Canned Soft Drink	1	$1.25 
+561	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+562	Barbacoa Bowl	1	$11.48 
+562	Steak Burrito	1	$11.48 
+563	Chicken Bowl	1	$8.75 
+563	Chicken Bowl	1	$8.75 
+563	Chips	1	$2.15 
+564	Steak Burrito	1	$11.75 
+564	Canned Soft Drink	1	$1.25 
+565	Carnitas Soft Tacos	1	$9.25 
+565	Barbacoa Soft Tacos	1	$9.25 
+566	6 Pack Soft Drink	1	$6.49 
+566	Carnitas Bowl	1	$11.75 
+567	Veggie Burrito	1	$8.49 
+567	Veggie Soft Tacos	1	$8.49 
+567	Canned Soda	1	$1.09 
+568	Chicken Bowl	1	$10.98 
+569	Chicken Burrito	1	$8.75 
+569	Canned Soft Drink	1	$1.25 
+569	Chips	1	$2.15 
+570	Chicken Bowl	1	$11.25 
+570	Bottled Water	1	$1.50 
+571	Chicken Burrito	1	$11.25 
+571	Veggie Bowl	1	$11.25 
+572	Chicken Bowl	1	$8.49 
+572	Chicken Burrito	1	$8.49 
+573	Chicken Bowl	1	$8.75 
+573	Bottled Water	1	$1.50 
+573	Canned Soft Drink	1	$1.25 
+573	Bottled Water	1	$1.50 
+574	Chicken Bowl	1	$8.75 
+574	Canned Soft Drink	2	$2.50 
+574	Chips	1	$2.15 
+575	Salad	1	$7.40 
+575	Salad	1	$7.40 
+575	Chips and Guacamole	1	$4.00 
+576	Barbacoa Bowl	1	$9.25 
+576	Barbacoa Salad Bowl	1	$9.39 
+576	Barbacoa Bowl	1	$9.25 
+576	Barbacoa Bowl	1	$9.25 
+576	Barbacoa Salad Bowl	1	$9.39 
+577	Chicken Salad Bowl	1	$11.25 
+577	Chips and Guacamole	2	$8.90 
+577	Chicken Burrito	1	$11.25 
+577	Bottled Water	4	$6.00 
+577	Chicken Soft Tacos	1	$11.25 
+577	Chicken Bowl	1	$11.25 
+577	Veggie Bowl	1	$11.25 
+578	Chicken Bowl	2	$22.50 
+579	Carnitas Bowl	1	$11.48 
+579	Canned Soda	1	$1.09 
+580	Chicken Bowl	1	$8.49 
+580	Veggie Bowl	1	$8.49 
+581	Chicken Burrito	2	$17.50 
+582	Chicken Burrito	1	$11.25 
+582	Bottled Water	1	$1.50 
+583	Carnitas Soft Tacos	1	$9.25 
+583	Chicken Soft Tacos	1	$8.75 
+584	Chips and Guacamole	1	$3.99 
+584	Veggie Burrito	1	$8.49 
+585	Veggie Bowl	1	$8.75 
+585	Chicken Bowl	1	$8.75 
+585	Chicken Burrito	1	$8.75 
+586	Chicken Burrito	1	$8.75 
+586	Chicken Burrito	1	$8.75 
+587	Steak Bowl	1	$11.75 
+587	Bottled Water	1	$1.50 
+588	Chicken Burrito	1	$11.25 
+588	Chicken Bowl	1	$11.25 
+588	Chips and Roasted Chili Corn Salsa	1	$2.95 
+589	Steak Crispy Tacos	1	$8.99 
+589	Chicken Burrito	1	$10.98 
+590	Steak Burrito	1	$9.25 
+590	Veggie Bowl	1	$8.75 
+590	Chips and Guacamole	1	$4.45 
+591	Chicken Bowl	1	$8.49 
+591	Canned Soda	1	$1.09 
+591	Chips and Roasted Chili-Corn Salsa	1	$2.39 
+592	Veggie Burrito	1	$8.75 
+592	Chicken Salad Bowl	1	$8.75 
+593	Steak Bowl	1	$11.48 
+594	Carnitas Burrito	1	$8.99 
+594	Chicken Burrito	1	$8.49 
+595	Chicken Burrito	1	$8.49 
+595	Chips and Fresh Tomato Salsa	1	$2.39 
+596	Chicken Burrito	1	$10.98 
+596	Chicken Soft Tacos	1	$8.49 
+596	Chips and Guacamole	1	$3.99 
+597	Steak Burrito	1	$11.75 
+597	Chips and Guacamole	1	$4.45 
+598	Chicken Salad Bowl	1	$8.75 
+598	Chips	1	$2.15 
+598	Canned Soft Drink	1	$1.25 
+599	Chicken Bowl	1	$10.98 
+599	Steak Bowl	1	$8.99 
+600	Chicken Soft Tacos	1	$11.25 
+600	Bottled Water	1	$1.50 
+601	Chicken Bowl	1	$8.75 
+601	Chips	1	$2.15 
+601	Canned Soft Drink	1	$1.25 
+602	Chicken Burrito	1	$8.75 
+602	Steak Bowl	1	$9.25 
+602	Chicken Salad Bowl	1	$8.75 
+603	Chicken Bowl	1	$11.25 
+603	Bottled Water	1	$1.50 
+604	Chicken Burrito	1	$8.75 
+604	Canned Soft Drink	1	$1.25 
+604	Chips and Guacamole	1	$4.45 
+605	Chicken Soft Tacos	1	$10.98 
+606	Chicken Bowl	1	$8.75 
+606	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+606	Canned Soft Drink	1	$1.25 
+607	Chicken Burrito	1	$8.75 
+607	Chips and Fresh Tomato Salsa	1	$2.95 
+607	Canned Soft Drink	1	$1.25 
+608	Chicken Soft Tacos	1	$8.49 
+608	Veggie Burrito	1	$8.49 
+608	Chips and Fresh Tomato Salsa	1	$2.39 
+609	Chicken Bowl	1	$11.25 
+609	Canned Soft Drink	1	$1.25 
+610	Chicken Burrito	1	$8.75 
+610	Chicken Burrito	1	$8.75 
+611	Steak Bowl	1	$9.25 
+611	Chicken Bowl	1	$8.75 
+612	Steak Salad Bowl	1	$11.89 
+612	Canned Soft Drink	1	$1.25 
+613	Chicken Bowl	1	$8.75 
+613	Chips	1	$2.15 
+613	Canned Soft Drink	1	$1.25 
+614	Steak Burrito	1	$8.99 
+614	Canned Soda	1	$1.09 
+615	Chicken Bowl	1	$8.75 
+615	Chips and Guacamole	1	$4.45 
+616	Chicken Bowl	3	$26.25 
+617	Chicken Bowl	1	$8.75 
+617	Chips and Guacamole	1	$4.45 
+618	Steak Burrito	1	$11.75 
+618	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+619	Chicken Bowl	1	$8.75 
+619	Chicken Burrito	1	$8.75 
+620	Steak Burrito	1	$11.75 
+620	Chicken Burrito	1	$8.75 
+621	Chicken Bowl	1	$11.25 
+621	Chicken Salad Bowl	1	$11.25 
+622	Chicken Bowl	1	$11.25 
+622	Chips and Guacamole	1	$4.45 
+622	Canned Soft Drink	1	$1.25 
+623	Chicken Bowl	1	$8.49 
+623	Chicken Bowl	1	$8.49 
+623	Chicken Bowl	1	$8.49 
+623	Barbacoa Burrito	1	$8.99 
+624	Barbacoa Burrito	1	$8.99 
+624	Chips and Tomatillo-Red Chili Salsa	1	$2.39 
+624	Chips and Tomatillo-Red Chili Salsa	1	$2.39 
+624	Chips and Guacamole	1	$3.99 
+625	Chicken Bowl	1	$8.75 
+625	Chips and Guacamole	1	$4.45 
+626	Chips	1	$2.15 
+626	Steak Bowl	1	$9.25 
+626	Canned Soft Drink	1	$1.25 
+627	Chicken Burrito	1	$11.25 
+627	Steak Soft Tacos	1	$11.75 
+628	Chicken Bowl	1	$8.75 
+628	Chips and Guacamole	1	$4.45 
+628	Chicken Bowl	1	$11.25 
+628	Chips	1	$2.15 
+628	Chicken Salad Bowl	1	$8.75 
+628	Chips and Guacamole	1	$4.45 
+629	Chicken Burrito	1	$8.75 
+629	Chicken Burrito	1	$8.75 
+629	Canned Soft Drink	1	$1.25 
+630	Chicken Bowl	1	$11.25 
+630	Chips	1	$2.15 
+631	Chicken Bowl	1	$8.75 
+631	Chips and Roasted Chili Corn Salsa	2	$5.90 
+632	Steak Bowl	1	$11.75 
+632	Canned Soft Drink	1	$1.25 
+633	Steak Burrito	1	$9.25 
+633	Canned Soft Drink	3	$3.75 
+634	Chicken Soft Tacos	1	$8.75 
+634	Canned Soft Drink	1	$1.25 
+634	Chips and Guacamole	1	$4.45 
+635	Steak Bowl	1	$11.75 
+635	Chips and Guacamole	1	$4.45 
+635	Chicken Burrito	1	$8.75 
+635	Steak Bowl	2	$23.50 
+636	Chicken Burrito	1	$8.75 
+636	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+636	Chicken Burrito	1	$8.75 
+637	Chicken Bowl	1	$8.75 
+637	Steak Salad Bowl	1	$11.89 
+637	Chips and Guacamole	1	$4.45 
+637	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+637	Canned Soft Drink	1	$1.25 
+638	Chicken Bowl	1	$8.75 
+638	Chips and Guacamole	1	$4.45 
+638	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+638	Canned Soft Drink	1	$1.25 
+639	Chicken Bowl	1	$8.75 
+639	Chips	1	$2.15 
+639	Canned Soft Drink	1	$1.25 
+640	Steak Burrito	1	$11.75 
+640	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+641	Barbacoa Burrito	1	$8.99 
+641	Nantucket Nectar	1	$3.39 
+642	Steak Burrito	1	$9.25 
+642	Carnitas Soft Tacos	1	$9.25 
+643	Chicken Bowl	2	$17.50 
+643	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+644	Steak Salad Bowl	1	$11.89 
+644	Bottled Water	1	$1.50 
+645	Chicken Bowl	1	$11.25 
+645	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+646	Carnitas Bowl	1	$9.25 
+646	Chicken Burrito	1	$11.25 
+647	Chicken Bowl	1	$11.25 
+647	Chips and Roasted Chili Corn Salsa	1	$2.95 
+648	Chicken Bowl	1	$8.75 
+648	Barbacoa Burrito	1	$9.25 
+648	Chips	2	$4.30 
+649	Chicken Salad Bowl	1	$8.75 
+649	Chicken Bowl	1	$8.75 
+649	Chicken Bowl	1	$11.25 
+649	Chicken Bowl	1	$8.75 
+649	Chips	2	$4.30 
+650	Chicken Burrito	1	$8.75 
+650	Canned Soft Drink	1	$1.25 
+650	Chips	1	$2.15 
+651	Chicken Bowl	1	$8.49 
+651	Chicken Bowl	1	$8.49 
+651	Izze	1	$3.39 
+651	Izze	1	$3.39 
+652	Chicken Burrito	1	$10.98 
+652	Chicken Soft Tacos	1	$10.98 
+652	Chips and Tomatillo-Green Chili Salsa	1	$2.39 
+653	Chicken Burrito	1	$11.25 
+653	Steak Soft Tacos	1	$11.75 
+654	Steak Bowl	1	$11.75 
+654	Canned Soft Drink	1	$1.25 
+654	Chips and Tomatillo Red Chili Salsa	2	$5.90 
+654	Chicken Salad Bowl	1	$8.75 
+654	Veggie Bowl	1	$11.25 
+655	Steak Bowl	1	$9.25 
+655	Chips and Guacamole	1	$4.45 
+655	Bottled Water	1	$1.50 
+656	Nantucket Nectar	1	$3.39 
+656	Carnitas Burrito	1	$8.99 
+656	Chips and Roasted Chili-Corn Salsa	1	$2.39 
+657	Chicken Bowl	1	$11.25 
+657	Chips	1	$2.15 
+658	Veggie Burrito	1	$11.25 
+658	Carnitas Crispy Tacos	1	$11.75 
+659	Steak Burrito	1	$11.75 
+659	Chips and Guacamole	1	$4.45 
+660	Steak Burrito	1	$11.75 
+660	Chips and Guacamole	1	$4.45 
+661	Steak Burrito	1	$9.25 
+661	Chicken Bowl	1	$8.75 
+662	Chicken Burrito	1	$8.49 
+662	Steak Burrito	1	$8.99 
+663	Chicken Burrito	1	$8.49 
+663	Barbacoa Soft Tacos	1	$8.99 
+664	Barbacoa Bowl	1	$11.75 
+664	Veggie Bowl	1	$8.75 
+665	Chicken Bowl	1	$8.49 
+665	Chips and Guacamole	1	$3.99 
+666	Chips and Guacamole	1	$3.89 
+666	Barbacoa Burrito	1	$11.08 
+667	Chicken Bowl	1	$8.49 
+667	Barbacoa Bowl	1	$8.99 
+667	Chicken Bowl	1	$8.49 
+668	Veggie Burrito	1	$8.49 
+668	Veggie Crispy Tacos	1	$8.49 
+669	Chicken Burrito	1	$11.25 
+669	Chips	1	$2.15 
+670	Chicken Burrito	2	$17.50 
+670	Chicken Soft Tacos	1	$8.75 
+670	Chips and Roasted Chili Corn Salsa	1	$2.95 
+671	Chicken Burrito	1	$8.49 
+671	Chicken Bowl	1	$8.49 
+672	Chicken Burrito	1	$10.98 
+672	Canned Soda	1	$1.09 
+673	Chicken Burrito	1	$11.25 
+673	Chips	1	$2.15 
+674	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+674	Canned Soft Drink	1	$1.25 
+674	Chicken Burrito	1	$8.75 
+675	Carnitas Soft Tacos	1	$9.25 
+675	Barbacoa Soft Tacos	1	$9.25 
+676	Barbacoa Bowl	1	$9.25 
+676	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+677	Chicken Bowl	1	$8.75 
+677	Chips	1	$2.15 
+677	Canned Soft Drink	1	$1.25 
+678	Steak Burrito	1	$8.99 
+678	Chips and Guacamole	1	$3.99 
+679	Carnitas Burrito	1	$11.75 
+679	Chips	1	$2.15 
+680	Carnitas Bowl	1	$8.99 
+680	Izze	1	$3.39 
+681	Steak Burrito	1	$9.25 
+681	Chicken Soft Tacos	1	$8.75 
+682	Chicken Bowl	1	$11.25 
+682	Chicken Bowl	1	$11.25 
+682	Chips and Guacamole	1	$4.45 
+683	Chicken Bowl	1	$8.75 
+683	Chips	1	$2.15 
+683	Canned Soft Drink	1	$1.25 
+684	Steak Burrito	1	$11.75 
+684	Chips and Guacamole	1	$4.45 
+685	Steak Burrito	1	$9.25 
+685	Chips and Fresh Tomato Salsa	1	$2.95 
+686	Chicken Bowl	1	$8.49 
+686	Veggie Salad	1	$8.49 
+687	Veggie Burrito	1	$11.25 
+687	Chicken Soft Tacos	1	$8.75 
+687	Chips and Guacamole	1	$4.45 
+688	Chicken Burrito	1	$11.25 
+688	Veggie Soft Tacos	1	$11.25 
+688	Chicken Burrito	1	$11.25 
+688	Chicken Bowl	1	$11.25 
+688	Chips and Guacamole	1	$4.45 
+689	Chicken Bowl	1	$8.49 
+689	Side of Chips	1	$1.69 
+690	Chicken Bowl	1	$8.49 
+690	Nantucket Nectar	1	$3.39 
+691	Chicken Burrito	1	$8.75 
+691	Chicken Salad Bowl	1	$11.25 
+691	Steak Burrito	1	$9.25 
+691	Chicken Burrito	1	$8.75 
+691	Chicken Bowl	1	$11.25 
+691	Chicken Burrito	1	$11.25 
+691	Steak Burrito	1	$11.75 
+691	Chicken Burrito	1	$11.25 
+691	Steak Burrito	1	$11.75 
+691	Chicken Bowl	1	$11.25 
+691	Steak Burrito	1	$11.75 
+692	Chicken Burrito	2	$21.96 
+693	Chicken Bowl	1	$10.98 
+693	Side of Chips	1	$1.69 
+694	Steak Soft Tacos	1	$11.48 
+694	Steak Bowl	1	$8.99 
+695	Chicken Burrito	1	$8.49 
+695	Side of Chips	1	$1.69 
+696	Steak Bowl	1	$9.25 
+696	Chips	1	$2.15 
+696	Bottled Water	1	$1.50 
+697	Chicken Burrito	1	$11.25 
+697	Bottled Water	1	$1.50 
+698	Chicken Bowl	1	$8.75 
+698	Chicken Bowl	1	$8.75 
+698	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+699	Chicken Bowl	1	$8.49 
+699	Side of Chips	1	$1.69 
+700	Chicken Bowl	1	$8.75 
+700	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+700	Canned Soft Drink	1	$1.25 
+701	Chicken Salad Bowl	1	$11.25 
+701	Chips	1	$2.15 
+702	Carnitas Bowl	1	$11.08 
+703	Chicken Bowl	1	$8.49 
+703	Chicken Bowl	1	$8.49 
+703	Chicken Bowl	1	$8.49 
+704	Steak Bowl	1	$11.75 
+704	Canned Soft Drink	1	$1.25 
+705	Barbacoa Bowl	1	$11.75 
+705	Chicken Burrito	1	$8.75 
+706	Chicken Burrito	1	$8.75 
+706	Veggie Bowl	1	$8.75 
+706	Chips and Guacamole	1	$4.45 
+707	Chicken Burrito	1	$11.25 
+707	Bottled Water	1	$1.50 
+708	Steak Burrito	2	$23.50 
+708	Barbacoa Soft Tacos	1	$11.75 
+708	6 Pack Soft Drink	1	$6.49 
+709	Chicken Salad Bowl	1	$8.75 
+709	Chips and Guacamole	1	$4.45 
+709	6 Pack Soft Drink	1	$6.49 
+710	Chicken Bowl	1	$8.75 
+710	Canned Soft Drink	2	$2.50 
+710	Chips	1	$2.15 
+711	Chicken Bowl	1	$8.49 
+711	Chips and Tomatillo-Red Chili Salsa	1	$2.39 
+712	Chicken Burrito	1	$8.75 
+712	Steak Burrito	1	$11.75 
+712	Chips and Guacamole	1	$4.45 
+713	Carnitas Bowl	1	$8.99 
+713	Veggie Burrito	1	$10.98 
+714	Steak Burrito	1	$9.25 
+714	Chips and Fresh Tomato Salsa	1	$2.95 
+715	Steak Burrito	1	$9.25 
+715	Carnitas Soft Tacos	1	$9.25 
+716	Steak Burrito	1	$11.75 
+716	Chicken Burrito	1	$8.75 
+717	Chicken Burrito	1	$8.75 
+717	Chicken Burrito	1	$8.75 
+718	Chicken Bowl	1	$10.98 
+719	Veggie Burrito	1	$11.25 
+719	Steak Bowl	1	$9.25 
+720	Chicken Bowl	1	$8.75 
+720	Chicken Soft Tacos	1	$8.75 
+720	Chips	1	$2.15 
+721	Chicken Bowl	1	$11.25 
+721	Chips	1	$2.15 
+722	Chips and Guacamole	1	$4.45 
+722	Steak Bowl	1	$11.75 
+723	Chicken Bowl	1	$8.49 
+723	Chips and Fresh Tomato Salsa	1	$2.39 
+724	Carnitas Soft Tacos	1	$9.25 
+724	Canned Soft Drink	1	$1.25 
+724	Canned Soft Drink	1	$1.25 
+724	Canned Soft Drink	1	$1.25 
+725	Canned Soft Drink	1	$1.25 
+725	Chicken Bowl	1	$8.75 
+725	Chips	1	$2.15 
+726	Chicken Bowl	1	$8.49 
+726	Side of Chips	1	$1.69 
+727	Chicken Bowl	1	$11.25 
+727	Bottled Water	1	$1.50 
+728	Chicken Burrito	1	$8.75 
+728	Chicken Soft Tacos	1	$8.75 
+729	Chicken Bowl	1	$8.49 
+729	Chips and Guacamole	1	$3.99 
+730	Barbacoa Bowl	1	$8.99 
+730	Canned Soda	1	$1.09 
+731	Chicken Salad Bowl	1	$11.25 
+731	Canned Soft Drink	1	$1.25 
+732	Chicken Burrito	1	$8.49 
+732	Chips and Fresh Tomato Salsa	1	$2.39 
+732	Chicken Soft Tacos	1	$8.49 
+733	Chicken Bowl	1	$8.75 
+733	Barbacoa Burrito	1	$9.25 
+734	Chicken Salad Bowl	1	$11.25 
+734	Chips and Guacamole	1	$4.45 
+734	Chicken Salad Bowl	1	$11.25 
+734	Steak Salad Bowl	1	$11.89 
+735	Steak Burrito	1	$8.99 
+735	Chicken Soft Tacos	1	$8.49 
+736	Chicken Burrito	1	$8.75 
+736	Chips and Guacamole	1	$4.45 
+737	Chicken Burrito	1	$8.75 
+737	Steak Bowl	1	$11.75 
+737	Steak Bowl	1	$11.75 
+737	Chips and Guacamole	2	$8.90 
+738	Barbacoa Salad Bowl	1	$9.39 
+738	Chips and Fresh Tomato Salsa	1	$2.95 
+739	Chicken Burrito	1	$8.49 
+739	Chips and Guacamole	1	$3.99 
+740	Chicken Bowl	1	$8.75 
+740	Chips	1	$2.15 
+740	Canned Soft Drink	1	$1.25 
+741	Chicken Bowl	2	$21.96 
+742	Veggie Bowl	1	$8.49 
+742	Side of Chips	1	$1.69 
+743	Chicken Burrito	1	$8.75 
+743	Chips and Guacamole	1	$4.45 
+744	Chicken Soft Tacos	1	$8.49 
+744	Carnitas Crispy Tacos	1	$8.99 
+745	Chicken Bowl	1	$8.49 
+745	Chips and Guacamole	1	$3.99 
+746	Veggie Bowl	1	$8.75 
+746	Chicken Burrito	1	$8.75 
+746	Chips and Fresh Tomato Salsa	1	$2.95 
+746	Chicken Crispy Tacos	1	$8.75 
+747	Chicken Burrito	2	$17.50 
+748	Barbacoa Burrito	1	$9.25 
+748	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+749	Chicken Bowl	1	$8.75 
+749	6 Pack Soft Drink	1	$6.49 
+750	Chips	2	$4.30 
+750	Chicken Bowl	1	$8.75 
+751	Chicken Bowl	1	$8.75 
+751	Chips	1	$2.15 
+751	Bottled Water	1	$1.50 
+752	Chicken Bowl	1	$8.49 
+752	Chicken Bowl	1	$8.49 
+752	Chips and Tomatillo-Red Chili Salsa	1	$2.39 
+753	Steak Burrito	1	$9.25 
+753	Chips and Guacamole	1	$4.45 
+754	6 Pack Soft Drink	1	$6.49 
+754	Steak Burrito	1	$11.75 
+754	Chips and Guacamole	1	$4.45 
+755	Veggie Bowl	1	$10.98 
+755	Side of Chips	1	$1.69 
+756	Carnitas Salad Bowl	1	$9.39 
+756	Barbacoa Crispy Tacos	1	$9.25 
+757	Steak Bowl	1	$9.25 
+757	Chips and Fresh Tomato Salsa	1	$2.95 
+758	Chicken Burrito	1	$8.75 
+758	Chips	1	$2.15 
+758	Canned Soft Drink	1	$1.25 
+759	Chicken Bowl	1	$11.25 
+759	Carnitas Bowl	1	$9.25 
+759	Chicken Soft Tacos	1	$8.75 
+759	Veggie Bowl	1	$11.25 
+759	Chicken Bowl	1	$8.75 
+759	Chicken Bowl	1	$11.25 
+759	Canned Soft Drink	2	$2.50 
+759	Canned Soft Drink	2	$2.50 
+759	Bottled Water	4	$6.00 
+759	Chips and Guacamole	2	$8.90 
+759	Chips and Fresh Tomato Salsa	2	$5.90 
+760	Chicken Salad Bowl	1	$11.25 
+760	Veggie Salad Bowl	1	$11.25 
+761	Chicken Burrito	1	$8.49 
+761	Chicken Burrito	1	$10.98 
+762	Chicken Bowl	1	$8.75 
+762	Chips	1	$2.15 
+762	Bottled Water	1	$1.50 
+763	Steak Bowl	1	$9.25 
+763	Canned Soft Drink	1	$1.25 
+763	Bottled Water	1	$1.50 
+763	Chips	1	$2.15 
+764	Canned Soft Drink	1	$1.25 
+764	Chicken Bowl	1	$8.75 
+764	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+765	Chicken Soft Tacos	1	$8.49 
+765	Chips and Guacamole	1	$3.99 
+766	Chicken Salad Bowl	1	$11.25 
+766	Chips	2	$4.30 
+767	Steak Bowl	1	$11.75 
+767	Chips	1	$2.15 
+768	Barbacoa Crispy Tacos	2	$18.50 
+769	Chicken Bowl	1	$8.49 
+769	Chips and Fresh Tomato Salsa	1	$2.39 
+770	Chicken Bowl	1	$8.75 
+770	Chips and Guacamole	1	$4.45 
+770	Carnitas Bowl	1	$11.75 
+771	Carnitas Burrito	1	$8.99 
+771	Chips and Guacamole	1	$3.99 
+772	Steak Burrito	1	$9.25 
+772	Steak Soft Tacos	1	$9.25 
+773	Bottled Water	1	$1.50 
+773	Chicken Bowl	1	$8.75 
+773	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+774	6 Pack Soft Drink	1	$6.49 
+774	Carnitas Bowl	1	$11.75 
+775	Chicken Burrito	1	$8.49 
+775	Steak Burrito	1	$8.99 
+776	Chicken Bowl	1	$8.75 
+776	Chips and Guacamole	1	$4.45 
+776	6 Pack Soft Drink	1	$6.49 
+777	Chicken Salad Bowl	2	$22.50 
+778	Steak Bowl	1	$9.25 
+778	Chips and Roasted Chili Corn Salsa	1	$2.95 
+779	Chicken Bowl	1	$8.49 
+779	Side of Chips	1	$1.69 
+780	Chicken Bowl	1	$10.98 
+781	Chicken Bowl	1	$8.75 
+781	Chips and Guacamole	1	$4.45 
+782	Chicken Bowl	1	$11.25 
+782	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+783	Steak Bowl	1	$8.99 
+783	Chicken Bowl	1	$8.49 
+783	Chips and Tomatillo-Green Chili Salsa	1	$2.39 
+784	Steak Burrito	1	$11.75 
+784	6 Pack Soft Drink	1	$6.49 
+784	Chicken Soft Tacos	1	$11.25 
+785	Steak Burrito	1	$11.75 
+785	Chips and Fresh Tomato Salsa	1	$2.95 
+786	Steak Bowl	1	$8.99 
+786	Side of Chips	1	$1.69 
+787	Steak Bowl	1	$8.99 
+787	Canned Soda	2	$2.18 
+787	Canned Soda	1	$1.09 
+787	Steak Burrito	1	$8.99 
+787	Carnitas Burrito	1	$8.99 
+788	Canned Soda	1	$1.09 
+788	Steak Burrito	1	$8.99 
+789	Steak Burrito	1	$8.99 
+789	Chicken Soft Tacos	1	$8.49 
+790	Chicken Bowl	1	$10.98 
+790	Canned Soda	1	$1.09 
+791	Steak Burrito	1	$11.75 
+791	Steak Bowl	1	$9.25 
+791	Chicken Salad Bowl	1	$11.25 
+791	Chicken Burrito	1	$11.25 
+791	Chips	1	$2.15 
+792	Veggie Burrito	1	$11.25 
+792	Chicken Soft Tacos	1	$8.75 
+792	Chips and Guacamole	1	$4.45 
+792	Chips and Roasted Chili Corn Salsa	1	$2.95 
+793	Carnitas Soft Tacos	1	$11.75 
+793	Bottled Water	1	$1.50 
+794	Steak Burrito	1	$8.99 
+794	Chicken Bowl	1	$10.98 
+794	Chips and Tomatillo-Green Chili Salsa	1	$2.39 
+795	Chicken Burrito	1	$8.75 
+795	Chips	1	$2.15 
+795	Barbacoa Bowl	1	$9.25 
+796	Bottled Water	1	$1.50 
+796	Chicken Bowl	1	$8.75 
+796	Chips	1	$2.15 
+797	Chips and Guacamole	1	$3.99 
+797	Steak Bowl	1	$8.99 
+798	6 Pack Soft Drink	1	$6.49 
+798	Chicken Salad Bowl	1	$8.75 
+798	Chips and Guacamole	2	$8.90 
+799	Steak Soft Tacos	1	$8.99 
+799	Chips and Guacamole	1	$3.99 
+800	Chicken Burrito	2	$17.50 
+801	Veggie Burrito	1	$11.25 
+801	Canned Soft Drink	1	$1.25 
+802	Chicken Bowl	1	$10.98 
+803	Barbacoa Soft Tacos	1	$9.25 
+803	Chips and Guacamole	1	$4.45 
+803	Canned Soft Drink	1	$1.25 
+803	Bottled Water	2	$3.00 
+804	Chicken Bowl	1	$11.25 
+804	Chips and Guacamole	1	$4.45 
+805	Chips and Guacamole	1	$4.45 
+805	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+805	Steak Burrito	1	$9.25 
+806	Chicken Bowl	1	$11.25 
+806	Chips	1	$2.15 
+806	Chicken Bowl	1	$11.25 
+806	Chicken Bowl	1	$11.25 
+806	Chips and Guacamole	1	$4.45 
+807	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+807	Carnitas Soft Tacos	1	$9.25 
+807	Chicken Bowl	1	$11.25 
+807	Canned Soft Drink	1	$1.25 
+808	Chicken Bowl	1	$8.75 
+808	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+808	Canned Soft Drink	1	$1.25 
+809	Chicken Bowl	1	$8.75 
+809	Chips and Guacamole	1	$4.45 
+810	Steak Burrito	1	$11.48 
+810	Steak Burrito	1	$11.48 
+811	Chicken Bowl	1	$8.49 
+811	Chips and Tomatillo-Red Chili Salsa	1	$2.39 
+812	Chicken Bowl	1	$11.25 
+812	Barbacoa Bowl	1	$11.75 
+812	Chips	1	$2.15 
+813	Bottled Water	1	$1.50 
+813	Chips	1	$2.15 
+813	Chicken Bowl	1	$8.75 
+814	Chicken Bowl	1	$11.25 
+814	Chips and Guacamole	2	$8.90 
+814	Chicken Bowl	1	$11.25 
+815	Chicken Bowl	1	$11.25 
+815	Canned Soft Drink	1	$1.25 
+816	Chips and Guacamole	1	$4.45 
+816	Steak Burrito	1	$9.25 
+816	Steak Crispy Tacos	1	$9.25 
+816	Chicken Burrito	1	$8.75 
+817	Carnitas Bowl	1	$9.25 
+817	Veggie Bowl	1	$8.75 
+817	Chicken Burrito	1	$8.75 
+818	Steak Bowl	1	$9.25 
+818	Chicken Salad Bowl	1	$8.75 
+818	Carnitas Burrito	1	$11.75 
+818	Carnitas Bowl	1	$11.75 
+818	Veggie Bowl	1	$8.75 
+818	Chicken Bowl	1	$8.75 
+818	Chips and Guacamole	2	$8.90 
+818	Chips and Fresh Tomato Salsa	1	$2.95 
+819	Chicken Bowl	1	$10.98 
+820	Veggie Bowl	1	$8.49 
+820	Chicken Burrito	1	$8.49 
+821	Chicken Burrito	1	$10.98 
+822	Steak Bowl	1	$8.99 
+822	Steak Bowl	1	$8.99 
+823	Steak Burrito	1	$11.75 
+823	Chicken Burrito	2	$17.50 
+823	Steak Bowl	1	$11.75 
+824	Chips and Guacamole	1	$3.99 
+824	Chicken Soft Tacos	1	$8.49 
+825	Chicken Bowl	1	$10.98 
+825	Side of Chips	1	$1.69 
+826	Chicken Burrito	2	$17.50 
+827	Steak Burrito	1	$8.99 
+827	Chips and Roasted Chili-Corn Salsa	1	$2.39 
+828	Steak Burrito	1	$8.99 
+828	Chips and Fresh Tomato Salsa	1	$2.39 
+829	Canned Soft Drink	1	$1.25 
+829	Chicken Bowl	1	$8.75 
+829	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+830	Steak Burrito	1	$11.75 
+830	Chicken Soft Tacos	1	$11.25 
+831	Chicken Burrito	2	$17.50 
+832	Chicken Bowl	1	$8.49 
+832	Veggie Bowl	1	$8.49 
+832	Chips and Fresh Tomato Salsa	1	$2.39 
+833	Chicken Bowl	1	$11.25 
+833	Bottled Water	1	$1.50 
+834	Veggie Burrito	1	$8.75 
+834	Bottled Water	2	$3.00 
+834	Canned Soft Drink	1	$1.25 
+835	Chicken Bowl	1	$8.75 
+835	Chips and Guacamole	1	$4.45 
+836	Steak Bowl	1	$11.75 
+836	Barbacoa Bowl	1	$11.75 
+836	Chips and Guacamole	1	$4.45 
+837	Chicken Bowl	2	$21.96 
+838	Chicken Soft Tacos	1	$8.75 
+838	Chips and Guacamole	1	$4.45 
+838	Chicken Soft Tacos	1	$8.75 
+839	Chicken Soft Tacos	1	$11.25 
+839	Carnitas Soft Tacos	1	$9.25 
+840	Steak Burrito	1	$8.99 
+840	Chips and Fresh Tomato Salsa	1	$2.39 
+841	Barbacoa Soft Tacos	1	$9.25 
+841	Veggie Burrito	1	$8.75 
+842	Chicken Burrito	1	$10.98 
+842	Chicken Soft Tacos	1	$8.49 
+842	Chips and Guacamole	1	$3.99 
+842	Izze	1	$3.39 
+843	Steak Bowl	1	$11.75 
+843	Bottled Water	1	$1.50 
+844	Chips and Guacamole	1	$4.45 
+844	Carnitas Burrito	1	$9.25 
+844	Chicken Burrito	1	$8.75 
+845	Canned Soft Drink	1	$1.25 
+845	Steak Bowl	1	$11.75 
+846	Veggie Burrito	1	$8.75 
+846	Bottled Water	1	$1.50 
+846	Chicken Burrito	1	$8.75 
+847	Chicken Bowl	1	$8.75 
+847	Chips	1	$2.15 
+847	Bottled Water	1	$1.50 
+848	Chicken Burrito	1	$8.75 
+848	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+848	Chicken Bowl	1	$8.75 
+848	Chicken Burrito	1	$8.75 
+848	Chicken Bowl	2	$17.50 
+848	Chicken Burrito	1	$8.75 
+849	6 Pack Soft Drink	1	$6.49 
+849	Chips and Guacamole	1	$4.45 
+849	Chicken Burrito	1	$11.25 
+850	Chicken Salad Bowl	1	$11.25 
+850	Chips	2	$4.30 
+850	Chicken Salad Bowl	1	$8.75 
+851	Chicken Bowl	1	$11.25 
+851	Chips and Guacamole	1	$4.45 
+852	Steak Burrito	1	$8.99 
+852	Chips and Fresh Tomato Salsa	1	$2.39 
+853	Steak Burrito	1	$9.25 
+853	Carnitas Soft Tacos	1	$9.25 
+854	Steak Burrito	1	$9.25 
+854	Chips and Guacamole	1	$4.45 
+855	Steak Burrito	1	$11.75 
+855	Veggie Bowl	1	$11.25 
+855	Chips and Fresh Tomato Salsa	1	$2.95 
+855	Chips	1	$2.15 
+856	Chicken Burrito	1	$11.25 
+856	Chicken Burrito	1	$11.25 
+857	Chicken Bowl	1	$8.75 
+857	Chips	1	$2.15 
+857	Bottled Water	1	$1.50 
+858	Barbacoa Burrito	1	$9.25 
+858	Chips and Guacamole	1	$4.45 
+859	Chicken Burrito	1	$10.98 
+859	Steak Burrito	1	$8.99 
+859	Canned Soda	2	$2.18 
+860	Chicken Burrito	1	$8.75 
+860	Chips and Guacamole	1	$4.45 
+860	Canned Soft Drink	1	$1.25 
+861	Steak Soft Tacos	1	$8.99 
+861	Chips and Roasted Chili-Corn Salsa	1	$2.39 
+862	Chips and Guacamole	1	$4.45 
+862	Chicken Burrito	1	$8.75 
+863	Chicken Burrito	1	$10.98 
+864	Steak Soft Tacos	1	$11.75 
+864	Bottled Water	1	$1.50 
+865	Chicken Bowl	1	$10.98 
+866	Steak Bowl	1	$8.99 
+866	Chicken Bowl	1	$8.49 
+866	Chips and Guacamole	1	$3.99 
+867	Steak Burrito	1	$8.99 
+867	Chicken Soft Tacos	1	$8.49 
+868	Chips and Guacamole	1	$3.99 
+868	Chicken Burrito	1	$8.49 
+868	Chicken Burrito	1	$8.49 
+868	Steak Burrito	1	$8.99 
+869	Veggie Salad Bowl	1	$11.25 
+869	Chicken Bowl	1	$11.25 
+870	Chicken Burrito	1	$10.98 
+871	Chicken Burrito	1	$10.98 
+872	Chicken Burrito	1	$10.98 
+872	Chips and Tomatillo-Green Chili Salsa	1	$2.39 
+872	Nantucket Nectar	1	$3.39 
+873	Chicken Bowl	1	$8.75 
+873	Canned Soft Drink	1	$1.25 
+873	Chips and Fresh Tomato Salsa	1	$2.95 
+874	Steak Bowl	1	$11.75 
+874	Bottled Water	1	$1.50 
+875	Chicken Bowl	1	$10.98 
+875	Side of Chips	1	$1.69 
+876	Chips and Guacamole	1	$4.45 
+876	Chicken Burrito	1	$8.75 
+877	Chicken Bowl	1	$8.75 
+877	Chicken Bowl	1	$8.75 
+878	Chicken Bowl	1	$8.75 
+878	Chips and Guacamole	1	$4.45 
+879	Steak Burrito	1	$9.25 
+879	Veggie Burrito	1	$8.75 
+879	Chicken Bowl	1	$11.25 
+879	Chicken Bowl	1	$8.75 
+880	Chips and Guacamole	1	$3.99 
+880	Steak Bowl	1	$8.99 
+880	Chicken Burrito	1	$8.49 
+881	Chicken Bowl	1	$11.25 
+881	Chicken Burrito	1	$11.25 
+881	Chicken Burrito	1	$8.75 
+882	Chips and Guacamole	1	$4.45 
+882	Chicken Bowl	1	$8.75 
+883	Chips and Guacamole	1	$4.45 
+883	Canned Soft Drink	1	$1.25 
+883	Chicken Bowl	1	$8.75 
+884	Chicken Bowl	1	$8.75 
+884	Bottled Water	1	$1.50 
+884	Chips	1	$2.15 
+885	Carnitas Bowl	1	$11.75 
+885	Steak Burrito	1	$11.75 
+886	Steak Bowl	1	$11.75 
+886	Steak Bowl	1	$11.75 
+887	Steak Bowl	1	$11.75 
+887	Bottled Water	1	$1.50 
+888	Chicken Burrito	1	$8.75 
+888	Carnitas Soft Tacos	1	$9.25 
+888	Canned Soft Drink	1	$1.25 
+888	Chicken Burrito	1	$8.75 
+888	Chips	1	$2.15 
+889	Steak Burrito	1	$8.99 
+889	Canned Soda	1	$1.09 
+890	Chips and Guacamole	1	$4.45 
+890	Chicken Burrito	1	$11.25 
+890	Steak Bowl	1	$11.75 
+891	Chips	1	$2.15 
+891	Chicken Bowl	1	$8.75 
+891	Chicken Burrito	1	$8.75 
+892	Canned Soft Drink	1	$1.25 
+892	Steak Bowl	1	$9.25 
+892	Chips	1	$2.15 
+893	Steak Burrito	1	$11.75 
+893	Chicken Burrito	1	$11.25 
+894	Veggie Burrito	1	$8.75 
+894	Veggie Burrito	1	$11.25 
+894	Chips and Guacamole	1	$4.45 
+895	Chicken Burrito	1	$8.49 
+895	Side of Chips	1	$1.69 
+896	Veggie Salad Bowl	1	$8.75 
+896	Chicken Salad Bowl	1	$8.75 
+897	Steak Burrito	1	$8.99 
+897	Chicken Soft Tacos	1	$8.49 
+898	Steak Crispy Tacos	1	$9.25 
+898	Chicken Bowl	1	$11.25 
+898	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+899	Chips and Guacamole	1	$4.45 
+899	Steak Crispy Tacos	1	$11.75 
+899	6 Pack Soft Drink	1	$6.49 
+900	Carnitas Bowl	1	$11.48 
+900	Steak Bowl	1	$8.99 
+901	Canned Soda	4	$4.36 
+901	Steak Burrito	1	$11.48 
+901	Steak Burrito	1	$8.99 
+901	Chicken Burrito	1	$8.49 
+902	Carnitas Burrito	1	$11.48 
+903	Chicken Bowl	1	$8.75 
+903	Chips	1	$2.15 
+903	Bottled Water	1	$1.50 
+904	Barbacoa Burrito	1	$8.99 
+904	Side of Chips	1	$1.69 
+905	Chicken Bowl	1	$11.25 
+905	Canned Soft Drink	1	$1.25 
+906	Carnitas Soft Tacos	1	$9.25 
+906	Barbacoa Soft Tacos	1	$9.25 
+907	Chicken Soft Tacos	1	$8.75 
+907	Steak Soft Tacos	1	$9.25 
+907	Chips and Guacamole	2	$8.90 
+907	Chips	1	$2.15 
+907	Barbacoa Bowl	1	$9.25 
+908	Chicken Burrito	1	$10.98 
+908	Chicken Burrito	1	$8.49 
+909	Chicken Bowl	1	$8.75 
+909	Barbacoa Burrito	1	$9.25 
+909	Chips	2	$4.30 
+910	Barbacoa Soft Tacos	1	$9.25 
+910	Chicken Bowl	1	$8.75 
+911	Chicken Burrito	1	$8.75 
+911	Chips	1	$2.15 
+911	Canned Soft Drink	1	$1.25 
+912	Chicken Bowl	1	$8.75 
+912	Canned Soft Drink	1	$1.25 
+912	Chicken Bowl	1	$8.75 
+912	Chips and Fresh Tomato Salsa	2	$5.90 
+913	Carnitas Bowl	1	$9.25 
+913	Veggie Salad Bowl	1	$8.75 
+913	Carnitas Burrito	1	$9.25 
+913	Chips and Guacamole	1	$4.45 
+914	Steak Bowl	1	$9.25 
+914	Steak Bowl	1	$11.75 
+915	Canned Soft Drink	2	$2.50 
+915	Steak Bowl	1	$9.25 
+915	Chips	1	$2.15 
+916	Steak Bowl	1	$9.25 
+916	Bottled Water	1	$1.50 
+916	Canned Soft Drink	1	$1.25 
+916	Veggie Burrito	1	$11.25 
+916	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+916	Chicken Bowl	1	$8.75 
+916	Chicken Soft Tacos	1	$8.75 
+916	Chicken Soft Tacos	1	$8.75 
+917	Chicken Burrito	1	$10.98 
+918	Chicken Burrito	1	$8.75 
+918	Chicken Soft Tacos	1	$8.75 
+919	Chicken Burrito	1	$8.75 
+919	Chips	1	$2.15 
+919	Canned Soft Drink	1	$1.25 
+920	Chicken Burrito	1	$10.98 
+921	Chicken Bowl	1	$8.75 
+921	Chips	1	$2.15 
+921	Bottled Water	1	$1.50 
+922	Chicken Bowl	1	$8.75 
+922	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+922	Canned Soft Drink	1	$1.25 
+923	Carnitas Soft Tacos	1	$9.25 
+923	Carnitas Soft Tacos	1	$9.25 
+924	Chicken Burrito	1	$8.49 
+924	Chips and Roasted Chili-Corn Salsa	1	$2.39 
+925	Chicken Burrito	1	$8.75 
+925	Chips and Guacamole	1	$4.45 
+926	Steak Burrito	1	$9.25 
+926	Chicken Bowl	1	$8.75 
+926	Chicken Bowl	1	$8.75 
+926	Chicken Bowl	1	$8.75 
+926	Steak Bowl	1	$9.25 
+926	Chicken Bowl	1	$8.75 
+926	Steak Burrito	1	$9.25 
+926	Chicken Burrito	1	$8.75 
+926	Chicken Bowl	1	$8.75 
+926	Chicken Bowl	1	$8.75 
+926	Chicken Salad Bowl	1	$8.75 
+926	Steak Bowl	1	$9.25 
+926	Chicken Burrito	1	$8.75 
+926	Steak Bowl	1	$9.25 
+926	Chicken Bowl	1	$8.75 
+926	Steak Bowl	1	$9.25 
+926	Chicken Burrito	1	$8.75 
+926	Chicken Bowl	1	$8.75 
+926	Chicken Bowl	1	$8.75 
+926	Barbacoa Burrito	1	$9.25 
+926	Chicken Burrito	1	$8.75 
+926	Steak Bowl	1	$9.25 
+926	Veggie Bowl	1	$8.75 
+927	Steak Burrito	1	$8.99 
+927	Steak Burrito	1	$8.99 
+928	Chicken Bowl	1	$8.75 
+928	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+928	Canned Soft Drink	1	$1.25 
+929	Steak Bowl	1	$11.75 
+929	Bottled Water	1	$1.50 
+930	Chicken Bowl	1	$11.25 
+930	Chicken Bowl	1	$11.25 
+931	Chicken Bowl	1	$8.75 
+931	Bottled Water	1	$1.50 
+931	Chips	1	$2.15 
+932	Chicken Bowl	2	$16.98 
+933	Steak Bowl	1	$11.75 
+933	Bottled Water	1	$1.50 
+934	Chicken Bowl	1	$8.75 
+934	Chips	2	$4.30 
+934	Bottled Water	1	$1.50 
+935	Chicken Burrito	1	$8.75 
+935	Chips and Roasted Chili Corn Salsa	1	$2.95 
+935	Canned Soft Drink	1	$1.25 
+936	Canned Soft Drink	1	$1.25 
+936	Steak Burrito	1	$9.25 
+936	Chips and Guacamole	1	$4.45 
+937	Chicken Bowl	1	$11.25 
+937	Chicken Burrito	1	$8.75 
+937	Chips and Guacamole	1	$4.45 
+938	Chicken Bowl	1	$8.75 
+938	Chips	1	$2.15 
+938	Canned Soft Drink	1	$1.25 
+939	Chicken Bowl	1	$10.98 
+939	Side of Chips	1	$1.69 
+940	Chicken Burrito	1	$8.75 
+940	Canned Soft Drink	1	$1.25 
+940	Chicken Bowl	1	$8.75 
+940	Canned Soft Drink	1	$1.25 
+941	Chicken Bowl	1	$11.25 
+941	Chicken Burrito	1	$8.75 
+941	Chicken Bowl	1	$8.75 
+942	Chicken Burrito	1	$8.49 
+942	Side of Chips	1	$1.69 
+943	Carnitas Bowl	1	$9.25 
+943	Steak Burrito	1	$11.75 
+944	Chicken Bowl	1	$8.49 
+944	Chips and Roasted Chili-Corn Salsa	1	$2.39 
+945	Barbacoa Bowl	1	$9.25 
+945	Chips and Roasted Chili Corn Salsa	1	$2.95 
+945	6 Pack Soft Drink	1	$6.49 
+945	Chicken Crispy Tacos	1	$8.75 
+946	Veggie Bowl	1	$8.75 
+946	Steak Burrito	1	$9.25 
+946	Chicken Bowl	1	$8.75 
+947	Nantucket Nectar	2	$6.78 
+947	Steak Burrito	2	$17.98 
+947	Nantucket Nectar	1	$3.39 
+948	Carnitas Burrito	1	$11.75 
+948	Chicken Bowl	1	$11.25 
+948	Veggie Soft Tacos	1	$8.75 
+949	Chips and Guacamole	1	$4.45 
+949	Steak Bowl	1	$11.75 
+949	Steak Bowl	1	$9.25 
+949	Chicken Burrito	1	$8.75 
+949	6 Pack Soft Drink	1	$6.49 
+950	Steak Burrito	1	$8.99 
+950	Chips and Fresh Tomato Salsa	1	$2.39 
+951	Veggie Bowl	1	$8.75 
+951	Chicken Burrito	1	$11.25 
+952	Steak Burrito	1	$11.75 
+952	Chips and Guacamole	1	$4.45 
+952	Chicken Bowl	1	$8.75 
+952	Chips	1	$2.15 
+953	Barbacoa Burrito	1	$9.25 
+953	Barbacoa Bowl	1	$9.25 
+953	Barbacoa Burrito	1	$9.25 
+953	Steak Salad Bowl	1	$11.89 
+953	Steak Bowl	1	$11.75 
+953	Chicken Salad Bowl	1	$11.25 
+953	Carnitas Bowl	1	$9.25 
+953	Steak Burrito	1	$9.25 
+954	Chicken Bowl	1	$8.75 
+954	Chicken Bowl	1	$8.75 
+955	Chicken Bowl	1	$8.49 
+955	Side of Chips	1	$1.69 
+955	Bottled Water	1	$1.09 
+956	Chicken Bowl	1	$11.25 
+956	Bottled Water	1	$1.50 
+957	Chicken Burrito	1	$11.25 
+957	Chicken Burrito	1	$11.25 
+958	Steak Bowl	1	$11.75 
+958	Bottled Water	1	$1.50 
+959	Chicken Burrito	1	$8.49 
+959	Steak Crispy Tacos	1	$8.99 
+960	Chicken Salad Bowl	2	$22.50 
+961	Chicken Burrito	1	$8.75 
+961	Chips	2	$4.30 
+962	Chicken Crispy Tacos	1	$8.75 
+962	Chicken Salad Bowl	1	$11.25 
+962	Chips	1	$2.15 
+963	Veggie Burrito	1	$11.25 
+963	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+964	Chips and Guacamole	1	$4.45 
+964	Chicken Bowl	1	$11.25 
+965	Chicken Bowl	1	$8.49 
+965	Nantucket Nectar	1	$3.39 
+965	Chips and Fresh Tomato Salsa	1	$2.39 
+966	Steak Bowl	1	$11.75 
+966	Chips	1	$2.15 
+966	Barbacoa Soft Tacos	1	$11.75 
+967	Steak Burrito	1	$8.99 
+967	Chips and Fresh Tomato Salsa	1	$2.39 
+968	Chicken Bowl	1	$8.75 
+968	Steak Burrito	1	$11.75 
+969	Steak Salad Bowl	1	$11.89 
+969	Canned Soft Drink	1	$1.25 
+970	Bottled Water	5	$7.50 
+970	Barbacoa Salad Bowl	1	$11.89 
+971	Canned Soda	1	$1.09 
+971	Veggie Bowl	1	$8.49 
+971	Chips and Fresh Tomato Salsa	1	$2.39 
+972	Chicken Bowl	1	$8.75 
+972	Chicken Burrito	1	$8.75 
+972	Chicken Bowl	1	$8.75 
+973	Chicken Bowl	1	$8.75 
+973	Steak Soft Tacos	1	$9.25 
+973	Chicken Bowl	1	$11.25 
+973	Chicken Bowl	1	$8.75 
+973	Chips and Guacamole	2	$8.90 
+974	Carnitas Burrito	1	$9.25 
+974	Chicken Soft Tacos	1	$8.75 
+975	Chicken Burrito	1	$8.75 
+975	Steak Bowl	1	$11.75 
+975	Bottled Water	2	$3.00 
+976	Bottled Water	1	$1.50 
+976	Chicken Bowl	1	$11.25 
+976	Steak Crispy Tacos	1	$11.75 
+977	Barbacoa Burrito	1	$8.99 
+977	Chicken Burrito	1	$10.98 
+978	Chips and Guacamole	1	$4.45 
+978	Chicken Soft Tacos	1	$8.75 
+978	Chips	1	$2.15 
+979	Steak Burrito	1	$9.25 
+979	Chicken Burrito	1	$11.25 
+979	Chips and Guacamole	1	$4.45 
+980	Side of Chips	1	$1.69 
+980	Veggie Bowl	1	$10.98 
+981	Steak Bowl	1	$9.25 
+981	Steak Bowl	1	$11.75 
+982	Steak Burrito	1	$9.25 
+982	Chips and Guacamole	1	$4.45 
+983	Chicken Bowl	1	$10.98 
+983	Chips and Guacamole	1	$3.99 
+983	Chicken Bowl	1	$8.49 
+984	Canned Soft Drink	1	$1.25 
+984	Steak Burrito	1	$9.25 
+984	Chips and Guacamole	1	$4.45 
+985	Veggie Burrito	1	$10.98 
+986	Chicken Bowl	1	$8.75 
+986	Chicken Bowl	1	$8.75 
+987	Steak Burrito	1	$11.75 
+987	Chicken Burrito	1	$11.25 
+988	Chicken Bowl	1	$8.49 
+988	Carnitas Bowl	1	$11.48 
+989	Chips and Guacamole	1	$4.45 
+989	Canned Soft Drink	1	$1.25 
+989	Chicken Burrito	1	$11.25 
+990	Steak Burrito	1	$8.99 
+990	Canned Soda	1	$1.09 
+990	Chips and Fresh Tomato Salsa	1	$2.39 
+991	Chicken Bowl	1	$11.25 
+991	Chips	1	$2.15 
+992	Chicken Bowl	1	$8.75 
+992	Chips and Guacamole	1	$4.45 
+993	Chicken Burrito	1	$8.49 
+993	Side of Chips	1	$1.69 
+994	Chicken Burrito	1	$10.98 
+994	Side of Chips	1	$1.69 
+995	Steak Burrito	1	$9.25 
+995	Chips and Guacamole	1	$4.45 
+995	Chicken Bowl	1	$11.25 
+996	Chicken Soft Tacos	1	$8.75 
+996	Chicken Crispy Tacos	1	$11.25 
+996	Steak Burrito	1	$11.75 
+996	Chicken Soft Tacos	1	$11.25 
+997	Chicken Bowl	2	$22.50 
+998	Chicken Bowl	1	$8.49 
+998	Chips and Fresh Tomato Salsa	1	$2.39 
+999	Canned Soft Drink	2	$2.50 
+999	Chicken Soft Tacos	1	$8.75 
+999	Chicken Crispy Tacos	1	$8.75 
+999	Steak Burrito	1	$9.25 
+1000	Barbacoa Bowl	1	$9.25 
+1000	Chicken Bowl	1	$11.25 
+1001	Steak Burrito	1	$8.99 
+1001	Canned Soda	1	$1.09 
+1002	Barbacoa Burrito	1	$8.99 
+1002	Side of Chips	1	$1.69 
+1003	Carnitas Burrito	1	$11.75 
+1003	Canned Soft Drink	1	$1.25 
+1004	Chicken Bowl	2	$21.96 
+1005	Chicken Burrito	1	$8.75 
+1005	Chips	1	$2.15 
+1005	Canned Soft Drink	1	$1.25 
+1006	Chicken Soft Tacos	1	$8.75 
+1006	Veggie Bowl	1	$11.25 
+1006	Steak Bowl	1	$9.25 
+1006	Chicken Burrito	1	$11.25 
+1006	Chicken Bowl	1	$8.75 
+1006	Chicken Burrito	1	$8.75 
+1006	Chicken Burrito	1	$11.25 
+1006	Chips	1	$2.15 
+1007	Carnitas Bowl	1	$8.99 
+1007	Canned Soda	1	$1.09 
+1007	Side of Chips	1	$1.69 
+1008	Chicken Bowl	1	$8.75 
+1008	Chips	1	$2.15 
+1008	Canned Soft Drink	1	$1.25 
+1009	Chicken Bowl	1	$8.49 
+1009	Canned Soda	1	$1.09 
+1009	Bottled Water	1	$1.09 
+1009	Side of Chips	1	$1.69 
+1010	Carnitas Bowl	1	$11.48 
+1010	Chicken Bowl	1	$8.49 
+1010	Chicken Crispy Tacos	1	$8.49 
+1010	Chips and Tomatillo-Red Chili Salsa	2	$4.78 
+1011	Carnitas Soft Tacos	1	$9.25 
+1011	Canned Soft Drink	1	$1.25 
+1011	Canned Soft Drink	1	$1.25 
+1011	Canned Soft Drink	1	$1.25 
+1012	Chicken Bowl	1	$11.25 
+1012	Chicken Crispy Tacos	1	$11.25 
+1013	Carnitas Bowl	1	$11.75 
+1013	Chips and Guacamole	1	$4.45 
+1013	Chicken Bowl	1	$11.25 
+1013	Chips and Guacamole	1	$4.45 
+1014	Steak Burrito	1	$8.99 
+1014	Canned Soda	1	$1.09 
+1015	Chicken Salad Bowl	1	$11.25 
+1015	Chips	1	$2.15 
+1016	Veggie Bowl	1	$11.25 
+1016	Steak Bowl	1	$9.25 
+1016	Carnitas Bowl	1	$11.75 
+1017	Veggie Bowl	1	$11.25 
+1017	Chicken Bowl	1	$11.25 
+1018	Steak Bowl	1	$9.25 
+1018	Chips and Fresh Tomato Salsa	1	$2.95 
+1019	Chicken Burrito	1	$11.25 
+1019	Chips and Guacamole	1	$4.45 
+1020	Chicken Bowl	1	$8.75 
+1020	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+1020	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+1021	Chicken Bowl	1	$11.25 
+1021	Bottled Water	1	$1.50 
+1022	Chicken Burrito	1	$10.98 
+1023	Chicken Bowl	2	$16.98 
+1024	Carnitas Burrito	2	$18.50 
+1025	Chicken Bowl	1	$10.98 
+1025	Chips and Guacamole	1	$3.99 
+1025	Canned Soda	1	$1.09 
+1026	Barbacoa Burrito	1	$9.25 
+1026	Carnitas Burrito	1	$9.25 
+1026	Chicken Burrito	1	$8.75 
+1026	Chips and Guacamole	1	$4.45 
+1027	Chicken Burrito	2	$17.50 
+1028	Chicken Bowl	1	$8.75 
+1028	Chips and Guacamole	1	$4.45 
+1029	Chicken Bowl	1	$8.75 
+1029	Canned Soft Drink	1	$1.25 
+1029	Chips and Guacamole	1	$4.45 
+1030	Steak Burrito	1	$9.25 
+1030	Chicken Burrito	1	$8.75 
+1030	Chicken Bowl	1	$8.75 
+1031	Chicken Burrito	2	$17.50 
+1031	Chips and Guacamole	1	$4.45 
+1032	Steak Salad Bowl	1	$9.39 
+1032	Canned Soft Drink	1	$1.25 
+1032	Chips and Roasted Chili Corn Salsa	1	$2.95 
+1033	Chicken Bowl	1	$11.25 
+1033	Chicken Crispy Tacos	1	$8.75 
+1033	Veggie Burrito	1	$8.75 
+1034	Chicken Bowl	1	$11.25 
+1034	Chips	1	$2.15 
+1035	Chips and Guacamole	2	$8.90 
+1035	Chicken Bowl	1	$11.25 
+1035	Carnitas Salad Bowl	1	$11.89 
+1036	Chicken Bowl	1	$10.98 
+1037	Chicken Burrito	1	$11.25 
+1037	Chips and Guacamole	1	$4.45 
+1038	Chicken Bowl	1	$11.25 
+1038	Chicken Salad Bowl	1	$11.25 
+1039	Chicken Bowl	1	$8.49 
+1039	Chicken Burrito	1	$10.98 
+1040	Chicken Burrito	1	$8.49 
+1040	Izze	1	$3.39 
+1041	Barbacoa Bowl	1	$9.25 
+1041	Chicken Bowl	1	$8.75 
+1041	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+1042	Bottled Water	2	$3.00 
+1042	Steak Salad Bowl	1	$9.39 
+1043	Steak Burrito	1	$11.75 
+1043	Chips and Fresh Tomato Salsa	1	$2.95 
+1044	Bottled Water	1	$1.50 
+1044	Chicken Bowl	1	$11.25 
+1044	Steak Crispy Tacos	1	$11.75 
+1045	Chicken Bowl	1	$8.75 
+1045	Chips	1	$2.15 
+1045	Bottled Water	1	$1.50 
+1046	Chicken Burrito	1	$8.49 
+1046	Izze	1	$3.39 
+1047	Steak Bowl	1	$11.75 
+1047	Canned Soft Drink	1	$1.25 
+1048	Chicken Burrito	2	$17.50 
+1049	Veggie Burrito	1	$11.25 
+1049	Canned Soft Drink	1	$1.25 
+1050	Chicken Burrito	1	$8.75 
+1050	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+1050	Canned Soft Drink	1	$1.25 
+1051	Chicken Burrito	1	$11.25 
+1051	Steak Bowl	1	$11.75 
+1051	Chips and Guacamole	3	$13.35 
+1051	Chicken Bowl	1	$11.25 
+1051	Carnitas Bowl	1	$11.75 
+1052	Chicken Burrito	1	$11.25 
+1052	Chicken Burrito	1	$11.25 
+1052	Chips and Guacamole	1	$4.45 
+1052	Chicken Crispy Tacos	1	$11.25 
+1053	Chicken Burrito	1	$8.49 
+1053	Nantucket Nectar	1	$3.39 
+1054	Steak Soft Tacos	1	$9.25 
+1054	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+1055	Chips and Tomatillo-Green Chili Salsa	2	$4.78 
+1055	Chips and Fresh Tomato Salsa	1	$2.39 
+1055	Chips and Guacamole	1	$3.99 
+1056	Steak Burrito	1	$8.99 
+1056	Barbacoa Burrito	1	$8.99 
+1057	Chicken Soft Tacos	1	$11.25 
+1057	Chicken Soft Tacos	1	$11.25 
+1057	Chicken Bowl	1	$8.75 
+1058	Chicken Bowl	1	$11.25 
+1058	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+1058	Chips and Guacamole	1	$4.45 
+1059	Barbacoa Bowl	1	$9.25 
+1059	Chicken Crispy Tacos	1	$8.75 
+1059	Chips and Guacamole	1	$4.45 
+1060	Chicken Burrito	1	$8.49 
+1060	Chicken Soft Tacos	1	$8.49 
+1061	Chicken Bowl	1	$10.98 
+1062	Veggie Bowl	1	$10.98 
+1062	Chips and Guacamole	1	$3.99 
+1063	Steak Burrito	1	$11.75 
+1063	Chicken Burrito	1	$8.75 
+1064	Steak Bowl	1	$11.75 
+1064	Chips and Guacamole	1	$4.45 
+1064	Bottled Water	1	$1.50 
+1064	Canned Soft Drink	1	$1.25 
+1065	Chicken Burrito	1	$8.49 
+1065	Chicken Burrito	1	$8.49 
+1066	Veggie Salad Bowl	1	$8.75 
+1066	Chicken Bowl	1	$8.75 
+1067	Veggie Burrito	1	$8.75 
+1067	Carnitas Burrito	1	$9.25 
+1068	Chicken Burrito	1	$8.75 
+1068	Chips and Fresh Tomato Salsa	1	$2.95 
+1068	Canned Soft Drink	1	$1.25 
+1069	Chicken Burrito	1	$11.25 
+1069	Bottled Water	1	$1.50 
+1070	Chicken Burrito	1	$11.25 
+1070	Chips and Guacamole	1	$4.45 
+1070	Steak Burrito	1	$9.25 
+1070	Chicken Soft Tacos	1	$8.75 
+1071	Chicken Burrito	1	$8.75 
+1071	Carnitas Burrito	1	$9.25 
+1071	Chicken Burrito	1	$8.75 
+1071	Chips and Guacamole	1	$4.45 
+1071	Bottled Water	1	$1.50 
+1072	Chicken Bowl	1	$8.75 
+1072	Chicken Bowl	1	$8.75 
+1073	Chicken Burrito	1	$8.49 
+1073	Side of Chips	1	$1.69 
+1074	Chicken Bowl	1	$8.75 
+1074	Chips	1	$2.15 
+1074	Barbacoa Burrito	1	$9.25 
+1074	Chips	1	$2.15 
+1075	Bottled Water	1	$1.50 
+1075	Chicken Bowl	1	$11.25 
+1076	Steak Bowl	1	$11.75 
+1076	Chips	1	$2.15 
+1076	6 Pack Soft Drink	1	$6.49 
+1077	Steak Burrito	1	$9.25 
+1077	Carnitas Soft Tacos	1	$9.25 
+1078	Chicken Bowl	1	$11.25 
+1078	Chicken Bowl	1	$11.25 
+1079	Barbacoa Burrito	1	$11.75 
+1079	Carnitas Bowl	1	$11.75 
+1080	Steak Burrito	1	$11.75 
+1080	Chicken Burrito	1	$11.25 
+1081	Chicken Burrito	1	$8.75 
+1081	Chips	1	$2.15 
+1081	Canned Soft Drink	1	$1.25 
+1082	Carnitas Bowl	1	$11.75 
+1082	Steak Bowl	1	$9.25 
+1082	Chicken Burrito	1	$11.25 
+1083	Chicken Salad Bowl	1	$8.75 
+1083	Chips and Fresh Tomato Salsa	2	$5.90 
+1084	Chicken Burrito	1	$8.75 
+1084	Chips and Guacamole	1	$4.45 
+1085	Steak Soft Tacos	1	$9.25 
+1085	Carnitas Bowl	1	$9.25 
+1085	Chips and Guacamole	1	$4.45 
+1086	Chicken Burrito	1	$11.25 
+1086	Chips and Guacamole	1	$4.45 
+1087	Chicken Burrito	1	$11.25 
+1087	Chicken Bowl	1	$8.75 
+1087	Chips	1	$2.15 
+1088	Steak Salad Bowl	1	$11.89 
+1088	Chicken Bowl	1	$11.25 
+1089	Chicken Bowl	1	$8.75 
+1089	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+1089	Bottled Water	1	$1.50 
+1090	Chicken Burrito	1	$8.75 
+1090	Chips	2	$4.30 
+1091	Chicken Bowl	1	$8.75 
+1091	Chicken Bowl	1	$11.25 
+1091	Barbacoa Bowl	1	$11.75 
+1092	Steak Bowl	1	$11.75 
+1092	Chips	1	$2.15 
+1092	Chicken Burrito	1	$11.25 
+1093	Steak Bowl	1	$8.99 
+1093	Bottled Water	1	$1.09 
+1094	Veggie Burrito	1	$8.49 
+1094	Veggie Salad	1	$8.49 
+1095	Chicken Burrito	1	$8.49 
+1095	Izze	1	$3.39 
+1095	Steak Burrito	1	$8.99 
+1096	Chicken Bowl	1	$10.98 
+1096	Chips and Guacamole	1	$3.99 
+1097	Barbacoa Bowl	1	$11.75 
+1097	Chips	1	$2.15 
+1097	Chicken Soft Tacos	1	$8.75 
+1097	Chips and Guacamole	1	$4.45 
+1097	Canned Soft Drink	2	$2.50 
+1098	Steak Burrito	1	$11.48 
+1098	Canned Soda	1	$1.09 
+1099	Chicken Burrito	1	$8.49 
+1099	Chicken Burrito	1	$8.49 
+1100	Chicken Bowl	2	$16.98 
+1101	Chips and Guacamole	1	$3.99 
+1101	Veggie Bowl	1	$10.98 
+1101	Canned Soda	1	$1.09 
+1102	Chicken Burrito	1	$8.75 
+1102	Chips and Fresh Tomato Salsa	1	$2.95 
+1102	Chicken Bowl	1	$8.75 
+1103	Chicken Burrito	1	$8.75 
+1103	Chips and Fresh Tomato Salsa	1	$2.95 
+1103	Barbacoa Soft Tacos	1	$9.25 
+1104	Chicken Bowl	1	$11.25 
+1104	Chips	1	$2.15 
+1105	Steak Burrito	1	$9.25 
+1105	Chips and Guacamole	1	$4.45 
+1106	Chips and Guacamole	1	$4.45 
+1106	Barbacoa Burrito	1	$9.25 
+1106	Barbacoa Crispy Tacos	1	$11.75 
+1107	Steak Bowl	1	$11.75 
+1107	Chips	1	$2.15 
+1108	Carnitas Burrito	1	$9.25 
+1108	Chicken Burrito	1	$8.75 
+1109	Chicken Burrito	1	$11.25 
+1109	6 Pack Soft Drink	1	$6.49 
+1110	Chicken Bowl	1	$8.75 
+1110	Veggie Bowl	1	$11.25 
+1110	Chips and Fresh Tomato Salsa	1	$2.95 
+1111	Chicken Burrito	1	$10.98 
+1111	Chips and Guacamole	1	$3.99 
+1112	Bottled Water	1	$1.50 
+1112	Barbacoa Bowl	1	$9.25 
+1112	Chips	1	$2.15 
+1113	Chicken Soft Tacos	1	$8.75 
+1113	Veggie Bowl	1	$11.25 
+1114	Steak Salad Bowl	1	$11.89 
+1114	Chips and Guacamole	1	$4.45 
+1114	Bottled Water	1	$1.50 
+1114	Canned Soft Drink	1	$1.25 
+1115	Chicken Bowl	1	$8.75 
+1115	Chicken Bowl	1	$8.75 
+1115	Chips and Guacamole	1	$4.45 
+1116	Chicken Bowl	1	$11.25 
+1116	Steak Crispy Tacos	1	$11.75 
+1117	Chicken Bowl	1	$8.49 
+1117	Canned Soda	1	$1.09 
+1117	Bottled Water	1	$1.09 
+1117	Side of Chips	1	$1.69 
+1118	Steak Burrito	1	$8.99 
+1118	Nantucket Nectar	1	$3.39 
+1119	Steak Burrito	1	$8.99 
+1119	Side of Chips	1	$1.69 
+1120	Chicken Burrito	1	$8.49 
+1120	Steak Burrito	1	$8.99 
+1121	Bottled Water	3	$3.27 
+1121	Steak Burrito	1	$8.99 
+1122	Steak Burrito	1	$8.99 
+1122	Canned Soda	1	$1.09 
+1123	Chicken Bowl	1	$10.98 
+1123	Side of Chips	1	$1.69 
+1124	Chips and Guacamole	1	$3.99 
+1124	Chicken Soft Tacos	1	$8.49 
+1124	Canned Soda	1	$1.09 
+1125	Chicken Burrito	1	$8.75 
+1125	Chicken Burrito	1	$8.75 
+1126	Steak Burrito	1	$11.75 
+1126	Chicken Burrito	1	$8.75 
+1127	Steak Burrito	1	$9.25 
+1127	Chicken Bowl	1	$8.75 
+1128	Nantucket Nectar	1	$3.39 
+1128	Steak Burrito	1	$8.99 
+1128	Steak Soft Tacos	1	$8.99 
+1128	Chips and Fresh Tomato Salsa	1	$2.39 
+1129	Steak Crispy Tacos	1	$9.25 
+1129	Chicken Bowl	1	$8.75 
+1130	Steak Soft Tacos	1	$9.25 
+1130	Steak Burrito	1	$9.25 
+1131	Steak Burrito	1	$8.99 
+1131	Chips and Guacamole	1	$3.99 
+1131	Chips and Tomatillo-Green Chili Salsa	1	$2.39 
+1132	Veggie Burrito	1	$8.49 
+1132	Canned Soda	1	$1.09 
+1132	Veggie Soft Tacos	1	$8.49 
+1133	Steak Burrito	1	$8.99 
+1133	Nantucket Nectar	1	$3.39 
+1134	Chicken Soft Tacos	1	$11.25 
+1134	Canned Soft Drink	1	$1.25 
+1135	Steak Bowl	1	$8.99 
+1135	Chips and Guacamole	1	$3.99 
+1136	Chicken Salad Bowl	1	$8.75 
+1136	Chips and Guacamole	2	$8.90 
+1136	6 Pack Soft Drink	1	$6.49 
+1137	Chicken Burrito	1	$8.75 
+1137	Steak Crispy Tacos	1	$9.25 
+1138	Chicken Salad Bowl	1	$11.25 
+1138	Chicken Bowl	1	$11.25 
+1139	Chicken Burrito	1	$11.25 
+1139	Canned Soft Drink	1	$1.25 
+1140	Chicken Bowl	1	$8.75 
+1140	Steak Bowl	1	$9.25 
+1140	Chips and Guacamole	1	$4.45 
+1140	Canned Soft Drink	1	$1.25 
+1141	Chicken Burrito	1	$8.75 
+1141	Canned Soft Drink	1	$1.25 
+1141	Chips	1	$2.15 
+1142	Steak Crispy Tacos	2	$17.98 
+1142	Steak Burrito	1	$8.99 
+1143	Chicken Bowl	1	$8.75 
+1143	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+1143	Canned Soft Drink	1	$1.25 
+1144	Steak Soft Tacos	1	$11.75 
+1144	Bottled Water	1	$1.50 
+1144	Bottled Water	1	$1.50 
+1145	Chicken Burrito	1	$8.75 
+1145	Chicken Salad Bowl	1	$8.75 
+1146	Carnitas Burrito	1	$11.08 
+1147	Steak Burrito	1	$8.99 
+1147	Side of Chips	1	$1.69 
+1148	Carnitas Bowl	1	$8.99 
+1148	Side of Chips	1	$1.69 
+1149	Chicken Burrito	1	$10.98 
+1149	Chips and Guacamole	1	$3.99 
+1149	Izze	1	$3.39 
+1150	Steak Bowl	1	$11.75 
+1150	Chips	1	$2.15 
+1151	Steak Burrito	1	$11.75 
+1151	Chips and Fresh Tomato Salsa	1	$2.95 
+1152	Chicken Bowl	1	$8.75 
+1152	Chicken Salad Bowl	1	$8.75 
+1153	Carnitas Soft Tacos	1	$11.75 
+1153	Chicken Bowl	1	$11.25 
+1154	Steak Burrito	1	$11.75 
+1154	Chicken Burrito	1	$11.25 
+1154	Chips and Guacamole	1	$4.45 
+1155	Veggie Bowl	1	$11.25 
+1155	Canned Soft Drink	1	$1.25 
+1156	Canned Soda	2	$2.18 
+1156	Canned Soda	2	$2.18 
+1156	Chips and Roasted Chili-Corn Salsa	1	$2.39 
+1156	Chicken Crispy Tacos	1	$8.49 
+1156	Steak Burrito	1	$8.99 
+1156	Chips and Fresh Tomato Salsa	1	$2.39 
+1157	Veggie Burrito	1	$11.25 
+1157	Chicken Crispy Tacos	1	$8.75 
+1158	Carnitas Bowl	1	$11.75 
+1158	Carnitas Bowl	1	$11.75 
+1159	Chicken Bowl	1	$11.25 
+1159	Chips and Guacamole	1	$4.45 
+1159	Chips	1	$2.15 
+1160	Chicken Bowl	1	$8.19 
+1160	Chicken Bowl	1	$10.58 
+1161	Chips and Guacamole	1	$4.45 
+1161	Steak Bowl	1	$9.25 
+1162	Bottled Water	1	$1.09 
+1162	Steak Bowl	1	$8.99 
+1163	Chicken Burrito	1	$11.25 
+1163	Bottled Water	1	$1.50 
+1164	Carnitas Bowl	1	$8.99 
+1164	Chips and Guacamole	1	$3.99 
+1165	Chips and Guacamole	1	$4.45 
+1165	Steak Bowl	1	$11.75 
+1165	Chips	1	$2.15 
+1166	Chicken Bowl	1	$11.25 
+1166	Chicken Soft Tacos	1	$8.75 
+1166	Chips and Guacamole	1	$4.45 
+1167	Chicken Burrito	1	$8.75 
+1167	Barbacoa Burrito	1	$9.25 
+1167	Chips	3	$6.45 
+1167	Chicken Bowl	1	$8.75 
+1168	Chicken Salad Bowl	1	$11.25 
+1168	Veggie Bowl	1	$11.25 
+1169	Chicken Bowl	1	$8.75 
+1169	Steak Bowl	1	$11.75 
+1170	Chicken Bowl	2	$21.96 
+1170	Steak Burrito	1	$8.99 
+1170	Side of Chips	3	$5.07 
+1170	Chicken Bowl	1	$8.49 
+1171	Steak Burrito	1	$9.25 
+1171	Chicken Burrito	1	$11.25 
+1171	Chips and Guacamole	1	$4.45 
+1172	Nantucket Nectar	1	$3.39 
+1172	Chicken Burrito	1	$8.49 
+1173	Carnitas Burrito	1	$8.99 
+1173	Chicken Bowl	1	$8.49 
+1174	Chicken Burrito	2	$17.50 
+1175	Steak Burrito	2	$22.96 
+1176	Chicken Bowl	1	$8.75 
+1176	Chicken Bowl	1	$11.25 
+1176	Steak Salad Bowl	1	$11.89 
+1176	Chicken Bowl	1	$11.25 
+1177	Chicken Bowl	1	$8.49 
+1177	Side of Chips	1	$1.69 
+1177	Canned Soda	1	$1.09 
+1178	Barbacoa Burrito	1	$8.99 
+1178	Steak Crispy Tacos	1	$8.99 
+1179	Steak Burrito	1	$9.25 
+1179	Chicken Crispy Tacos	1	$8.75 
+1180	Barbacoa Burrito	1	$9.25 
+1180	Chips and Roasted Chili Corn Salsa	1	$2.95 
+1181	Chicken Salad	1	$8.49 
+1181	Chips and Guacamole	1	$3.99 
+1182	Steak Bowl	1	$8.99 
+1182	Chicken Bowl	1	$8.49 
+1182	Chips and Tomatillo-Red Chili Salsa	3	$7.17 
+1182	Chicken Bowl	1	$8.49 
+1182	Steak Bowl	1	$8.99 
+1183	Chicken Burrito	2	$17.50 
+1184	Steak Bowl	1	$9.25 
+1184	Steak Bowl	1	$9.25 
+1185	Chicken Burrito	1	$11.25 
+1185	Canned Soft Drink	1	$1.25 
+1186	Carnitas Bowl	1	$8.99 
+1186	Bottled Water	1	$1.09 
+1187	Chicken Bowl	1	$8.75 
+1187	Chips and Guacamole	1	$4.45 
+1188	Chicken Bowl	1	$11.25 
+1188	Chips	1	$2.15 
+1188	Barbacoa Burrito	1	$11.75 
+1189	Chicken Bowl	1	$11.25 
+1189	Chicken Salad Bowl	1	$11.25 
+1189	Chicken Salad Bowl	1	$8.75 
+1190	Chicken Burrito	1	$8.75 
+1190	Chips and Guacamole	1	$4.45 
+1190	Canned Soft Drink	1	$1.25 
+1191	Steak Burrito	1	$11.75 
+1191	Steak Burrito	1	$11.75 
+1191	Canned Soft Drink	2	$2.50 
+1192	Veggie Salad	1	$8.49 
+1192	Steak Burrito	1	$8.99 
+1192	Bottled Water	2	$2.18 
+1193	Chicken Bowl	1	$11.25 
+1193	Chips and Guacamole	1	$4.45 
+1193	Chicken Salad Bowl	1	$11.25 
+1193	Steak Bowl	1	$11.75 
+1194	Chicken Bowl	1	$8.49 
+1194	Carnitas Bowl	1	$8.99 
+1194	Side of Chips	1	$1.69 
+1195	Canned Soda	1	$1.09 
+1195	Steak Bowl	1	$8.99 
+1195	Barbacoa Burrito	1	$8.99 
+1196	Chicken Bowl	1	$11.25 
+1196	6 Pack Soft Drink	1	$6.49 
+1196	Chicken Bowl	1	$11.25 
+1197	Chicken Bowl	1	$8.75 
+1197	Chips and Guacamole	1	$4.45 
+1198	Steak Burrito	1	$8.99 
+1198	Side of Chips	1	$1.69 
+1199	Steak Bowl	1	$11.48 
+1200	Barbacoa Bowl	1	$11.75 
+1200	Canned Soft Drink	2	$2.50 
+1201	Chicken Bowl	1	$8.49 
+1201	Canned Soda	1	$1.09 
+1201	Bottled Water	1	$1.09 
+1201	Side of Chips	1	$1.69 
+1202	Chicken Bowl	1	$8.49 
+1202	Chips and Roasted Chili-Corn Salsa	1	$2.39 
+1203	Barbacoa Bowl	1	$11.75 
+1203	Canned Soft Drink	1	$1.25 
+1204	Chicken Burrito	1	$8.49 
+1204	Side of Chips	1	$1.69 
+1205	Veggie Burrito	1	$8.49 
+1205	Side of Chips	1	$1.69 
+1206	Barbacoa Burrito	1	$11.75 
+1206	Chips and Guacamole	1	$4.45 
+1206	Chicken Salad Bowl	1	$8.75 
+1207	Chicken Bowl	1	$8.75 
+1207	Chips and Guacamole	1	$4.45 
+1208	Veggie Burrito	1	$8.75 
+1208	Veggie Burrito	1	$11.25 
+1209	Chicken Bowl	1	$11.25 
+1209	Chicken Bowl	1	$8.75 
+1210	Chips and Guacamole	2	$7.98 
+1210	Chicken Crispy Tacos	1	$8.49 
+1210	Bottled Water	1	$1.09 
+1211	Chicken Soft Tacos	1	$8.49 
+1211	Chips and Guacamole	1	$3.99 
+1212	Chicken Salad	1	$8.49 
+1212	Chips and Guacamole	1	$3.99 
+1213	Steak Bowl	1	$8.99 
+1213	Chips and Guacamole	1	$3.99 
+1214	Chicken Burrito	1	$11.25 
+1214	Chips and Guacamole	1	$4.45 
+1215	Chicken Bowl	1	$8.49 
+1215	Chips and Tomatillo-Red Chili Salsa	1	$2.39 
+1216	Chicken Bowl	1	$8.49 
+1216	Chips and Roasted Chili-Corn Salsa	1	$2.39 
+1217	Chips and Guacamole	1	$3.99 
+1217	Veggie Burrito	1	$8.49 
+1218	Canned Soft Drink	1	$1.25 
+1218	Chicken Bowl	1	$11.25 
+1218	Chips and Guacamole	1	$4.45 
+1219	Barbacoa Burrito	1	$9.25 
+1219	Chips and Guacamole	1	$4.45 
+1220	Canned Soda	1	$1.09 
+1220	Steak Burrito	1	$8.99 
+1220	Chips and Guacamole	1	$3.99 
+1221	Chicken Bowl	1	$11.25 
+1221	Chips and Guacamole	2	$8.90 
+1221	Carnitas Soft Tacos	1	$9.25 
+1222	Chicken Bowl	1	$11.25 
+1222	Chicken Salad Bowl	1	$8.75 
+1223	Chicken Bowl	1	$11.25 
+1223	Chicken Soft Tacos	1	$11.25 
+1223	Chicken Crispy Tacos	1	$11.25 
+1224	Chicken Bowl	1	$11.25 
+1224	Chicken Bowl	1	$11.25 
+1225	Steak Crispy Tacos	1	$8.99 
+1225	Chicken Bowl	1	$8.49 
+1226	Chicken Crispy Tacos	1	$8.75 
+1226	Chicken Crispy Tacos	1	$8.75 
+1226	Chips and Guacamole	1	$4.45 
+1227	Chicken Bowl	2	$16.98 
+1228	Steak Bowl	1	$11.75 
+1228	Veggie Bowl	1	$11.25 
+1228	Steak Bowl	1	$9.25 
+1228	Chips and Guacamole	1	$4.45 
+1229	Steak Crispy Tacos	1	$9.25 
+1229	Chips and Fresh Tomato Salsa	1	$2.95 
+1230	Chicken Bowl	1	$8.49 
+1230	Side of Chips	1	$1.69 
+1231	Canned Soft Drink	3	$3.75 
+1231	Chips and Guacamole	1	$4.45 
+1231	Steak Bowl	1	$9.25 
+1232	Bottled Water	1	$1.50 
+1232	Chicken Bowl	1	$11.25 
+1233	Steak Burrito	1	$11.48 
+1234	Veggie Bowl	1	$11.25 
+1234	Chips	1	$2.15 
+1235	Chicken Burrito	1	$8.75 
+1235	Steak Salad Bowl	1	$9.39 
+1236	Chicken Crispy Tacos	1	$8.49 
+1236	Chips and Guacamole	1	$3.99 
+1237	Chicken Bowl	1	$8.19 
+1237	Chips and Fresh Tomato Salsa	1	$2.29 
+1238	Carnitas Bowl	1	$11.48 
+1238	Side of Chips	1	$1.69 
+1239	Steak Soft Tacos	1	$11.48 
+1239	Chips and Guacamole	1	$3.99 
+1240	Chicken Bowl	1	$8.49 
+1240	Side of Chips	1	$1.69 
+1241	Steak Burrito	1	$9.25 
+1241	Chips and Fresh Tomato Salsa	1	$2.95 
+1242	Chicken Burrito	1	$8.49 
+1242	Side of Chips	1	$1.69 
+1243	Veggie Burrito	1	$11.25 
+1243	Chips and Guacamole	1	$4.45 
+1243	Carnitas Salad Bowl	1	$9.39 
+1243	Steak Burrito	1	$9.25 
+1243	Chicken Salad Bowl	1	$8.75 
+1244	Chicken Burrito	1	$8.75 
+1244	Chips and Guacamole	1	$4.45 
+1244	Steak Salad Bowl	1	$11.89 
+1244	Chips and Guacamole	1	$4.45 
+1245	Chips and Guacamole	1	$4.45 
+1245	Chicken Burrito	1	$8.75 
+1246	Chicken Bowl	1	$8.75 
+1246	Chicken Burrito	1	$8.75 
+1246	Chips	1	$2.15 
+1247	Chicken Burrito	1	$8.75 
+1247	Canned Soft Drink	3	$3.75 
+1248	Steak Burrito	1	$9.25 
+1248	Chicken Burrito	1	$11.25 
+1248	Chips and Guacamole	1	$4.45 
+1248	6 Pack Soft Drink	1	$6.49 
+1249	Chicken Bowl	2	$16.98 
+1250	Steak Burrito	2	$18.50 
+1250	Canned Soft Drink	2	$2.50 
+1250	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+1251	Chips and Guacamole	1	$3.99 
+1251	Chicken Burrito	1	$8.49 
+1252	Chicken Burrito	1	$8.19 
+1252	Steak Burrito	1	$11.08 
+1253	6 Pack Soft Drink	1	$6.49 
+1253	Steak Bowl	1	$11.75 
+1254	Chips and Tomatillo-Green Chili Salsa	1	$2.39 
+1254	Steak Bowl	1	$8.99 
+1254	Canned Soda	1	$1.09 
+1255	Veggie Bowl	1	$11.25 
+1255	Chips and Guacamole	1	$4.45 
+1255	Veggie Bowl	1	$11.25 
+1256	Barbacoa Burrito	1	$8.99 
+1256	Side of Chips	1	$1.69 
+1257	Chicken Bowl	2	$21.96 
+1258	Canned Soda	2	$2.18 
+1258	Steak Burrito	1	$8.99 
+1259	Steak Bowl	1	$8.99 
+1259	Chips and Fresh Tomato Salsa	1	$2.39 
+1260	Barbacoa Burrito	1	$8.69 
+1260	Side of Chips	1	$1.69 
+1261	Chips and Guacamole	2	$8.90 
+1261	Canned Soft Drink	2	$2.50 
+1261	Chicken Soft Tacos	1	$8.75 
+1262	Steak Burrito	1	$8.99 
+1262	Canned Soda	1	$1.09 
+1263	Veggie Salad	1	$8.49 
+1263	Veggie Burrito	1	$8.49 
+1264	Veggie Bowl	1	$8.75 
+1264	Chips and Guacamole	1	$4.45 
+1265	Chicken Salad Bowl	2	$17.50 
+1266	Chicken Burrito	1	$8.75 
+1266	Steak Burrito	1	$9.25 
+1267	Chicken Burrito	1	$8.49 
+1267	Chips and Tomatillo-Red Chili Salsa	1	$2.39 
+1268	Chicken Bowl	1	$8.75 
+1268	Chips and Guacamole	1	$4.45 
+1269	Chicken Bowl	1	$11.25 
+1269	Chicken Salad Bowl	1	$11.25 
+1270	Steak Burrito	1	$11.75 
+1270	Chicken Bowl	1	$8.75 
+1271	Chicken Bowl	1	$8.49 
+1271	Chicken Bowl	1	$8.49 
+1271	Chicken Bowl	1	$8.49 
+1271	Steak Burrito	1	$8.99 
+1272	Chicken Bowl	1	$8.75 
+1272	Chips and Guacamole	1	$4.45 
+1273	Barbacoa Soft Tacos	1	$11.48 
+1274	Chicken Bowl	1	$8.75 
+1274	Canned Soft Drink	1	$1.25 
+1274	Chips	1	$2.15 
+1275	Steak Burrito	1	$9.25 
+1275	Chips and Guacamole	1	$4.45 
+1276	Steak Bowl	1	$11.75 
+1276	Chips	1	$2.15 
+1276	Chicken Crispy Tacos	1	$11.25 
+1277	Steak Burrito	1	$8.99 
+1277	Chips and Roasted Chili-Corn Salsa	1	$2.39 
+1278	Barbacoa Bowl	1	$8.69 
+1278	Steak Bowl	1	$8.69 
+1279	Steak Burrito	1	$11.75 
+1279	Chips and Fresh Tomato Salsa	1	$2.95 
+1280	Steak Burrito	1	$11.75 
+1280	Bottled Water	1	$1.50 
+1281	Steak Bowl	1	$9.25 
+1281	Chips and Guacamole	1	$4.45 
+1281	Bottled Water	1	$1.50 
+1282	Steak Burrito	1	$11.48 
+1282	Steak Soft Tacos	1	$8.99 
+1282	Chips and Roasted Chili-Corn Salsa	1	$2.39 
+1283	Chicken Bowl	1	$11.25 
+1283	Barbacoa Salad Bowl	1	$11.89 
+1283	Chips	1	$2.15 
+1283	Canned Soft Drink	1	$1.25 
+1284	Barbacoa Soft Tacos	1	$11.75 
+1284	Chips and Guacamole	1	$4.45 
+1285	Chicken Bowl	1	$8.75 
+1285	Chicken Bowl	1	$8.75 
+1286	Chicken Bowl	1	$11.25 
+1286	Chips and Guacamole	1	$4.45 
+1287	Chicken Bowl	1	$11.25 
+1287	Chips	1	$2.15 
+1287	Chips and Guacamole	1	$4.45 
+1288	Chicken Bowl	1	$8.49 
+1288	Canned Soda	1	$1.09 
+1288	Chips and Guacamole	1	$3.99 
+1289	Veggie Salad Bowl	1	$11.25 
+1289	Chicken Bowl	1	$11.25 
+1290	Chicken Bowl	1	$8.49 
+1290	Chips and Fresh Tomato Salsa	1	$2.39 
+1291	Steak Burrito	1	$8.99 
+1291	Chips and Fresh Tomato Salsa	1	$2.39 
+1292	Chicken Bowl	1	$11.25 
+1292	Chips	1	$2.15 
+1293	Chicken Burrito	1	$8.75 
+1293	Chips and Fresh Tomato Salsa	1	$2.95 
+1293	Canned Soft Drink	1	$1.25 
+1294	Veggie Burrito	1	$8.75 
+1294	Veggie Burrito	1	$11.25 
+1295	Chicken Burrito	2	$17.50 
+1296	Steak Burrito	1	$11.75 
+1296	Steak Bowl	1	$11.75 
+1297	Chicken Bowl	1	$11.25 
+1297	Chicken Crispy Tacos	1	$11.25 
+1298	Chips and Guacamole	1	$4.45 
+1298	Canned Soft Drink	2	$2.50 
+1298	Chicken Soft Tacos	1	$8.75 
+1299	Carnitas Bowl	1	$8.99 
+1299	Barbacoa Bowl	1	$8.99 
+1299	Side of Chips	1	$1.69 
+1300	Steak Burrito	1	$8.99 
+1300	Side of Chips	1	$1.69 
+1301	Chicken Bowl	1	$11.25 
+1301	Canned Soft Drink	1	$1.25 
+1302	Steak Burrito	1	$11.08 
+1302	Carnitas Burrito	1	$8.69 
+1303	Barbacoa Bowl	1	$8.99 
+1303	Canned Soda	1	$1.09 
+1304	Chicken Burrito	1	$11.25 
+1304	Chicken Burrito	1	$11.25 
+1304	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+1304	Canned Soft Drink	1	$1.25 
+1305	Chicken Salad Bowl	1	$8.75 
+1305	Canned Soft Drink	1	$1.25 
+1305	Chicken Salad Bowl	1	$8.75 
+1306	Chicken Bowl	1	$8.75 
+1306	Chips	1	$2.15 
+1306	Canned Soft Drink	1	$1.25 
+1307	Chicken Bowl	1	$8.49 
+1307	Chips and Guacamole	1	$3.99 
+1308	Chicken Burrito	1	$8.49 
+1308	Chips and Roasted Chili-Corn Salsa	1	$2.39 
+1309	Chicken Bowl	1	$8.49 
+1309	Chips and Tomatillo-Red Chili Salsa	3	$7.17 
+1310	Chicken Burrito	1	$8.75 
+1310	Chips and Guacamole	1	$4.45 
+1311	Steak Burrito	1	$11.48 
+1312	Veggie Burrito	1	$8.75 
+1312	Veggie Bowl	1	$8.75 
+1313	Barbacoa Burrito	1	$11.48 
+1314	Chicken Bowl	1	$8.75 
+1314	Steak Bowl	1	$9.25 
+1315	Chicken Soft Tacos	1	$8.49 
+1315	Chips and Guacamole	1	$3.99 
+1316	Bottled Water	1	$1.50 
+1316	Chicken Bowl	1	$11.25 
+1317	Chicken Bowl	1	$11.25 
+1317	Chicken Bowl	1	$8.75 
+1318	Chicken Bowl	1	$8.75 
+1318	Chips and Guacamole	1	$4.45 
+1319	Steak Bowl	1	$9.25 
+1319	Chips and Guacamole	1	$4.45 
+1320	Chicken Burrito	1	$8.75 
+1320	Chicken Soft Tacos	1	$8.75 
+1320	Chips	2	$4.30 
+1320	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+1321	Veggie Salad Bowl	1	$8.75 
+1321	Bottled Water	3	$4.50 
+1322	Steak Burrito	1	$9.25 
+1322	Chicken Burrito	1	$11.25 
+1322	Chips and Guacamole	1	$4.45 
+1323	Chicken Bowl	1	$11.25 
+1323	Chicken Bowl	1	$11.25 
+1323	Chicken Burrito	1	$8.75 
+1323	Barbacoa Burrito	1	$9.25 
+1324	Chicken Bowl	1	$8.75 
+1324	Chips	1	$2.15 
+1324	Canned Soft Drink	1	$1.25 
+1325	Chicken Bowl	1	$8.75 
+1325	Chips	1	$2.15 
+1325	Canned Soft Drink	1	$1.25 
+1326	Carnitas Soft Tacos	1	$8.99 
+1326	Chicken Crispy Tacos	1	$8.49 
+1327	Chicken Salad Bowl	1	$8.75 
+1327	Chicken Bowl	1	$8.75 
+1327	Canned Soft Drink	1	$1.25 
+1328	Steak Burrito	1	$11.75 
+1328	Bottled Water	3	$4.50 
+1329	Chicken Salad Bowl	1	$8.75 
+1329	Chicken Burrito	1	$8.75 
+1330	Chips and Guacamole	1	$3.99 
+1330	Nantucket Nectar	1	$3.39 
+1330	Chicken Burrito	1	$8.49 
+1330	Chips and Tomatillo-Green Chili Salsa	1	$2.39 
+1330	Barbacoa Crispy Tacos	1	$8.99 
+1331	Bottled Water	1	$1.50 
+1331	Chicken Bowl	1	$11.25 
+1331	Chicken Crispy Tacos	1	$11.25 
+1332	Chicken Bowl	1	$8.75 
+1332	Chicken Bowl	1	$8.75 
+1332	Chips	1	$2.15 
+1333	Chicken Bowl	1	$8.75 
+1333	Chips	1	$2.15 
+1333	Canned Soft Drink	1	$1.25 
+1334	Chicken Burrito	2	$21.96 
+1335	Chicken Burrito	1	$8.49 
+1335	Side of Chips	1	$1.69 
+1336	Steak Bowl	3	$26.07 
+1337	Steak Bowl	1	$11.75 
+1337	Bottled Water	1	$1.50 
+1338	Steak Bowl	1	$8.99 
+1338	Carnitas Bowl	1	$8.99 
+1339	Steak Burrito	1	$11.48 
+1340	Carnitas Soft Tacos	1	$9.25 
+1340	Carnitas Soft Tacos	1	$9.25 
+1341	Chicken Burrito	1	$8.75 
+1341	Chicken Bowl	1	$8.75 
+1341	Chicken Burrito	1	$8.75 
+1341	Barbacoa Burrito	1	$9.25 
+1341	Chicken Bowl	1	$8.75 
+1342	Chicken Burrito	1	$8.75 
+1342	Chips	1	$2.15 
+1342	Canned Soft Drink	1	$1.25 
+1343	Steak Salad Bowl	1	$11.89 
+1343	Veggie Burrito	1	$8.75 
+1344	Steak Burrito	1	$11.75 
+1344	Chips and Guacamole	1	$4.45 
+1345	Steak Bowl	2	$18.50 
+1346	Steak Bowl	1	$9.25 
+1346	Barbacoa Salad Bowl	1	$9.39 
+1347	Chicken Bowl	1	$8.49 
+1347	Chips and Tomatillo-Red Chili Salsa	1	$2.39 
+1348	Chicken Bowl	1	$8.49 
+1348	Side of Chips	1	$1.69 
+1348	Bottled Water	1	$1.09 
+1349	Steak Burrito	1	$8.99 
+1349	Chicken Salad	1	$8.49 
+1349	Canned Soda	2	$2.18 
+1350	Chicken Bowl	1	$11.25 
+1350	Canned Soft Drink	1	$1.25 
+1351	Veggie Burrito	1	$8.49 
+1351	Nantucket Nectar	1	$3.39 
+1352	Chicken Burrito	1	$8.49 
+1352	Chips and Guacamole	1	$3.99 
+1353	Chicken Burrito	1	$11.25 
+1353	Chicken Crispy Tacos	1	$8.75 
+1354	Chicken Burrito	1	$8.49 
+1354	Side of Chips	1	$1.69 
+1355	Chicken Burrito	2	$16.98 
+1356	Barbacoa Bowl	1	$9.25 
+1356	Steak Burrito	1	$9.25 
+1356	Steak Burrito	1	$11.75 
+1356	Canned Soft Drink	1	$1.25 
+1357	Chicken Salad Bowl	1	$11.25 
+1357	Chicken Salad Bowl	1	$8.75 
+1358	Chicken Burrito	1	$8.49 
+1358	Chicken Bowl	1	$8.49 
+1359	Chicken Bowl	1	$8.75 
+1359	Canned Soft Drink	1	$1.25 
+1359	Canned Soft Drink	1	$1.25 
+1359	Canned Soft Drink	1	$1.25 
+1360	Chicken Burrito	1	$11.25 
+1360	6 Pack Soft Drink	2	$12.98 
+1360	Steak Burrito	1	$11.75 
+1360	Barbacoa Burrito	1	$11.75 
+1360	Chips and Guacamole	1	$4.45 
+1361	Chicken Bowl	1	$11.25 
+1361	Barbacoa Bowl	1	$11.75 
+1362	Chicken Bowl	1	$10.98 
+1362	Chicken Bowl	1	$8.49 
+1363	Veggie Bowl	1	$8.49 
+1363	Chips and Roasted Chili-Corn Salsa	1	$2.39 
+1364	Steak Burrito	1	$9.25 
+1364	Chicken Burrito	1	$11.25 
+1365	Chicken Burrito	1	$8.75 
+1365	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+1365	Bottled Water	1	$1.50 
+1366	Veggie Burrito	1	$11.25 
+1366	Chips and Fresh Tomato Salsa	1	$2.95 
+1367	Steak Crispy Tacos	1	$9.25 
+1367	Chips and Fresh Tomato Salsa	1	$2.95 
+1367	Steak Bowl	1	$9.25 
+1367	Chicken Bowl	1	$8.75 
+1368	Chicken Salad Bowl	1	$11.25 
+1368	Chicken Salad Bowl	1	$8.75 
+1369	Veggie Bowl	1	$8.75 
+1369	Chips and Guacamole	1	$4.45 
+1370	Chicken Burrito	1	$11.25 
+1370	Canned Soft Drink	1	$1.25 
+1371	Chicken Burrito	1	$8.75 
+1371	Chips and Fresh Tomato Salsa	1	$2.95 
+1371	Canned Soft Drink	2	$2.50 
+1372	Steak Burrito	1	$9.25 
+1372	Barbacoa Burrito	1	$9.25 
+1373	Carnitas Burrito	1	$9.25 
+1373	6 Pack Soft Drink	1	$6.49 
+1374	Chicken Bowl	2	$17.50 
+1375	Chicken Bowl	1	$8.49 
+1375	Side of Chips	1	$1.69 
+1376	Chicken Burrito	1	$8.49 
+1376	Chips and Guacamole	1	$3.99 
+1377	Chicken Bowl	1	$8.75 
+1377	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+1377	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+1378	Chicken Burrito	1	$8.49 
+1378	Steak Bowl	1	$8.99 
+1379	Steak Burrito	1	$8.99 
+1379	Canned Soda	1	$1.09 
+1380	Chicken Burrito	1	$8.75 
+1380	Chips and Guacamole	1	$4.45 
+1380	Canned Soft Drink	1	$1.25 
+1381	Chicken Bowl	1	$11.25 
+1381	Steak Crispy Tacos	1	$11.75 
+1382	Chicken Bowl	1	$11.25 
+1382	Carnitas Burrito	1	$9.25 
+1383	Chicken Salad Bowl	1	$11.25 
+1383	Bottled Water	1	$1.50 
+1384	Chicken Bowl	1	$11.25 
+1384	Chips	1	$2.15 
+1385	Chicken Burrito	1	$10.98 
+1386	Chicken Burrito	1	$8.75 
+1386	Steak Bowl	1	$11.75 
+1387	Chips and Roasted Chili Corn Salsa	1	$2.95 
+1387	Chicken Burrito	1	$11.25 
+1388	Chicken Bowl	1	$11.25 
+1388	Steak Soft Tacos	1	$9.25 
+1389	Chicken Burrito	1	$8.75 
+1389	Steak Burrito	1	$9.25 
+1389	Chicken Soft Tacos	1	$8.75 
+1390	Chicken Bowl	1	$8.75 
+1390	Chicken Bowl	1	$8.75 
+1390	Canned Soft Drink	1	$1.25 
+1391	Chicken Bowl	1	$11.25 
+1391	Bottled Water	1	$1.50 
+1391	Chips	1	$2.15 
+1392	Chicken Burrito	1	$8.75 
+1392	Chicken Burrito	1	$8.75 
+1392	Chicken Bowl	1	$11.25 
+1393	Chicken Burrito	1	$8.75 
+1393	Chicken Burrito	1	$8.75 
+1394	Chicken Bowl	1	$11.25 
+1394	Chips and Guacamole	1	$4.45 
+1395	Veggie Burrito	1	$8.49 
+1395	Veggie Burrito	1	$8.49 
+1395	Veggie Salad	1	$8.49 
+1396	Chicken Crispy Tacos	1	$8.49 
+1396	Steak Soft Tacos	1	$8.99 
+1396	Side of Chips	1	$1.69 
+1396	Chips and Fresh Tomato Salsa	1	$2.39 
+1396	Canned Soda	1	$1.09 
+1396	Canned Soda	1	$1.09 
+1397	Veggie Burrito	1	$11.25 
+1397	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+1398	Carnitas Bowl	3	$35.25 
+1399	Chicken Bowl	1	$8.75 
+1399	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+1399	Canned Soft Drink	1	$1.25 
+1400	Chicken Bowl	1	$11.25 
+1400	Chips	1	$2.15 
+1401	Steak Bowl	1	$9.25 
+1401	Chips and Guacamole	1	$4.45 
+1402	Chicken Burrito	1	$8.75 
+1402	Chicken Bowl	1	$8.75 
+1402	Chicken Burrito	1	$8.75 
+1402	Chips and Guacamole	1	$4.45 
+1403	Canned Soft Drink	1	$1.25 
+1403	Steak Salad Bowl	1	$11.89 
+1404	Chicken Bowl	1	$8.75 
+1404	Chips	1	$2.15 
+1404	Canned Soft Drink	1	$1.25 
+1405	Chicken Bowl	1	$8.49 
+1405	Canned Soda	1	$1.09 
+1405	Bottled Water	1	$1.09 
+1405	Side of Chips	1	$1.69 
+1406	Steak Burrito	1	$8.69 
+1406	Steak Salad	1	$8.69 
+1407	Steak Crispy Tacos	1	$9.25 
+1407	Chips and Fresh Tomato Salsa	1	$2.95 
+1408	Chicken Bowl	1	$10.98 
+1408	Chips and Fresh Tomato Salsa	1	$2.39 
+1409	Chicken Salad Bowl	2	$22.50 
+1410	Chicken Bowl	2	$21.96 
+1411	Chicken Bowl	1	$10.98 
+1411	Chicken Bowl	1	$8.49 
+1411	Side of Chips	1	$1.69 
+1412	Barbacoa Burrito	1	$11.75 
+1412	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+1413	Chicken Bowl	1	$8.75 
+1413	Chicken Bowl	1	$11.25 
+1414	Chicken Burrito	1	$8.75 
+1414	Steak Burrito	1	$9.25 
+1414	Chicken Soft Tacos	1	$8.75 
+1415	Chicken Burrito	1	$8.19 
+1415	Chicken Burrito	1	$10.58 
+1416	Chicken Burrito	1	$8.75 
+1416	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+1416	Bottled Water	1	$1.50 
+1417	Canned Soft Drink	2	$2.50 
+1417	Carnitas Bowl	1	$9.25 
+1417	Chips and Guacamole	1	$4.45 
+1418	Steak Burrito	1	$9.25 
+1418	Chicken Burrito	1	$11.25 
+1419	Carnitas Burrito	1	$8.69 
+1419	Steak Burrito	1	$8.69 
+1419	Chips and Guacamole	1	$3.89 
+1420	Steak Burrito	1	$8.69 
+1420	Side of Chips	1	$1.69 
+1421	Chips and Guacamole	1	$4.45 
+1421	Steak Burrito	1	$9.25 
+1422	Chicken Bowl	1	$11.25 
+1422	Chips and Guacamole	1	$4.45 
+1422	Chips	1	$2.15 
+1423	Chicken Burrito	1	$8.19 
+1423	Steak Burrito	1	$8.69 
+1424	Chips and Guacamole	1	$4.45 
+1424	Veggie Burrito	1	$11.25 
+1425	Canned Soft Drink	1	$1.25 
+1425	Chicken Burrito	1	$11.25 
+1425	Chicken Bowl	1	$8.75 
+1426	Barbacoa Salad Bowl	1	$11.89 
+1426	Barbacoa Bowl	1	$11.75 
+1426	Barbacoa Soft Tacos	1	$11.75 
+1426	Barbacoa Bowl	1	$9.25 
+1427	Chicken Bowl	1	$8.75 
+1427	Chips	1	$2.15 
+1427	Bottled Water	1	$1.50 
+1428	Steak Burrito	1	$11.75 
+1428	Chips and Guacamole	1	$4.45 
+1429	Chips and Guacamole	1	$3.99 
+1429	Steak Burrito	1	$8.99 
+1429	Chicken Burrito	1	$10.98 
+1429	Chips and Tomatillo-Red Chili Salsa	1	$2.39 
+1430	Canned Soft Drink	1	$1.25 
+1430	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+1430	Chicken Bowl	1	$8.75 
+1431	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+1431	Steak Burrito	1	$9.25 
+1431	Steak Burrito	1	$9.25 
+1431	Steak Burrito	1	$9.25 
+1431	Chicken Burrito	1	$8.75 
+1431	Chips	1	$2.15 
+1432	Steak Burrito	1	$9.25 
+1432	Steak Soft Tacos	1	$9.25 
+1433	Nantucket Nectar	1	$3.39 
+1433	Chicken Burrito	1	$8.49 
+1433	Chicken Soft Tacos	1	$8.49 
+1433	Chips and Tomatillo-Green Chili Salsa	1	$2.39 
+1434	Chicken Burrito	1	$10.98 
+1434	Canned Soda	1	$1.09 
+1434	Canned Soda	1	$1.09 
+1434	Chicken Burrito	1	$8.49 
+1435	Chicken Salad Bowl	1	$11.25 
+1435	Canned Soft Drink	1	$1.25 
+1436	Steak Bowl	1	$8.99 
+1436	Bottled Water	1	$1.09 
+1437	Chicken Bowl	1	$8.75 
+1437	Chips	1	$2.15 
+1437	Bottled Water	1	$1.50 
+1438	Chips and Guacamole	1	$3.99 
+1438	Chicken Bowl	1	$8.49 
+1439	Chicken Bowl	1	$8.75 
+1439	Chips	1	$2.15 
+1439	Bottled Water	1	$1.50 
+1440	Chicken Burrito	1	$8.49 
+1440	Chicken Bowl	1	$10.98 
+1440	Canned Soda	2	$2.18 
+1441	Chicken Crispy Tacos	1	$8.75 
+1441	Chips	1	$2.15 
+1441	Bottled Water	1	$1.50 
+1442	Chips and Guacamole	1	$4.45 
+1442	Steak Soft Tacos	1	$9.25 
+1443	Chips and Fresh Tomato Salsa	15	$44.25 
+1443	Bottled Water	7	$10.50 
+1443	6 Pack Soft Drink	1	$6.49 
+1443	Veggie Burrito	3	$33.75 
+1443	Chicken Burrito	4	$35.00 
+1443	Steak Burrito	3	$27.75 
+1443	Bottled Water	2	$3.00 
+1444	Chicken Bowl	1	$11.25 
+1444	Steak Crispy Tacos	1	$11.75 
+1445	Chicken Bowl	1	$10.98 
+1445	Chips and Fresh Tomato Salsa	1	$2.39 
+1446	Canned Soft Drink	2	$2.50 
+1446	Chicken Soft Tacos	1	$8.75 
+1446	Chips and Guacamole	1	$4.45 
+1447	Chicken Bowl	2	$16.98 
+1448	Chicken Burrito	1	$8.75 
+1448	6 Pack Soft Drink	1	$6.49 
+1449	Chicken Burrito	2	$16.98 
+1449	Steak Burrito	2	$17.98 
+1449	Veggie Bowl	2	$16.98 
+1449	Chicken Bowl	2	$16.98 
+1449	Carnitas Burrito	1	$8.99 
+1449	Carnitas Soft Tacos	1	$8.99 
+1449	Chicken Soft Tacos	1	$8.49 
+1450	Steak Burrito	1	$9.25 
+1450	Chicken Salad Bowl	1	$8.75 
+1450	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+1451	Steak Soft Tacos	1	$11.48 
+1451	Chips and Tomatillo-Green Chili Salsa	1	$2.39 
+1452	Steak Burrito	1	$8.99 
+1452	Chips and Roasted Chili-Corn Salsa	1	$2.39 
+1453	Chicken Burrito	1	$11.25 
+1453	Chips and Guacamole	1	$4.45 
+1453	Chicken Crispy Tacos	1	$8.75 
+1453	Barbacoa Burrito	1	$9.25 
+1454	6 Pack Soft Drink	1	$6.49 
+1454	Chicken Burrito	3	$26.25 
+1454	Chicken Soft Tacos	1	$8.75 
+1454	Chicken Burrito	3	$26.25 
+1454	Chicken Soft Tacos	1	$8.75 
+1454	Chicken Crispy Tacos	1	$8.75 
+1455	Chicken Bowl	1	$11.25 
+1455	Chicken Salad Bowl	1	$11.25 
+1455	Chips	1	$2.15 
+1456	Canned Soft Drink	1	$1.25 
+1456	Steak Burrito	1	$11.75 
+1457	Chicken Burrito	1	$8.75 
+1457	Chips	1	$2.15 
+1457	Bottled Water	1	$1.50 
+1458	Chicken Bowl	1	$11.25 
+1458	Chips	1	$2.15 
+1459	Steak Burrito	1	$8.99 
+1459	Chips and Tomatillo-Red Chili Salsa	1	$2.39 
+1460	Chicken Bowl	1	$11.25 
+1460	Chicken Bowl	1	$11.25 
+1460	Chips	1	$2.15 
+1461	Chicken Bowl	1	$11.25 
+1461	Chicken Bowl	1	$11.25 
+1461	Chicken Salad Bowl	1	$8.75 
+1462	Chips and Tomatillo-Green Chili Salsa	2	$4.78 
+1462	Chicken Soft Tacos	2	$21.96 
+1463	Veggie Bowl	1	$8.49 
+1463	Chips and Tomatillo-Red Chili Salsa	1	$2.39 
+1464	Steak Burrito	1	$9.25 
+1464	Chips and Fresh Tomato Salsa	1	$2.95 
+1465	Chicken Bowl	2	$16.98 
+1466	Chicken Bowl	1	$8.19 
+1466	Chips and Guacamole	1	$3.89 
+1467	Steak Bowl	1	$8.99 
+1467	Bottled Water	1	$1.09 
+1468	Steak Burrito	1	$8.99 
+1468	Izze	1	$3.39 
+1469	Steak Burrito	1	$9.25 
+1469	Chips and Guacamole	1	$4.45 
+1470	Chicken Bowl	1	$10.98 
+1470	Chicken Bowl	1	$10.98 
+1471	Chicken Burrito	2	$17.50 
+1472	Chicken Bowl	1	$11.25 
+1472	Canned Soft Drink	1	$1.25 
+1472	Veggie Bowl	1	$8.75 
+1473	Steak Burrito	1	$11.75 
+1473	Chips and Guacamole	1	$4.45 
+1474	Chicken Bowl	1	$11.25 
+1474	Chicken Salad Bowl	1	$11.25 
+1475	Steak Burrito	1	$8.99 
+1475	Canned Soda	1	$1.09 
+1476	Chicken Bowl	1	$10.98 
+1476	Chicken Bowl	1	$8.49 
+1476	Side of Chips	1	$1.69 
+1477	Chicken Salad Bowl	1	$11.25 
+1477	Carnitas Soft Tacos	1	$9.25 
+1478	Chicken Burrito	2	$16.98 
+1479	Chicken Bowl	1	$8.75 
+1479	Chips and Guacamole	1	$4.45 
+1480	Chicken Burrito	1	$11.25 
+1480	6 Pack Soft Drink	1	$6.49 
+1480	Steak Crispy Tacos	1	$11.75 
+1481	Carnitas Soft Tacos	1	$9.25 
+1481	Barbacoa Burrito	1	$9.25 
+1482	Chicken Burrito	1	$8.75 
+1482	Chips and Guacamole	1	$4.45 
+1482	Canned Soft Drink	2	$2.50 
+1483	Chicken Bowl	1	$8.75 
+1483	Steak Bowl	1	$11.75 
+1483	Chicken Burrito	1	$8.75 
+1483	Steak Bowl	1	$9.25 
+1483	Steak Burrito	1	$11.75 
+1483	Steak Soft Tacos	1	$9.25 
+1483	Chicken Salad Bowl	1	$8.75 
+1483	Steak Bowl	1	$9.25 
+1483	Chicken Bowl	1	$8.75 
+1483	Chicken Bowl	1	$11.25 
+1483	Steak Soft Tacos	1	$11.75 
+1483	Carnitas Bowl	1	$9.25 
+1483	Chicken Salad Bowl	1	$8.75 
+1483	Steak Bowl	1	$11.75 
+1484	Chicken Burrito	1	$8.49 
+1484	Canned Soda	1	$1.09 
+1484	Canned Soda	1	$1.09 
+1485	Chicken Bowl	1	$8.49 
+1485	Canned Soda	1	$1.09 
+1485	Side of Chips	1	$1.69 
+1486	Chicken Bowl	1	$11.25 
+1486	Canned Soft Drink	1	$1.25 
+1487	Chicken Bowl	1	$8.75 
+1487	Chips	1	$2.15 
+1487	Bottled Water	1	$1.50 
+1488	Chicken Bowl	1	$8.49 
+1488	Side of Chips	1	$1.69 
+1489	Canned Soft Drink	1	$1.25 
+1489	Chicken Bowl	1	$8.75 
+1489	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+1490	Chicken Salad	1	$8.49 
+1490	Chips and Guacamole	1	$3.99 
+1491	Chicken Burrito	1	$8.49 
+1491	Chicken Salad	1	$8.49 
+1492	Chicken Burrito	1	$8.75 
+1492	Veggie Bowl	1	$11.25 
+1492	Chips	1	$2.15 
+1493	Bottled Water	1	$1.50 
+1493	Steak Bowl	1	$11.75 
+1494	Steak Burrito	1	$8.99 
+1494	Canned Soda	1	$1.09 
+1495	Chicken Bowl	1	$10.98 
+1496	Chicken Bowl	1	$10.98 
+1497	Chicken Bowl	1	$11.25 
+1497	Canned Soft Drink	1	$1.25 
+1498	Veggie Bowl	1	$8.75 
+1498	Chips and Guacamole	1	$4.45 
+1499	Chips and Guacamole	1	$4.45 
+1499	Canned Soft Drink	1	$1.25 
+1499	Carnitas Salad Bowl	1	$11.89 
+1500	Carnitas Salad	1	$8.99 
+1500	Steak Burrito	1	$8.99 
+1501	Chicken Burrito	1	$11.25 
+1501	Chips and Guacamole	1	$4.45 
+1502	Steak Bowl	2	$23.50 
+1503	Veggie Burrito	1	$8.49 
+1503	Chips and Guacamole	1	$3.99 
+1504	Carnitas Burrito	1	$9.25 
+1504	Chips and Guacamole	1	$4.45 
+1505	Chips and Guacamole	1	$4.45 
+1505	Steak Burrito	1	$9.25 
+1506	Chicken Burrito	1	$8.75 
+1506	Chips and Guacamole	1	$4.45 
+1507	Chicken Burrito	1	$8.75 
+1507	Chicken Burrito	1	$8.75 
+1508	Steak Burrito	1	$11.75 
+1508	6 Pack Soft Drink	1	$6.49 
+1509	Chicken Burrito	2	$17.50 
+1509	Chips and Guacamole	1	$4.45 
+1510	Chicken Burrito	1	$8.75 
+1510	Chips and Fresh Tomato Salsa	1	$2.95 
+1510	Bottled Water	1	$1.50 
+1511	Chicken Burrito	1	$8.75 
+1511	Chicken Bowl	1	$8.75 
+1511	Chicken Burrito	1	$8.75 
+1511	Chips and Guacamole	1	$4.45 
+1511	Veggie Burrito	1	$11.25 
+1512	Chicken Bowl	1	$11.25 
+1512	Steak Crispy Tacos	1	$11.75 
+1513	Chicken Burrito	1	$11.25 
+1513	Chips and Roasted Chili Corn Salsa	1	$2.95 
+1514	Chicken Bowl	1	$11.25 
+1514	Chips and Guacamole	1	$4.45 
+1514	Bottled Water	2	$3.00 
+1514	Canned Soft Drink	1	$1.25 
+1515	Chips and Fresh Tomato Salsa	1	$2.95 
+1515	Barbacoa Burrito	1	$9.25 
+1516	Steak Bowl	1	$8.99 
+1516	Chips and Tomatillo-Green Chili Salsa	1	$2.39 
+1517	6 Pack Soft Drink	1	$6.49 
+1517	Chicken Salad Bowl	1	$8.75 
+1517	Chips and Guacamole	2	$8.90 
+1518	Carnitas Bowl	1	$11.48 
+1518	Canned Soda	1	$1.09 
+1519	Chicken Burrito	1	$10.98 
+1520	Barbacoa Burrito	1	$9.25 
+1520	Steak Soft Tacos	1	$9.25 
+1521	Chicken Salad Bowl	1	$11.25 
+1521	Chicken Salad Bowl	1	$8.75 
+1522	Steak Burrito	1	$11.75 
+1522	Chicken Salad Bowl	1	$11.25 
+1523	Chicken Bowl	1	$11.25 
+1523	Canned Soft Drink	1	$1.25 
+1524	Carnitas Burrito	1	$9.25 
+1524	Chips and Guacamole	1	$4.45 
+1525	Steak Burrito	1	$9.25 
+1525	6 Pack Soft Drink	1	$6.49 
+1526	Steak Burrito	1	$11.75 
+1526	Steak Bowl	1	$11.75 
+1527	Barbacoa Burrito	1	$8.99 
+1527	Chips and Tomatillo-Green Chili Salsa	1	$2.39 
+1528	Chicken Bowl	1	$8.49 
+1528	Chicken Bowl	1	$8.49 
+1529	Barbacoa Burrito	1	$9.25 
+1529	Carnitas Soft Tacos	1	$9.25 
+1530	Canned Soft Drink	1	$1.25 
+1530	Chicken Crispy Tacos	1	$8.75 
+1530	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+1531	Steak Burrito	1	$11.75 
+1531	Chips	1	$2.15 
+1532	Veggie Bowl	1	$8.49 
+1532	Veggie Burrito	1	$8.49 
+1533	Barbacoa Bowl	1	$8.69 
+1533	Chicken Burrito	2	$16.38 
+1533	Chicken Burrito	1	$8.19 
+1533	Chips and Guacamole	1	$3.89 
+1533	Chips and Fresh Tomato Salsa	1	$2.29 
+1534	Barbacoa Burrito	1	$11.75 
+1534	Chicken Burrito	1	$8.75 
+1534	Chicken Burrito	1	$8.75 
+1535	Chicken Bowl	1	$8.75 
+1535	Chips and Guacamole	1	$4.45 
+1536	Chicken Burrito	1	$8.49 
+1536	Chicken Soft Tacos	1	$8.49 
+1537	Steak Burrito	1	$9.25 
+1537	Chicken Burrito	1	$8.75 
+1537	6 Pack Soft Drink	1	$6.49 
+1537	Chips and Fresh Tomato Salsa	1	$2.95 
+1538	Chicken Bowl	1	$11.25 
+1538	Chicken Bowl	1	$11.25 
+1538	Chips	1	$2.15 
+1539	Steak Burrito	1	$9.25 
+1539	Steak Burrito	1	$11.75 
+1540	Chicken Bowl	2	$21.96 
+1541	Chicken Burrito	1	$8.49 
+1541	Nantucket Nectar	1	$3.39 
+1541	Side of Chips	1	$1.69 
+1541	Veggie Burrito	1	$8.49 
+1542	Chicken Bowl	1	$8.75 
+1542	Chips and Guacamole	1	$4.45 
+1543	Chicken Bowl	1	$8.49 
+1543	Chips and Guacamole	1	$3.99 
+1544	Chicken Burrito	1	$11.25 
+1544	Chicken Bowl	1	$8.75 
+1545	Chicken Burrito	1	$11.25 
+1545	Chips	1	$2.15 
+1546	Steak Bowl	1	$11.75 
+1546	Chips and Guacamole	1	$4.45 
+1547	Chicken Burrito	1	$11.25 
+1547	Steak Burrito	1	$9.25 
+1547	Chicken Soft Tacos	1	$8.75 
+1548	Steak Burrito	2	$18.50 
+1549	Bottled Water	1	$1.50 
+1549	Chicken Bowl	1	$8.75 
+1549	Chips	1	$2.15 
+1550	Steak Bowl	1	$11.48 
+1550	Canned Soda	2	$2.18 
+1550	Chips and Guacamole	1	$3.99 
+1551	Chicken Bowl	1	$11.25 
+1551	Bottled Water	1	$1.50 
+1552	Steak Soft Tacos	1	$8.99 
+1552	Chips and Tomatillo-Green Chili Salsa	1	$2.39 
+1553	Steak Burrito	1	$11.75 
+1553	Bottled Water	1	$1.50 
+1554	Chicken Bowl	1	$11.25 
+1554	6 Pack Soft Drink	1	$6.49 
+1554	Chips and Guacamole	1	$4.45 
+1554	Veggie Bowl	1	$11.25 
+1555	Chicken Burrito	1	$8.49 
+1555	Chips and Guacamole	1	$3.99 
+1556	Canned Soft Drink	2	$2.50 
+1556	Chicken Burrito	1	$8.75 
+1556	Carnitas Burrito	1	$9.25 
+1557	Chips and Guacamole	1	$3.99 
+1557	Steak Burrito	1	$8.99 
+1558	Chicken Bowl	1	$8.75 
+1558	6 Pack Soft Drink	1	$6.49 
+1559	Side of Chips	8	$13.52 
+1559	Chicken Soft Tacos	2	$16.98 
+1559	Veggie Soft Tacos	2	$16.98 
+1559	Carnitas Crispy Tacos	2	$17.98 
+1559	Chicken Crispy Tacos	2	$16.98 
+1560	Chicken Bowl	1	$8.75 
+1560	Chicken Bowl	1	$8.75 
+1561	Chicken Bowl	1	$11.25 
+1561	Chicken Bowl	1	$11.25 
+1562	Chicken Burrito	1	$8.49 
+1562	Canned Soda	1	$1.09 
+1562	Side of Chips	1	$1.69 
+1563	Canned Soft Drink	1	$1.25 
+1563	Steak Soft Tacos	1	$9.25 
+1563	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+1564	Barbacoa Burrito	1	$8.69 
+1564	Chicken Burrito	1	$8.19 
+1565	Chicken Burrito	1	$8.49 
+1565	Chips and Roasted Chili-Corn Salsa	1	$2.39 
+1566	Chicken Burrito	1	$8.49 
+1566	Chips and Fresh Tomato Salsa	1	$2.39 
+1567	Chicken Bowl	1	$10.98 
+1568	Steak Burrito	1	$8.99 
+1568	Steak Soft Tacos	1	$8.99 
+1569	Side of Chips	1	$1.69 
+1569	Veggie Burrito	1	$8.49 
+1570	Chicken Bowl	1	$8.75 
+1570	Chicken Burrito	1	$8.75 
+1571	Chicken Bowl	1	$11.25 
+1571	Chips and Guacamole	1	$4.45 
+1572	Chips and Guacamole	1	$4.45 
+1572	Chicken Burrito	2	$17.50 
+1573	Chicken Burrito	1	$8.75 
+1573	Chips and Guacamole	1	$4.45 
+1574	Chicken Bowl	1	$8.75 
+1574	Chips	1	$2.15 
+1574	Bottled Water	1	$1.50 
+1574	Bottled Water	1	$1.50 
+1575	Steak Bowl	1	$8.99 
+1575	Canned Soda	1	$1.09 
+1576	Chicken Bowl	1	$8.75 
+1576	Chips and Guacamole	1	$4.45 
+1577	Chicken Bowl	1	$8.75 
+1577	Chicken Bowl	1	$8.75 
+1577	Chicken Bowl	1	$11.25 
+1577	Chips	2	$4.30 
+1578	Chicken Bowl	1	$8.49 
+1578	Side of Chips	1	$1.69 
+1578	Bottled Water	1	$1.09 
+1578	Canned Soda	1	$1.09 
+1579	Chicken Bowl	1	$8.75 
+1579	Chips	1	$2.15 
+1579	Bottled Water	1	$1.50 
+1580	Carnitas Soft Tacos	1	$8.99 
+1580	Chicken Burrito	1	$8.49 
+1580	Chips and Guacamole	1	$3.99 
+1581	Chicken Bowl	1	$8.75 
+1581	Chips	1	$2.15 
+1581	Canned Soft Drink	1	$1.25 
+1582	Steak Crispy Tacos	1	$9.25 
+1582	Chips and Fresh Tomato Salsa	1	$2.95 
+1583	Chicken Burrito	1	$11.25 
+1583	Chips and Guacamole	1	$4.45 
+1584	Steak Crispy Tacos	1	$9.25 
+1584	Chips and Fresh Tomato Salsa	1	$2.95 
+1585	Chips and Guacamole	1	$3.99 
+1585	Steak Burrito	1	$8.99 
+1585	Veggie Burrito	1	$8.49 
+1586	Chicken Burrito	1	$8.75 
+1586	Chicken Burrito	1	$8.75 
+1586	Chicken Burrito	1	$11.25 
+1586	Steak Burrito	1	$9.25 
+1586	Chicken Burrito	1	$8.75 
+1586	Chips and Guacamole	1	$4.45 
+1587	Chicken Burrito	1	$11.25 
+1587	Canned Soft Drink	1	$1.25 
+1588	Steak Burrito	1	$9.25 
+1588	Chicken Burrito	1	$11.25 
+1588	Chips and Guacamole	1	$4.45 
+1588	Chips and Fresh Tomato Salsa	1	$2.95 
+1589	Chicken Burrito	1	$10.98 
+1590	Chicken Bowl	1	$8.75 
+1590	Chicken Burrito	1	$8.75 
+1591	Steak Burrito	2	$18.50 
+1592	Steak Bowl	1	$9.25 
+1592	Steak Burrito	1	$9.25 
+1592	Canned Soft Drink	4	$5.00 
+1592	Chicken Salad Bowl	1	$8.75 
+1592	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+1593	Chicken Bowl	2	$16.98 
+1594	Chicken Bowl	1	$11.25 
+1594	Chips and Fresh Tomato Salsa	1	$2.95 
+1595	Chicken Bowl	1	$8.75 
+1595	Chips	1	$2.15 
+1595	Bottled Water	1	$1.50 
+1596	Chicken Salad	1	$8.49 
+1596	Chips and Fresh Tomato Salsa	1	$2.39 
+1597	Steak Bowl	1	$9.25 
+1597	Chips	1	$2.15 
+1597	Canned Soft Drink	1	$1.25 
+1598	Chicken Burrito	1	$8.19 
+1598	Steak Burrito	1	$8.69 
+1598	Chicken Salad	1	$8.19 
+1598	Chicken Burrito	1	$8.19 
+1599	Chicken Burrito	1	$8.75 
+1599	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+1599	Canned Soft Drink	1	$1.25 
+1600	Steak Crispy Tacos	1	$9.25 
+1600	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+1601	Chicken Bowl	1	$11.25 
+1601	Chicken Salad Bowl	1	$8.75 
+1601	Chicken Bowl	1	$11.25 
+1601	Chicken Bowl	1	$11.25 
+1602	Steak Burrito	1	$8.99 
+1602	Bottled Water	1	$1.09 
+1603	Barbacoa Burrito	1	$9.25 
+1603	Steak Burrito	1	$9.25 
+1603	Chips and Guacamole	1	$4.45 
+1604	Chicken Bowl	1	$8.49 
+1604	Chips and Guacamole	1	$3.99 
+1604	Chips and Tomatillo-Green Chili Salsa	1	$2.39 
+1604	Canned Soda	1	$1.09 
+1605	Steak Burrito	1	$8.99 
+1605	Chicken Bowl	1	$8.49 
+1606	Chicken Bowl	1	$8.75 
+1606	Chicken Salad Bowl	1	$8.75 
+1607	Chicken Bowl	1	$11.25 
+1607	Steak Crispy Tacos	1	$11.75 
+1608	Chips and Guacamole	1	$4.45 
+1608	Canned Soft Drink	2	$2.50 
+1608	Chicken Soft Tacos	1	$8.75 
+1609	Veggie Burrito	1	$8.49 
+1609	Nantucket Nectar	1	$3.39 
+1610	Chicken Burrito	1	$8.75 
+1610	Steak Bowl	1	$9.25 
+1610	Chips and Guacamole	1	$4.45 
+1610	Canned Soft Drink	1	$1.25 
+1611	Chicken Bowl	1	$11.25 
+1611	Chips	1	$2.15 
+1611	Chips and Guacamole	1	$4.45 
+1611	Canned Soft Drink	2	$2.50 
+1612	Steak Bowl	1	$8.99 
+1612	Chips and Guacamole	1	$3.99 
+1613	Chicken Soft Tacos	1	$8.75 
+1613	Chips	1	$2.15 
+1613	Steak Bowl	1	$11.75 
+1614	Steak Burrito	1	$11.75 
+1614	Canned Soft Drink	1	$1.25 
+1615	Chicken Salad Bowl	1	$8.75 
+1615	Steak Salad Bowl	1	$9.39 
+1615	Chicken Burrito	1	$11.25 
+1615	Steak Soft Tacos	1	$9.25 
+1616	Barbacoa Burrito	1	$9.25 
+1616	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+1617	Carnitas Burrito	1	$9.25 
+1617	Chips and Guacamole	1	$4.45 
+1618	Canned Soft Drink	1	$1.25 
+1618	Carnitas Bowl	1	$9.25 
+1618	Chicken Bowl	1	$8.75 
+1619	Barbacoa Bowl	1	$11.75 
+1619	Bottled Water	1	$1.50 
+1620	Chicken Bowl	1	$8.75 
+1620	Chips and Guacamole	1	$4.45 
+1621	Steak Bowl	1	$8.99 
+1621	Canned Soda	1	$1.09 
+1622	Steak Soft Tacos	1	$9.25 
+1622	Chips and Fresh Tomato Salsa	1	$2.95 
+1623	Steak Bowl	1	$8.99 
+1623	Side of Chips	1	$1.69 
+1624	Barbacoa Bowl	1	$8.69 
+1624	Side of Chips	1	$1.69 
+1625	Chicken Bowl	1	$11.25 
+1625	Chips and Guacamole	1	$4.45 
+1626	Chicken Bowl	1	$8.75 
+1626	Chicken Burrito	1	$8.75 
+1626	Chips and Guacamole	1	$4.45 
+1627	Chicken Bowl	1	$11.25 
+1627	Chicken Salad Bowl	1	$8.75 
+1627	Chips and Fresh Tomato Salsa	1	$2.95 
+1627	Bottled Water	1	$1.50 
+1628	Chicken Burrito	1	$8.19 
+1628	Steak Burrito	1	$8.69 
+1629	Bottled Water	1	$1.09 
+1629	Side of Chips	1	$1.69 
+1629	Chicken Bowl	1	$8.49 
+1630	Chicken Burrito	1	$8.75 
+1630	Chips and Fresh Tomato Salsa	1	$2.95 
+1630	Canned Soft Drink	1	$1.25 
+1631	Chicken Bowl	1	$8.49 
+1631	Chips and Guacamole	1	$3.99 
+1632	Chicken Bowl	1	$10.98 
+1632	Nantucket Nectar	1	$3.39 
+1633	Chicken Salad Bowl	1	$11.25 
+1633	Veggie Bowl	1	$11.25 
+1633	Chips	1	$2.15 
+1634	Steak Bowl	2	$18.50 
+1635	Veggie Burrito	1	$8.49 
+1635	Veggie Salad	1	$8.49 
+1636	Chicken Salad Bowl	1	$11.25 
+1636	Bottled Water	1	$1.50 
+1637	Chicken Bowl	1	$8.49 
+1637	Chips and Tomatillo-Red Chili Salsa	1	$2.39 
+1638	Steak Burrito	1	$8.99 
+1638	Chips and Fresh Tomato Salsa	1	$2.39 
+1639	Steak Burrito	1	$11.75 
+1639	Chips and Guacamole	1	$4.45 
+1640	Chicken Burrito	2	$17.50 
+1641	Steak Burrito	1	$9.25 
+1641	Carnitas Soft Tacos	1	$9.25 
+1642	Chicken Bowl	1	$8.75 
+1642	Chips and Guacamole	1	$4.45 
+1642	Canned Soft Drink	3	$3.75 
+1643	Chicken Bowl	1	$8.75 
+1643	Chips and Guacamole	1	$4.45 
+1643	Steak Burrito	1	$11.75 
+1643	Chips and Fresh Tomato Salsa	1	$2.95 
+1644	Canned Soft Drink	1	$1.25 
+1644	Chips and Guacamole	1	$4.45 
+1644	Chicken Bowl	1	$8.75 
+1645	Canned Soft Drink	1	$1.25 
+1645	Bottled Water	1	$1.50 
+1645	Steak Burrito	1	$9.25 
+1646	Veggie Salad Bowl	1	$11.25 
+1646	Chicken Bowl	1	$11.25 
+1647	Chicken Bowl	1	$11.25 
+1647	Chicken Bowl	1	$11.25 
+1648	Steak Burrito	1	$9.25 
+1648	Chicken Burrito	1	$11.25 
+1648	Chips and Guacamole	1	$4.45 
+1648	Chicken Crispy Tacos	1	$8.75 
+1649	Steak Burrito	1	$9.25 
+1649	Chicken Soft Tacos	1	$8.75 
+1650	Chicken Soft Tacos	1	$8.75 
+1650	Chips and Guacamole	1	$4.45 
+1651	Chicken Bowl	1	$8.75 
+1651	Canned Soft Drink	1	$1.25 
+1651	Chips	1	$2.15 
+1652	Chicken Bowl	1	$8.75 
+1652	Chicken Burrito	1	$8.75 
+1652	Chips	2	$4.30 
+1653	Chicken Bowl	1	$8.75 
+1653	Canned Soft Drink	1	$1.25 
+1653	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+1654	Steak Soft Tacos	1	$9.25 
+1654	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+1655	Chips and Guacamole	1	$4.45 
+1655	Chicken Bowl	1	$11.25 
+1655	Veggie Burrito	1	$11.25 
+1655	Barbacoa Bowl	1	$9.25 
+1655	Carnitas Soft Tacos	1	$9.25 
+1655	Bottled Water	3	$4.50 
+1656	Steak Burrito	1	$11.75 
+1656	Canned Soft Drink	1	$1.25 
+1657	Barbacoa Bowl	1	$11.75 
+1657	Carnitas Burrito	1	$11.75 
+1657	Canned Soft Drink	1	$1.25 
+1657	Canned Soft Drink	1	$1.25 
+1658	Steak Bowl	1	$9.25 
+1658	Chips and Guacamole	1	$4.45 
+1659	Chicken Burrito	1	$11.25 
+1659	Carnitas Soft Tacos	1	$11.75 
+1660	Chicken Burrito	2	$17.50 
+1660	Chips	1	$2.15 
+1660	Canned Soft Drink	1	$1.25 
+1660	Chicken Bowl	1	$11.25 
+1660	Bottled Water	10	$15.00 
+1660	Veggie Bowl	1	$11.25 
+1660	Chips and Guacamole	1	$4.45 
+1660	Chips and Guacamole	1	$4.45 
+1660	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+1661	Chicken Bowl	1	$11.25 
+1661	Chips	1	$2.15 
+1662	Canned Soft Drink	1	$1.25 
+1662	Bottled Water	1	$1.50 
+1662	Chicken Burrito	1	$8.75 
+1662	Chicken Soft Tacos	1	$11.25 
+1662	Chips and Fresh Tomato Salsa	1	$2.95 
+1663	Chicken Burrito	1	$11.25 
+1663	Canned Soft Drink	1	$1.25 
+1664	Chips	1	$2.15 
+1664	Chicken Bowl	1	$11.25 
+1664	Carnitas Bowl	1	$9.25 
+1664	6 Pack Soft Drink	1	$6.49 
+1665	Canned Soft Drink	1	$1.25 
+1665	Chicken Burrito	1	$8.75 
+1665	Chips	1	$2.15 
+1666	Chicken Bowl	1	$8.75 
+1666	6 Pack Soft Drink	1	$6.49 
+1667	Chicken Burrito	1	$11.25 
+1667	Bottled Water	1	$1.50 
+1668	Veggie Bowl	1	$8.75 
+1668	Chips and Guacamole	1	$4.45 
+1669	Chicken Burrito	1	$8.75 
+1669	Chips and Guacamole	1	$4.45 
+1670	Steak Soft Tacos	1	$9.25 
+1670	Barbacoa Soft Tacos	1	$9.25 
+1670	Canned Soft Drink	1	$1.25 
+1670	Canned Soft Drink	1	$1.25 
+1671	Chicken Bowl	1	$8.75 
+1671	Bottled Water	3	$4.50 
+1672	Chicken Bowl	1	$11.25 
+1672	Canned Soft Drink	1	$1.25 
+1673	Bottled Water	1	$1.50 
+1673	Steak Bowl	1	$9.25 
+1673	Chips	1	$2.15 
+1673	Chicken Bowl	1	$11.25 
+1673	Chips and Guacamole	1	$4.45 
+1674	Chicken Bowl	1	$11.25 
+1674	Chips and Guacamole	1	$4.45 
+1675	Chicken Bowl	1	$8.75 
+1675	Chips and Guacamole	1	$4.45 
+1676	Steak Burrito	1	$9.25 
+1676	Chips and Guacamole	1	$4.45 
+1676	Canned Soft Drink	1	$1.25 
+1677	Veggie Salad Bowl	1	$11.25 
+1677	Chips and Guacamole	1	$4.45 
+1678	Chicken Bowl	1	$8.75 
+1678	Chips and Guacamole	1	$4.45 
+1679	Chicken Salad Bowl	1	$8.75 
+1679	Chips	1	$2.15 
+1679	Chicken Salad Bowl	1	$8.75 
+1679	Chips and Guacamole	1	$4.45 
+1679	Chicken Bowl	1	$8.75 
+1680	Steak Bowl	1	$11.75 
+1680	Bottled Water	1	$1.50 
+1681	Chicken Burrito	1	$11.25 
+1681	Chips and Guacamole	1	$4.45 
+1682	Chicken Bowl	1	$8.75 
+1682	Chips	1	$2.15 
+1682	Bottled Water	1	$1.50 
+1683	Chicken Bowl	1	$8.75 
+1683	Chips and Guacamole	1	$4.45 
+1684	Chicken Burrito	1	$8.75 
+1684	Steak Bowl	1	$11.75 
+1685	Chicken Bowl	1	$8.75 
+1685	Chicken Burrito	1	$8.75 
+1686	Chicken Salad Bowl	1	$11.25 
+1686	Veggie Bowl	1	$11.25 
+1687	Bottled Water	1	$1.50 
+1687	Chicken Bowl	1	$8.75 
+1687	Chips	1	$2.15 
+1688	Steak Bowl	1	$11.75 
+1688	Chips	1	$2.15 
+1689	Steak Soft Tacos	1	$9.25 
+1689	Chips and Fresh Tomato Salsa	1	$2.95 
+1690	Steak Bowl	2	$18.50 
+1690	Canned Soft Drink	1	$1.25 
+1690	Chips and Guacamole	1	$4.45 
+1691	Chicken Bowl	1	$8.50 
+1691	Chicken Bowl	1	$8.50 
+1691	Chips and Guacamole	2	$8.50 
+1692	Chicken Salad Bowl	1	$11.25 
+1692	Carnitas Salad Bowl	1	$11.89 
+1692	Canned Soft Drink	1	$1.25 
+1693	Steak Salad Bowl	1	$9.39 
+1693	Chips and Guacamole	1	$4.45 
+1694	Chicken Bowl	1	$8.75 
+1694	Chips	1	$2.15 
+1694	Bottled Water	1	$1.50 
+1695	Steak Burrito	1	$11.75 
+1695	Chicken Soft Tacos	1	$8.75 
+1695	Steak Burrito	1	$9.25 
+1696	Carnitas Burrito	1	$9.25 
+1696	Chips and Guacamole	1	$4.45 
+1696	Canned Soft Drink	1	$1.25 
+1696	Chicken Burrito	1	$11.25 
+1697	Steak Bowl	1	$9.25 
+1697	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+1698	Chicken Bowl	1	$8.75 
+1698	Chicken Burrito	1	$8.75 
+1698	Chips	1	$2.15 
+1699	Chicken Burrito	1	$8.75 
+1699	Chicken Bowl	1	$11.25 
+1699	Chicken Bowl	1	$11.25 
+1700	Veggie Salad Bowl	1	$11.25 
+1700	Steak Burrito	1	$11.75 
+1701	Chicken Burrito	1	$11.25 
+1701	Chips	1	$2.15 
+1701	Veggie Bowl	1	$11.25 
+1701	Chips	1	$2.15 
+1702	Steak Bowl	1	$8.99 
+1702	Steak Burrito	1	$8.99 
+1703	Chicken Burrito	1	$8.75 
+1703	Steak Burrito	1	$9.25 
+1703	Barbacoa Soft Tacos	1	$9.25 
+1703	Chicken Burrito	1	$11.25 
+1704	Chicken Bowl	1	$8.75 
+1704	Chips and Guacamole	1	$4.45 
+1705	Chicken Burrito	1	$8.75 
+1705	Canned Soft Drink	1	$1.25 
+1705	Chips and Guacamole	1	$4.45 
+1706	Veggie Burrito	1	$11.25 
+1706	Canned Soft Drink	1	$1.25 
+1707	Chicken Burrito	1	$8.75 
+1707	Chicken Burrito	1	$8.75 
+1708	Veggie Bowl	1	$11.25 
+1708	Chicken Bowl	1	$8.75 
+1709	Canned Soft Drink	1	$1.25 
+1709	Canned Soft Drink	1	$1.25 
+1709	Canned Soft Drink	1	$1.25 
+1709	Steak Soft Tacos	1	$9.25 
+1710	Barbacoa Burrito	1	$11.75 
+1710	Chips	1	$2.15 
+1711	Chicken Soft Tacos	1	$8.75 
+1711	Chips and Guacamole	1	$4.45 
+1712	Chicken Bowl	1	$8.75 
+1712	Chips and Guacamole	1	$4.45 
+1713	Chicken Bowl	1	$11.25 
+1713	Steak Bowl	1	$9.25 
+1714	Chicken Burrito	1	$8.75 
+1714	Steak Soft Tacos	1	$9.25 
+1714	Chips and Guacamole	1	$4.45 
+1715	Steak Burrito	1	$11.75 
+1715	Chips and Guacamole	1	$4.45 
+1715	Canned Soft Drink	1	$1.25 
+1716	Chips and Guacamole	1	$4.45 
+1716	Steak Bowl	1	$11.75 
+1717	Steak Bowl	1	$9.25 
+1717	Chicken Bowl	1	$11.25 
+1717	Chips	1	$2.15 
+1718	Steak Bowl	2	$23.50 
+1718	Steak Bowl	1	$9.25 
+1718	Chips	1	$2.15 
+1719	Steak Burrito	2	$18.50 
+1719	Chicken Soft Tacos	1	$8.75 
+1719	Chips and Tomatillo Red Chili Salsa	2	$5.90 
+1720	Steak Salad Bowl	1	$11.89 
+1720	Chips and Guacamole	1	$4.45 
+1721	Veggie Bowl	1	$8.75 
+1721	Chips and Guacamole	1	$4.45 
+1722	Steak Burrito	1	$9.25 
+1722	Chips and Fresh Tomato Salsa	1	$2.95 
+1723	Veggie Burrito	1	$11.25 
+1723	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+1724	Chicken Burrito	1	$11.25 
+1724	Chicken Crispy Tacos	1	$11.25 
+1725	Chicken Bowl	1	$11.25 
+1725	Chips and Fresh Tomato Salsa	1	$2.95 
+1726	Steak Burrito	1	$11.75 
+1726	Carnitas Soft Tacos	1	$9.25 
+1727	Steak Burrito	1	$9.25 
+1727	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+1728	Chicken Bowl	1	$11.25 
+1728	Chips	1	$2.15 
+1729	Steak Burrito	1	$9.25 
+1729	Chips and Guacamole	2	$8.90 
+1730	Chicken Salad Bowl	1	$8.75 
+1730	Chicken Burrito	1	$11.25 
+1731	Chicken Salad Bowl	1	$11.25 
+1731	Veggie Bowl	1	$11.25 
+1732	Chicken Bowl	1	$8.75 
+1732	Chips	1	$2.15 
+1732	Canned Soft Drink	1	$1.25 
+1733	Chicken Bowl	1	$11.25 
+1733	Canned Soft Drink	1	$1.25 
+1734	Chicken Bowl	1	$8.75 
+1734	Chips and Guacamole	1	$4.45 
+1735	Canned Soft Drink	1	$1.25 
+1735	Chicken Bowl	1	$11.25 
+1735	Chicken Crispy Tacos	1	$11.25 
+1736	Barbacoa Burrito	1	$11.75 
+1736	Canned Soft Drink	1	$1.25 
+1737	Chicken Salad Bowl	1	$11.25 
+1737	Chicken Burrito	1	$11.25 
+1737	Chicken Bowl	1	$11.25 
+1738	Chicken Salad Bowl	1	$8.75 
+1738	Chicken Burrito	1	$8.75 
+1738	Steak Soft Tacos	2	$18.50 
+1739	Barbacoa Burrito	1	$11.75 
+1739	Canned Soft Drink	1	$1.25 
+1740	Chips and Guacamole	1	$4.45 
+1740	Barbacoa Burrito	1	$9.25 
+1741	6 Pack Soft Drink	1	$6.49 
+1741	Chips and Guacamole	1	$4.45 
+1741	Chicken Burrito	1	$8.75 
+1742	Chicken Bowl	1	$11.25 
+1742	6 Pack Soft Drink	1	$6.49 
+1742	Steak Bowl	1	$11.75 
+1743	Chicken Burrito	1	$8.75 
+1743	Steak Bowl	1	$9.25 
+1744	Chicken Bowl	1	$11.25 
+1744	Chips	1	$2.15 
+1745	Chicken Bowl	1	$8.75 
+1745	Chips and Guacamole	1	$4.45 
+1745	Chicken Crispy Tacos	1	$11.25 
+1745	Chips and Guacamole	1	$4.45 
+1746	Chicken Burrito	1	$8.75 
+1746	Carnitas Bowl	1	$9.25 
+1746	Chips and Guacamole	1	$4.45 
+1746	Canned Soft Drink	1	$1.25 
+1746	Canned Soft Drink	1	$1.25 
+1747	Chicken Bowl	1	$8.75 
+1747	Chicken Burrito	1	$11.25 
+1748	Barbacoa Bowl	1	$11.75 
+1748	Chips	1	$2.15 
+1748	Steak Burrito	1	$11.75 
+1749	Chips and Guacamole	1	$4.45 
+1749	Steak Burrito	1	$11.75 
+1749	Canned Soft Drink	1	$1.25 
+1750	Carnitas Burrito	1	$11.75 
+1750	Steak Bowl	1	$11.75 
+1751	Chicken Salad Bowl	1	$11.25 
+1751	Chips	2	$4.30 
+1751	Barbacoa Salad Bowl	1	$9.39 
+1752	Steak Salad Bowl	1	$9.39 
+1752	Chicken Bowl	1	$8.75 
+1753	Canned Soft Drink	1	$1.25 
+1753	Steak Burrito	1	$9.25 
+1753	Chips and Guacamole	1	$4.45 
+1754	Chicken Bowl	1	$11.25 
+1754	Canned Soft Drink	1	$1.25 
+1755	Chicken Bowl	1	$8.75 
+1755	Canned Soft Drink	1	$1.25 
+1755	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+1756	Chicken Bowl	1	$11.25 
+1756	Chips and Guacamole	1	$4.45 
+1757	Chicken Burrito	1	$8.75 
+1757	Bottled Water	1	$1.50 
+1757	Chips and Guacamole	1	$4.45 
+1758	Chips and Guacamole	1	$4.45 
+1758	Steak Burrito	1	$9.25 
+1759	Chicken Bowl	1	$8.75 
+1759	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+1759	Canned Soft Drink	1	$1.25 
+1760	Chicken Bowl	1	$11.25 
+1760	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+1761	Chicken Bowl	1	$8.75 
+1761	Chicken Burrito	1	$8.75 
+1761	Chicken Burrito	1	$8.75 
+1761	Chicken Burrito	1	$8.75 
+1761	Chips	2	$4.30 
+1762	Steak Burrito	1	$9.25 
+1762	Steak Salad Bowl	1	$9.39 
+1763	Chips and Guacamole	1	$4.45 
+1763	Carnitas Burrito	1	$9.25 
+1763	Canned Soft Drink	1	$1.25 
+1764	Chicken Bowl	2	$22.50 
+1764	Chips and Guacamole	1	$4.45 
+1764	Chips and Fresh Tomato Salsa	1	$2.95 
+1764	Chips	1	$2.15 
+1764	Steak Bowl	2	$23.50 
+1765	Carnitas Bowl	1	$11.75 
+1765	Chips	1	$2.15 
+1765	Canned Soft Drink	1	$1.25 
+1766	Steak Burrito	1	$9.25 
+1766	Chips and Guacamole	1	$4.45 
+1766	Chicken Bowl	1	$11.25 
+1766	Steak Burrito	1	$11.75 
+1767	Chicken Bowl	2	$17.50 
+1768	Chicken Bowl	1	$8.75 
+1768	Carnitas Burrito	1	$11.75 
+1768	Chicken Soft Tacos	1	$11.25 
+1769	Chicken Salad Bowl	1	$8.75 
+1769	Chips and Guacamole	1	$4.45 
+1770	Barbacoa Bowl	1	$11.75 
+1770	Bottled Water	1	$1.50 
+1771	Chicken Bowl	1	$8.75 
+1771	Chicken Bowl	1	$8.75 
+1772	Steak Burrito	1	$11.75 
+1772	Steak Burrito	1	$9.25 
+1772	Chicken Burrito	1	$11.25 
+1773	Chips and Guacamole	1	$4.45 
+1773	Steak Bowl	1	$11.75 
+1774	Carnitas Crispy Tacos	1	$9.25 
+1774	Chips and Guacamole	1	$4.45 
+1775	Veggie Bowl	1	$11.25 
+1775	Chicken Crispy Tacos	1	$8.75 
+1775	Chicken Burrito	1	$8.75 
+1776	Chips	1	$2.15 
+1776	Bottled Water	1	$1.50 
+1776	Chicken Burrito	1	$8.75 
+1777	Chips and Guacamole	1	$4.45 
+1777	Steak Bowl	1	$9.25 
+1778	Chicken Burrito	1	$8.75 
+1778	Bottled Water	1	$1.50 
+1778	Canned Soft Drink	1	$1.25 
+1778	Canned Soft Drink	1	$1.25 
+1779	Canned Soft Drink	1	$1.25 
+1779	Chicken Bowl	1	$8.75 
+1779	Chips and Tomatillo Red Chili Salsa	1	$2.95 
+1780	Chicken Salad Bowl	1	$11.25 
+1780	Veggie Bowl	1	$11.25 
+1781	Bottled Water	1	$1.50 
+1781	Steak Bowl	1	$11.75 
+1782	Veggie Burrito	1	$11.25 
+1782	Chips	1	$2.15 
+1783	Steak Burrito	1	$9.25 
+1783	Chicken Soft Tacos	1	$8.75 
+1784	Carnitas Bowl	1	$11.75 
+1784	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+1785	Bottled Water	1	$1.50 
+1785	Chicken Burrito	1	$8.75 
+1785	Bottled Water	1	$1.50 
+1785	Canned Soft Drink	1	$1.25 
+1786	Chicken Bowl	1	$8.75 
+1786	Carnitas Burrito	1	$11.75 
+1786	Chicken Bowl	1	$11.25 
+1786	Chicken Bowl	1	$11.25 
+1786	Barbacoa Bowl	1	$11.75 
+1786	Chicken Bowl	1	$11.25 
+1786	Carnitas Burrito	1	$11.75 
+1786	Chicken Bowl	1	$8.75 
+1786	Chips and Guacamole	4	$17.80 
+1786	Canned Soft Drink	4	$5.00 
+1786	Canned Soft Drink	4	$5.00 
+1787	Chicken Burrito	1	$8.75 
+1787	Chips and Tomatillo Green Chili Salsa	1	$2.95 
+1787	Canned Soft Drink	1	$1.25 
+1788	Chicken Bowl	1	$11.25 
+1788	Canned Soft Drink	1	$1.25 
+1788	Chips	1	$2.15 
+1789	Chicken Bowl	1	$11.25 
+1789	Canned Soft Drink	2	$2.50 
+1789	Carnitas Bowl	1	$9.25 
+1790	Canned Soft Drink	1	$1.25 
+1790	Chicken Soft Tacos	1	$11.25 
+1790	Chips and Fresh Tomato Salsa	1	$2.95 
+1791	Carnitas Bowl	1	$11.75 
+1791	Chips	1	$2.15 
+1792	Chicken Bowl	1	$11.25 
+1792	Bottled Water	1	$1.50 
+1793	Steak Burrito	1	$8.99 
+1793	Chips	1	$1.99 
+1793	Barbacoa Bowl	1	$11.49 
+1794	Chicken Bowl	1	$8.75 
+1794	Chips and Guacamole	1	$4.45 
+1794	Canned Soft Drink	1	$1.25 
+1795	Chicken Soft Tacos	1	$8.75 
+1795	Chips and Guacamole	1	$4.45 
+1795	Canned Soft Drink	1	$1.25 
+1796	Bottled Water	1	$1.50 
+1796	Steak Bowl	1	$11.75 
+1797	Veggie Burrito	1	$8.75 
+1797	Chicken Salad Bowl	1	$8.75 
+1798	Chicken Burrito	1	$11.25 
+1798	6 Pack Soft Drink	1	$6.49 
+1798	Steak Crispy Tacos	1	$11.75 
+1799	Chicken Burrito	1	$8.75 
+1799	Chips	1	$2.15 
+1799	Canned Soft Drink	1	$1.25 
+1800	6 Pack Soft Drink	1	$6.49 
+1800	Chicken Burrito	1	$8.75 
+1800	Chips and Guacamole	1	$4.45 
+1801	Chicken Burrito	1	$8.75 
+1801	Chips and Guacamole	1	$4.45 
+1802	Chicken Bowl	1	$8.75 
+1802	Chicken Burrito	1	$11.25 
+1803	Chips and Guacamole	1	$4.45 
+1803	6 Pack Soft Drink	1	$6.49 
+1803	Steak Burrito	1	$9.25 
+1804	Chicken Bowl	1	$8.75 
+1804	Canned Soft Drink	1	$1.25 
+1804	Chips and Guacamole	1	$4.45 
+1805	Chicken Bowl	1	$11.25 
+1805	Veggie Salad Bowl	1	$8.75 
+1806	Bottled Water	1	$1.50 
+1806	Chicken Burrito	1	$8.75 
+1806	Bottled Water	1	$1.50 
+1806	Canned Soft Drink	1	$1.25 
+1807	Steak Burrito	1	$9.25 
+1807	Steak Salad Bowl	1	$9.39 
+1808	Chips and Guacamole	1	$4.45 
+1808	Steak Soft Tacos	1	$9.25 
+1809	Chicken Soft Tacos	1	$8.75 
+1809	Chips and Guacamole	1	$4.45 
+1809	Canned Soft Drink	1	$1.25 
+1810	Chicken Bowl	1	$11.25 
+1810	Steak Crispy Tacos	1	$11.75 
+1811	Chicken Bowl	1	$8.75 
+1811	Chicken Burrito	1	$11.25 
+1811	Carnitas Soft Tacos	1	$9.25 
+1812	Chicken Burrito	1	$8.75 
+1812	Chicken Burrito	1	$11.25 
+1812	Canned Soft Drink	2	$2.50 
+1813	Chicken Salad Bowl	2	$17.50 
+1814	Carnitas Bowl	1	$9.25 
+1814	Chips and Guacamole	1	$4.45 
+1815	Chicken Bowl	1	$11.25 
+1815	Canned Soft Drink	1	$1.25 
+1816	Chicken Burrito	1	$8.75 
+1816	Chips and Guacamole	1	$4.45 
+1817	Bottled Water	1	$1.50 
+1817	Chicken Burrito	1	$8.75 
+1817	Bottled Water	1	$1.50 
+1817	Canned Soft Drink	1	$1.25 
+1818	Steak Salad Bowl	1	$9.39 
+1818	Veggie Salad Bowl	1	$8.75 
+1819	Chicken Bowl	1	$8.75 
+1819	Chips and Guacamole	1	$4.45 
+1820	Chicken Bowl	1	$11.25 
+1820	Canned Soft Drink	1	$1.25 
+1821	Carnitas Burrito	1	$9.25 
+1821	Chips and Guacamole	1	$4.45 
+1822	Chicken Salad Bowl	1	$11.25 
+1822	Chicken Bowl	1	$8.75 
+1822	Bottled Water	2	$3.00 
+1823	Chicken Bowl	1	$8.75 
+1823	Chips	1	$2.15 
+1823	Canned Soft Drink	1	$1.25 
+1824	Chicken Bowl	1	$11.25 
+1824	Chicken Bowl	1	$11.25 
+1824	Chips and Guacamole	1	$4.45 
+1825	Chicken Bowl	1	$11.25 
+1825	Chicken Bowl	1	$11.25 
+1825	Chicken Bowl	1	$8.75 
+1825	Barbacoa Burrito	1	$11.75 
+1825	Carnitas Bowl	1	$11.75 
+1825	Barbacoa Bowl	1	$11.75 
+1826	Chicken Bowl	1	$8.75 
+1826	Chips and Guacamole	1	$4.45 
+1826	Canned Soft Drink	1	$1.25 
+1826	Bottled Water	1	$1.50 
+1827	Chicken Bowl	1	$8.75 
+1827	Chips and Guacamole	1	$4.45 
+1827	Canned Soft Drink	1	$1.25 
+1827	Barbacoa Burrito	1	$9.25 
+1827	Barbacoa Burrito	1	$9.25 
+1828	Chicken Bowl	1	$8.75 
+1828	Chips and Guacamole	1	$4.45 
+1828	Canned Soft Drink	1	$1.25 
+1829	Steak Burrito	1	$11.75 
+1829	Veggie Burrito	1	$11.25 
+1829	Canned Soft Drink	1	$1.25 
+1830	Steak Burrito	1	$11.75 
+1830	Veggie Burrito	1	$11.25 
+1831	Carnitas Bowl	1	$9.25 
+1831	Chips	1	$2.15 
+1831	Bottled Water	1	$1.50 
+1832	Chicken Soft Tacos	1	$8.75 
+1832	Chips and Guacamole	1	$4.45 
+1833	Steak Burrito	1	$11.75 
+1833	Steak Burrito	1	$11.75 
+1834	Chicken Salad Bowl	1	$11.25 
+1834	Chicken Salad Bowl	1	$8.75 
+1834	Chicken Salad Bowl	1	$8.75 
